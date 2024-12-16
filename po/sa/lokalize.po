@@ -1,35 +1,32 @@
-# Copyright (C) YEAR This_file_is_part_of_KDE
-# This file is distributed under the same license as the PACKAGE package.
+# SPDX-FileCopyrightText: 2024 Sanskrit translations for lokalize package
+# Copyright (C) 2024 This file is copyright:
+# This file is distributed under the same license as the lokalize package.
+# Kali <EMAIL@ADDRESS>, 2024.
 #
-# Translators:
-# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2011.
-# obsoleteman <tulliana@gmail.com>, 2008-2010,2012.
-# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015, 2017, 2020.
-# SPDX-FileCopyrightText: 2022, 2023, 2024 Emir SARI <emir_sari@icloud.com>
 msgid ""
 msgstr ""
-"Project-Id-Version: kdesdk-kde4\n"
+"Project-Id-Version: lokalize\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-11-24 00:43+0000\n"
-"PO-Revision-Date: 2024-12-11 22:19+0300\n"
-"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
-"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
-"Language: tr\n"
+"PO-Revision-Date: 2024-12-14 01:12+0530\n"
+"Last-Translator: kali <skkalwar999@gmail.com>\n"
+"Language-Team: Sanskrit <kde-i18n-doc@kde.org>\n"
+"Language: sa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 25.03.70\n"
+"Plural-Forms: nplurals=2; plural=(n>2);\n"
+"X-Generator: Lokalize 24.08.2\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Serdar Soytetir, H. İbrahim Güngör, Volkan Gezer"
+msgstr "भवतः नामानि"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "tulliana@gmail.com, ibrahim@pardus.org.tr, volkangezer@gmail.com"
+msgstr "भवतः ईमेलपत्राणि"
 
 #. i18n: tag collection attribute text
 #. i18n: tag collection attribute comment
@@ -37,85 +34,85 @@ msgstr "tulliana@gmail.com, ibrahim@pardus.org.tr, volkangezer@gmail.com"
 #: scripts/msgfmt.rc:3 scripts/xliff2odf.rc:3
 #, kde-format
 msgid "Tools"
-msgstr "Araçlar"
+msgstr "उपकरणाः"
 
 #. i18n: tag script attribute text
 #: scripts/msgfmt.rc:4
 #, kde-format
 msgid "Compile .po"
-msgstr ".PO derle"
+msgstr "संकलन .पो"
 
 #. i18n: tag script attribute comment
 #: scripts/msgfmt.rc:4
 #, kde-format
 msgid "Compile .po and make it available to applications"
-msgstr ".PO dosyasını derle ve uygulamalar için kullanılabilir yap"
+msgstr ".po संकलितं कृत्वा अनुप्रयोगेभ्यः उपलब्धं कुर्वन्तु"
 
 #: scripts/msgmerge.py:33
 msgid "Gettext not found"
-msgstr "Gettext bulunamadı"
+msgstr "Gettext न प्राप्तम्"
 
 #: scripts/msgmerge.py:33
 msgid "Install gettext package for this feature to work"
-msgstr "Bu özelliğin çalışması için gettext paketini kurun"
+msgstr "अस्य विशेषतायाः कार्यं कर्तुं gettext संकुलं संस्थापयन्तु"
 
 #: scripts/msgmerge.py:44
 msgid "Updating from templates..."
-msgstr "Şablonlardan güncelleniyor…"
+msgstr "टेम्पलेट् तः अद्यतनं भवति..."
 
 #: scripts/msgmerge.py:71
 msgid "Merge has been completed"
-msgstr "Birleştirme tamamlandı"
+msgstr "विलयः सम्पन्नः अस्ति"
 
 #: scripts/msgmerge.py:71
 msgid ""
 "Merge has been completed.\n"
 "Template modification time: %1 (%2 days ago)."
 msgstr ""
-"Birleştirme tamamlandı.\n"
-"Şablonun düzenlenme zamanı: %1 (%2 gün önce)."
+"विलयः सम्पन्नः अस्ति।\n"
+"टेम्पलेट् परिवर्तनसमयः %1 (%2 दिवसपूर्वम्)।"
 
 #: scripts/msgmerge.py:74
 msgid "Merge failed."
-msgstr "Birleştirme başarısız."
+msgstr "विलयः असफलः अभवत् ।"
 
 #: scripts/msgmerge.py:74
 msgid ""
 "Could not find template file for the merge:\n"
 "%1"
 msgstr ""
-"Birleştirmek için şablon dosyası bulunamadı:\n"
+"विलयस्य कृते टेम्पलेट् सञ्चिकां न प्राप्तवती:\n"
 "%1"
 
 #. i18n: tag collection attribute text
 #: scripts/msgmerge.rc:3
 #, kde-format
 msgid "File"
-msgstr "Dosya"
+msgstr "संचिका"
 
 #. i18n: tag script attribute text
 #: scripts/msgmerge.rc:4
 #, kde-format
 msgid "Update file from template"
-msgstr "Dosyayı şablondan güncelle"
+msgstr "टेम्पलेट् तः सञ्चिकां अद्यतनं कुर्वन्तु"
 
 #. i18n: tag script attribute text
 #: scripts/xliff2odf.rc:4
 #, kde-format
 msgid "Merge into ODF"
-msgstr "ODF içerisine birleştir"
+msgstr "ODF मध्ये विलीनीकरणं कुर्वन्तु"
 
 #. i18n: tag script attribute comment
 #: scripts/xliff2odf.rc:4
 #, kde-format
 msgid "Generates translated version of ODF document"
-msgstr "ODF belgesinin çevrilmiş halini oluşturur"
+msgstr "ODF दस्तावेजस्य अनुवादितं संस्करणं जनयति"
 
 #: src/alttransview.cpp:38 src/alttransview.cpp:41
 #, kde-format
 msgctxt "@title:window"
 msgid "Alternate Translations"
-msgstr "Alternatif Çeviriler"
+msgstr "वैकल्पिक अनुवाद"
 
 #: src/alttransview.cpp:159
 #, kde-format
@@ -128,48 +125,48 @@ msgid ""
 "\n"
 "Do you want to show the view with the data?"
 msgstr ""
-"Alternatif Çeviriler görünümünde kullanılabilir veri mevcut.\n"
+"Alternate Translations view इत्यत्र उपयोगी दत्तांशः उपलभ्यते ।\n"
 "\n"
-"Gettext PO dosyaları için, bu geçerli kaynak metin POT şablonu tabanlı PO "
-"güncellenirken msgmerge tarafından bulunan belirsiz çevirilerdeki metnin "
-"farkını gösterir.\n"
+"Gettext PO सञ्चिकानां कृते एतत् वर्तमानस्रोतपाठस्य स्रोतपाठस्य च मध्ये अन्तरं प्रदर्शयति यत् "
+"POT टेम्पलेट् आधारितं PO अद्यतनं कुर्वन् msgmerge द्वारा प्राप्तस्य अस्पष्टानुवादस्य अनुरूपं "
+"भवति\n"
 "\n"
-"Verilerle birlikte görüntülemek istiyor musunuz?"
+"किं भवन्तः दत्तांशसहितं दृश्यं दर्शयितुम् इच्छन्ति?"
 
 #: src/alttransview.cpp:163
 #, kde-format
 msgctxt "@title"
 msgid "Alternative Translations Available"
-msgstr "Kullanılabilir Alternatif Çeviriler"
+msgstr "वैकल्पिक अनुवाद उपलब्ध"
 
 #: src/alttransview.cpp:164
 #, kde-format
 msgctxt "@action"
 msgid "Show Data View"
-msgstr "Veri Görünümünü Göster"
+msgstr "Data View दर्शयतु"
 
 #: src/alttransview.cpp:180
 #, kde-format
 msgid "From alternate translations folder"
-msgstr "Alternatif çeviriler klasöründen"
+msgstr "वैकल्पिकअनुवादपुटतः"
 
 #: src/alttransview.cpp:203
 #, kde-format
 msgctxt "Title for an alternative translation entry context diff."
 msgid "Comparison with previous context:"
-msgstr "Önceki bağlamla karşılaştırma:"
+msgstr "पूर्वसन्दर्भेण सह तुलना : १."
 
 #: src/alttransview.cpp:218
 #, kde-format
 msgctxt "Title for alternative translation source diff."
 msgid "Comparison with previous source:"
-msgstr "Önceki kaynakla karşılaştırma:"
+msgstr "पूर्वस्रोतेन सह तुलना : १."
 
 #: src/alttransview.cpp:289
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Origin: %1"
-msgstr "Köken: %1"
+msgstr "उत्पत्तिः %1"
 
 #: src/alttransview.cpp:296
 #, kde-format
@@ -185,213 +182,212 @@ msgid ""
 "into translation. Drop translation file onto this toolview to use it as a "
 "source for additional alternate translations."
 msgstr ""
-"Bazen metin değiştiğinde, çevirisi kullanılamaz olur ve gözden geçirme "
-"gerekli (onay durumunu kaybeder) veya (yalnızca XLIFF dosyası durumunda) "
-"birime yardım edebilmek için alternatif çeviriler bölümüne taşınır. Bu araç "
-"görünümü, ayrıca geçerli kaynak metni ile önceki kaynak metni arasındaki "
-"farkı gösterir. Böylece mevcut çeviriyi güncel tutmak için hangi "
-"değişikliğin uygulanması gerektiğini görebilirsiniz. Araç görünümündeki "
-"herhangi bir sözcüğe çift tıklamak, sözcüğü çeviriye ekler. Çeviri dosyasını "
-"bu araç görünümüne bırakarak alternatif çeviriler için bir kaynak olarak "
-"kullanabilirsiniz."
+"कदाचित्, यदि स्रोतपाठः परिवर्तितः भवति तर्हि तस्य अनुवादः अप्रचलितः भवति तथा च "
+"समीक्षायाः आवश्यकता इति चिह्नितः भवति (अर्थात्, अनुमोदनस्थितिः नष्टा भवति), अथवा "
+"(केवलं XLIFF सञ्चिकायाः सन्दर्भे) एककस्य सह वैकल्पिकानुवादविभागे स्थानान्तरितम् इदं "
+"toolview वर्तमानस्रोतस्ट्रिंग् पूर्वस्रोतस्ट्रिंग् च मध्ये अन्तरं अपि दर्शयति, येन भवान् सहजतया "
+"द्रष्टुं शक्नोति यत् विद्यमानस्य अनुवादस्य वर्तमानस्रोतस्य प्रतिबिम्बं कर्तुं के परिवर्तनानि "
+"प्रयोक्तव्यानि इति अस्मिन् toolview मध्ये कस्यापि शब्दस्य द्विवारं क्लिक् करणेन अनुवादे "
+"सम्मिलितं भवति । अतिरिक्तवैकल्पिकअनुवादानाम् स्रोतरूपेण उपयोगाय अनुवादसञ्चिकां अस्मिन् "
+"toolview इत्यत्र पातयन्तु ।"
 
 #: src/alttransview.cpp:328
 #, kde-format
 msgctxt "@item Undo action"
 msgid "Use alternate translation"
-msgstr "Alternatif Çeviriyi Kullan"
+msgstr "वैकल्पिक अनुवादस्य प्रयोगं कुर्वन्तु"
 
 #: src/binunitsview.cpp:109
 #, kde-format
 msgid "no"
-msgstr "hayır"
+msgstr "नहि"
 
 #: src/binunitsview.cpp:109
 #, kde-format
 msgid "yes"
-msgstr "evet"
+msgstr "आम्‌"
 
 #: src/binunitsview.cpp:129
 #, kde-format
 msgctxt "@title:column"
 msgid "Source"
-msgstr "Kaynak"
+msgstr "स्रोतः"
 
 #: src/binunitsview.cpp:131
 #, kde-format
 msgctxt "@title:column"
 msgid "Target"
-msgstr "Hedef"
+msgstr "लक्ष्य"
 
 #: src/binunitsview.cpp:133
 #, kde-format
 msgctxt "@title:column"
 msgid "Approved"
-msgstr "Onaylı"
+msgstr "अनुमत"
 
 #: src/binunitsview.cpp:140
 #, kde-format
 msgctxt "@title toolview name"
 msgid "Binary Units"
-msgstr "İkili Birimler"
+msgstr "द्विचक्रीय इकाइयाँ"
 
 #: src/binunitsview.cpp:178
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Set the file"
-msgstr "Dosyayı Ayarla"
+msgstr "सञ्चिकां सेट् कुर्वन्तु"
 
 #: src/binunitsview.cpp:179
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Use source file"
-msgstr "Kaynak Dosya Kullan"
+msgstr "स्रोतसञ्चिकायाः उपयोगं कुर्वन्तु"
 
 #: src/catalog/catalog.cpp:43
 #, kde-format
 msgid "All supported files (*.po *.pot *.xlf *.xliff *.ts)"
-msgstr "Desteklenen tüm dosyalar (*.po *.pot *.xlf *.xliff *.ts)"
+msgstr "सर्वाणि समर्थितसञ्चिकाः (*.po *.pot *.xlf *.xliff *.ts)"
 
 #: src/catalog/catalog.cpp:44
 #, kde-format
 msgid "Gettext (*.po *.pot)"
-msgstr "Gettext (*.po *.pot)"
+msgstr "Gettext (*.पो *.घट) २."
 
 #: src/catalog/catalog.cpp:46
 #, kde-format
 msgid "All supported files (*.po *.xlf *.xliff *.ts)"
-msgstr "Tüm desteklenen dosyalar (*.po *.xlf *.xliff *.ts)"
+msgstr "सर्वाणि समर्थितसञ्चिकाः (*.po *.xlf *.xliff *.ts)"
 
 #: src/catalog/catalog.cpp:47
 #, kde-format
 msgid "Gettext (*.po)"
-msgstr "Gettext (*.po)"
+msgstr "पाठः प्राप्तुम् (*.po) ."
 
 #: src/catalog/catalog.cpp:49
 #, kde-format
 msgid "XLIFF (*.xlf *.xliff)"
-msgstr "XLIFF (*.xlf *.xliff)"
+msgstr "XLIFF (*.xlf *.xliff) २."
 
 #: src/catalog/catalog.cpp:50
 #, kde-format
 msgid "Linguist (*.ts)"
-msgstr "Dil dosyası (*.ts)"
+msgstr "भाषाविद (*.ts) २."
 
 #: src/catalog/catalog.cpp:59
 #, kde-format
 msgid "New"
-msgstr "Yeni"
+msgstr "नूतनम्‌"
 
 #: src/catalog/catalog.cpp:60
 #, kde-format
 msgid "Needs translation"
-msgstr "Çevrilmesi gerekiyor"
+msgstr "अनुवादस्य आवश्यकता अस्ति"
 
 #: src/catalog/catalog.cpp:61
 #, kde-format
 msgid "Needs full localization"
-msgstr "Tam yerelleştirme gerekiyor"
+msgstr "पूर्णस्थानीयीकरणस्य आवश्यकता अस्ति"
 
 #: src/catalog/catalog.cpp:62
 #, kde-format
 msgid "Needs adaptation"
-msgstr "Uygun hale getirilmesi gerekiyor"
+msgstr "अनुकूलनस्य आवश्यकता अस्ति"
 
 #: src/catalog/catalog.cpp:63
 #, kde-format
 msgid "Translated"
-msgstr "Çevrilen"
+msgstr "अनुवादित"
 
 #: src/catalog/catalog.cpp:64
 #, kde-format
 msgid "Needs translation review"
-msgstr "Çevirinin gözden geçirilmesi gerekiyor"
+msgstr "अनुवादसमीक्षायाः आवश्यकता अस्ति"
 
 #: src/catalog/catalog.cpp:65
 #, kde-format
 msgid "Needs full localization review"
-msgstr "Tam yerelleştirme gözden geçirmesi gerekiyor"
+msgstr "पूर्णस्थानीयकरणसमीक्षायाः आवश्यकता अस्ति"
 
 #: src/catalog/catalog.cpp:66
 #, kde-format
 msgid "Needs adaptation review"
-msgstr "Uygunluk için gözden geçirme gerekiyor"
+msgstr "अनुकूलनसमीक्षायाः आवश्यकता अस्ति"
 
 #: src/catalog/catalog.cpp:67
 #, kde-format
 msgid "Final"
-msgstr "Son"
+msgstr "अन्तिमः"
 
 #: src/catalog/catalog.cpp:68
 #, kde-format
 msgid "Signed-off"
-msgstr "İmzalayan"
+msgstr "हस्ताक्षरितम्-अफ"
 
 #: src/catalog/catalogstring.cpp:57
 #, kde-format
 msgctxt "XLIFF inline tag name"
 msgid "Start of paired tag"
-msgstr "Eşleşmiş künyelerin başlangıcı"
+msgstr "युग्मितटैगस्य आरम्भः"
 
 #: src/catalog/catalogstring.cpp:58
 #, kde-format
 msgctxt "XLIFF inline tag name"
 msgid "End of paired tag"
-msgstr "Eşleşmiş künyelerin sonu"
+msgstr "युग्मित टैगस्य अन्तः"
 
 #: src/catalog/catalogstring.cpp:59
 #, kde-format
 msgctxt "XLIFF inline tag name"
 msgid "Stand-alone tag"
-msgstr "Tekli künye"
+msgstr "एकान्ते टैग"
 
 #: src/catalog/catalogstring.cpp:60
 #, kde-format
 msgctxt "XLIFF inline tag name"
 msgid "Isolated tag"
-msgstr "Yalıtılmış künye"
+msgstr "पृथक टैग"
 
 #: src/catalog/catalogstring.cpp:62
 #, kde-format
 msgctxt "XLIFF inline tag name"
 msgid "Marker"
-msgstr "İmleyici"
+msgstr "मार्करः"
 
 #: src/catalog/catalogstring.cpp:63
 #, kde-format
 msgctxt "XLIFF inline tag name"
 msgid "Generic group placeholder"
-msgstr "Genel grup ayırıcı"
+msgstr "सामान्य समूह स्थानधारक"
 
 #: src/catalog/catalogstring.cpp:64
 #, kde-format
 msgctxt "XLIFF inline tag name"
 msgid "Sub-flow"
-msgstr "Alt akış"
+msgstr "उपप्रवाहः"
 
 #: src/catalog/catalogstring.cpp:66
 #, kde-format
 msgctxt "XLIFF inline tag name"
 msgid "Generic placeholder"
-msgstr "Genel yer tutucu"
+msgstr "सामान्य स्थानधारक"
 
 #: src/catalog/catalogstring.cpp:67
 #, kde-format
 msgctxt "XLIFF inline tag name"
 msgid "Start of paired placeholder"
-msgstr "Eşleşmiş ayırıcının başlangıcı"
+msgstr "युग्मितस्थानधारकस्य आरम्भः"
 
 #: src/catalog/catalogstring.cpp:68
 #, kde-format
 msgctxt "XLIFF inline tag name"
 msgid "End of paired placeholder"
-msgstr "Eşleşmiş ayırıcının sonu"
+msgstr "युग्मितस्थानधारकस्य अन्तः"
 
 #: src/catalog/catalogstring.cpp:112
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "abbreviation"
-msgstr "kısaltma"
+msgstr "संक्षेपः"
 
 #: src/catalog/catalogstring.cpp:113
 #, kde-format
@@ -400,8 +396,7 @@ msgid ""
 "abbreviated form: a term resulting from the omission of any part of the full "
 "term while designating the same concept"
 msgstr ""
-"kısaltılmış biçim: aynı kavramın belirlenmesi sırasında tüm koşulun bir "
-"parçasının atılmasından doğan bir koşul"
+"संक्षिप्तरूपम् : समाना अवधारणा निर्दिशन् पूर्णपदस्य कस्यापि भागस्य लोपात् उत्पन्नः पदः"
 
 #: src/catalog/catalogstring.cpp:115
 #, kde-format
@@ -410,8 +405,8 @@ msgid ""
 "abbreviation: an abbreviated form of a simple term resulting from the "
 "omission of some of its letters (e.g. 'adj.' for 'adjective')"
 msgstr ""
-"kısaltma: bazı sözcük harflerinin atılmasından doğan bir terimin kısaltılmış "
-"formu (örn. “sıfat” yerine “s.”)"
+"abbreviation: सरलपदस्य संक्षिप्तरूपं यत् तस्य केषाञ्चन अक्षराणां लोपस्य परिणामः भवति "
+"(उदा. 'विशेषणस्य' कृते 'विशेषणम्')"
 
 #: src/catalog/catalogstring.cpp:117
 #, kde-format
@@ -421,9 +416,8 @@ msgid ""
 "of a multiword term strung together into a sequence pronounced only "
 "syllabically (e.g. 'radar' for 'radio detecting and ranging')"
 msgstr ""
-"baş harf: çoklu sözcük içeren terimin tümündeki sözcükler kullanılarak "
-"oluşturulan ve hecesel olarak okunulan bir kısaltılmış biçim (örn. “toplu "
-"konut idaresi” için “toki”)"
+"संक्षिप्तनाम: बहुशब्दपदस्य पूर्णरूपात् अक्षरैः निर्मितस्य पदस्य संक्षिप्तरूपं यत् केवलं अक्षररूपेण "
+"उच्चारितक्रमे तारितं भवति (उदा. 'रेडियो-परिचयः, रेन्जिंग् च' इति 'रडार')"
 
 #: src/catalog/catalogstring.cpp:119
 #, kde-format
@@ -432,7 +426,7 @@ msgid ""
 "appellation: a proper-name term, such as the name of an agency or other "
 "proper entity"
 msgstr ""
-"unvan: bir acente veya diğer bir varlığın adı gibi kullanılan bir ad terimi"
+"appellation: एजन्सी इत्यस्य वा अन्यस्य वा समुचितस्य वा नाम इत्यादिकं सम्यक् नाम पदम्"
 
 #: src/catalog/catalogstring.cpp:121
 #, kde-format
@@ -443,9 +437,9 @@ msgid ""
 "series of utterances, even though they do not necessarily have to maintain "
 "immediate proximity to one another"
 msgstr ""
-"düzenleme: birbirlerine hemen yakınlık koruması gereksinimi olmamasına "
-"rağmen, bir veya birden fazla ifadenin içerisinde gerçekleşmesi gereken "
-"bileşenlerin beraberliği ile tekrarlanan bir sözcük bileşimidir"
+"collocation: एकः पुनरावर्तनीयः शब्दसंयोगः यस्य लक्षणं भवति यत् कोलोकेशनस्य घटकाः "
+"उच्चारणस्य वा उच्चारणस्य श्रृङ्खलायाः वा अन्तः सह-उपस्थिताः भवेयुः, यद्यपि तेषां परस्परं "
+"तत्कालं सामीप्यं न स्थापनीयम्"
 
 #: src/catalog/catalogstring.cpp:123
 #, kde-format
@@ -454,14 +448,14 @@ msgid ""
 "common name: a synonym for an international scientific term that is used in "
 "general discourse in a given language"
 msgstr ""
-"ortak ad: bir dilde genel bir söylevde kullanılan uluslararası bir terim "
-"için kısaltma"
+"सामान्यनाम : अन्तर्राष्ट्रीयवैज्ञानिकपदस्य पर्यायः यः दत्तभाषायां सामान्यप्रवचने प्रयुक्तः "
+"भवति"
 
 #: src/catalog/catalogstring.cpp:124
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "date and/or time"
-msgstr "tarih ve/veya saat"
+msgstr "तिथिः/समयः वा"
 
 #: src/catalog/catalogstring.cpp:126
 #, kde-format
@@ -471,9 +465,8 @@ msgid ""
 "that two mathematical expressions are, for instance, equal as identified by "
 "the equal sign (=), or assigned to one another by a similar sign"
 msgstr ""
-"eşitlik: iki matematiksel ifadelerin bulunduğu durumdaki kavramı belirtmek "
-"için kullanılan bir ifade. Örneğin eşittir (=) işareti, iki terimin eşit "
-"olduğunu veya benzer işaretle diğerine atandığını gösterir."
+"समीकरणम् : गणितीयव्यञ्जनद्वयं, उदाहरणार्थं, समानचिह्नेन (=) चिह्नितं समानं, अथवा "
+"समानचिह्नेन परस्परं नियुक्तम् इति कथनस्य आधारेण अवधारणायाः प्रतिनिधित्वार्थं प्रयुक्तः व्यञ्जनः"
 
 #: src/catalog/catalogstring.cpp:128
 #, kde-format
@@ -481,9 +474,7 @@ msgctxt "XLIFF mark type"
 msgid ""
 "expanded form: The complete representation of a term for which there is an "
 "abbreviated form"
-msgstr ""
-"genişletilmiş biçim: Kısaltılmış bir biçimi olmasına rağmen bir terimin tam "
-"gösterimi"
+msgstr "विस्तारितं रूपम् : यस्य पदस्य संक्षिप्तरूपं भवति तस्य सम्पूर्णं प्रतिनिधित्वम्"
 
 #: src/catalog/catalogstring.cpp:129
 #, kde-format
@@ -492,8 +483,8 @@ msgid ""
 "formula: figures, symbols or the like used to express a concept briefly, "
 "such as a mathematical or chemical formula"
 msgstr ""
-"formül: matematiksel veya kimyasal formül gibi figürler, semboller ve "
-"benzerlerini ifade etmek için kullanılır"
+"सूत्रम् : गणितीयं रासायनिकं वा सूत्रम् इत्यादीनि अवधारणां संक्षेपेण व्यक्तं कर्तुं प्रयुक्तानि "
+"आकृतयः, प्रतीकाः वा इत्यादयः"
 
 #: src/catalog/catalogstring.cpp:130
 #, kde-format
@@ -501,9 +492,7 @@ msgctxt "XLIFF mark type"
 msgid ""
 "head term: the concept designation that has been chosen to head a "
 "terminological record"
-msgstr ""
-"baş terim: terminolojik bir kayıtta başı çekmesi için seçilen kavramsal bir "
-"tanım"
+msgstr "head term: अवधारणापदनाम यत् शब्दावली अभिलेखस्य प्रमुखं कर्तुं चयनितम् अस्ति"
 
 #: src/catalog/catalogstring.cpp:132
 #, kde-format
@@ -514,9 +503,9 @@ msgid ""
 "up a compound term when these letters are pronounced individually (e.g. "
 "'BSE' for 'bovine spongiform encephalopathy')"
 msgstr ""
-"başharflilik: çok sözcüklü terim oluşturan sözcüklerinin bazı baş harflerini "
-"içeren veya harfleri tek tek söylenen ifade elemanlarının bir kısaltılmış "
-"biçimi (örn. “sığır süngerimsi ensefalopati” için “SSE”)"
+"initialism: बहुशब्दपदं निर्मायन्ते शब्दानां केचन प्रारम्भिकाः अक्षराणि अथवा एतेषां अक्षराणां "
+"व्यक्तिगतरूपेण उच्चारणं कृत्वा समासपदं निर्मायन्ते इति पदतत्त्वानां संक्षिप्तरूपम् (उदा. "
+"'गोजातीयस्पञ्जरूपमस्तिष्कविकृतिः' इत्यस्य कृते 'बीएसई')"
 
 #: src/catalog/catalogstring.cpp:136
 #, kde-format
@@ -525,8 +514,8 @@ msgid ""
 "international scientific term: a term that is part of an international "
 "scientific nomenclature as adopted by an appropriate scientific body"
 msgstr ""
-"uluslararası bilimsel terim: bir uygun bilimsel vüfut tarafından benimsenen "
-"bir uluslararası bilimsel terminolojinin parçası olan terim"
+"अन्तर्राष्ट्रीयवैज्ञानिकपदम् : एकः पदः यः अन्तर्राष्ट्रीयवैज्ञानिकनामकरणस्य भागः भवति यथा "
+"उपयुक्तेन वैज्ञानिकनिकायेन स्वीकृतम्"
 
 #: src/catalog/catalogstring.cpp:137
 #, kde-format
@@ -535,8 +524,8 @@ msgid ""
 "internationalism: a term that has the same or nearly identical orthographic "
 "or phonemic form in many languages"
 msgstr ""
-"uluslararaştırma: çoğu dilde imlasal ve fonemik olarak benzer ya da aynı "
-"olan bir kavram"
+"अन्तर्राष्ट्रीयवादः : अनेकभाषासु समानं वा प्रायः समानं वा आर्थोग्राफिकं वा ध्वन्यात्मकं वा "
+"पदं भवति"
 
 #: src/catalog/catalogstring.cpp:139
 #, kde-format
@@ -546,21 +535,20 @@ msgid ""
 "mathematical or logical relations, such as statements of inequality, set "
 "relationships, Boolean operations, and the like"
 msgstr ""
-"mantıksal ifadeler: eşitsizlik, bağlılık durumları, mantıksal değer ve "
-"benzeri matematiksel veya mantıksal ifadeler temel almak üzere kullanılan "
-"bir ifade"
+"तार्किक अभिव्यक्तिः गणितीय-अथवा तार्किकसम्बन्धाधारितसंकल्पनायाः प्रतिनिधित्वार्थं प्रयुक्ता "
+"अभिव्यक्तिः, यथा असमानतायाः कथनानि, सेट्-सम्बन्धाः, बूलियन-क्रियाः इत्यादयः"
 
 #: src/catalog/catalogstring.cpp:141
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "materials management unit: a unit to track object"
-msgstr "malzeme yönetim birimi: bir nesneyi izleme birimi"
+msgstr "सामग्रीप्रबन्धन इकाई : वस्तुनिरीक्षणार्थं एककम्"
 
 #: src/catalog/catalogstring.cpp:142
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "name"
-msgstr "ad"
+msgstr "नामः"
 
 #: src/catalog/catalogstring.cpp:144
 #, kde-format
@@ -570,9 +558,8 @@ msgid ""
 "another term in the same language, but for which interchangeability is "
 "limited to some contexts and inapplicable in others"
 msgstr ""
-"yakın anlam: aynı dildeki farklı bir terime benzer kavram sunan veya "
-"aynısını ifade eden bir terimdir, ancak diğerleriyle uygulanamaz olması "
-"nedeniyle değiştirilebilirliği bazı bağlamlarda sınırlıdır"
+"near synonym: यत् पदं समानभाषायां अन्यपदस्य समानं वा अत्यन्तं समानं वा अवधारणां "
+"प्रतिनिधियति, परन्तु यस्य कृते विनिमयक्षमता केषुचित् सन्दर्भेषु सीमितं भवति, अन्येषु च अप्रयोज्यम्"
 
 #: src/catalog/catalogstring.cpp:146
 #, kde-format
@@ -580,13 +567,13 @@ msgctxt "XLIFF mark type"
 msgid ""
 "part number: a unique alphanumeric designation assigned to an object in a "
 "manufacturing system"
-msgstr "parça sayısı: üretim sistemindeki bir nesneye alfa sayısal bir tanım"
+msgstr "part number: निर्माणप्रणाल्यां वस्तुनः नियुक्तं अद्वितीयं अल्फान्यूमेरिकं पदनाम"
 
 #: src/catalog/catalogstring.cpp:147
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "phrase"
-msgstr "deyiş"
+msgstr "सम्पुट"
 
 #: src/catalog/catalogstring.cpp:149
 #, kde-format
@@ -596,14 +583,14 @@ msgid ""
 "of which frequently cannot be deduced based on the combined sense of the "
 "words making up the phrase"
 msgstr ""
-"ifade tarzı: ifadeyi yapan sözcüğün temeline bakıldığında çoğu zaman "
-"anlaşılamayan bir birim oluşturan iki veya daha fazla sözcük"
+"वाक्यार्थः- द्वयोः वा अधिकयोः शब्दयोः समूहः यः एककं निर्मान्ति, यस्य अर्थः बहुधा वाक्यं "
+"निर्मायन्ते शब्दानां संयुक्तार्थस्य आधारेण निष्कर्षितुं न शक्यते"
 
 #: src/catalog/catalogstring.cpp:151
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "protected: the marked text should not be translated"
-msgstr "korumalı: İşaretlenmiş metin çevrilmemelidir"
+msgstr "protected: चिह्नितः पाठः अनुवादः न कर्तव्यः"
 
 #: src/catalog/catalogstring.cpp:153
 #, kde-format
@@ -612,20 +599,20 @@ msgid ""
 "romanized form: a form of a term resulting from an operation whereby non-"
 "Latin writing systems are converted to the Latin alphabet"
 msgstr ""
-"romanize biçimi: Latin olmayan yazım sistemlerinin Latin alfabesine "
-"çevrilmesindeki işlemden sonuçlanan bir terim biçimi"
+"रोमनीकृतरूपम् : एकस्य क्रियायाः परिणामः पदस्य रूपः यत्र गैर-लैटिन-लेखन-प्रणाल्याः लैटिन-"
+"वर्णमालायां परिवर्तिताः भवन्ति"
 
 #: src/catalog/catalogstring.cpp:154
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "segment: the marked text represents a segment"
-msgstr "bölüt: İşaretlenmiş metin, bir bölütü temsil eder"
+msgstr "segment: चिह्नितः पाठः खण्डं प्रतिनिधियति"
 
 #: src/catalog/catalogstring.cpp:155
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "set phrase: a fixed, lexicalized phrase"
-msgstr "ayarlanmış ifade: sabit, sözcükle açıklanan ifade"
+msgstr "set phrase: एकं नियतं, शाब्दिकं वाक्यम्"
 
 #: src/catalog/catalogstring.cpp:157
 #, kde-format
@@ -635,9 +622,9 @@ msgid ""
 "full form of the term (e.g. 'Group of Twenty-four' for 'Intergovernmental "
 "Group of Twenty-four on International Monetary Affairs')"
 msgstr ""
-"kısa biçim: çok sözcüklü ifadenin, asıl ifadeden daha az içeren biçimidir "
-"(örn. “Intergovernmental Group of Twenty-four on International Monetary "
-"Affairs” için “Group of Twenty-four” demek)"
+"लघुरूपम् : बहुशब्दपदस्य एकः प्रकारः यस्मिन् पदस्य पूर्णरूपात् न्यूनाः शब्दाः समाविष्टाः सन्ति "
+"(उदा. 'अन्तर्राष्ट्रीयमौद्रिककार्याणां विषये चतुर्विंशतिनां अन्तरसरकारीसमूहः' इत्यस्य कृते "
+"'चतुर्विंशतिसमूहः')"
 
 #: src/catalog/catalogstring.cpp:160
 #, kde-format
@@ -646,14 +633,14 @@ msgid ""
 "stock keeping unit: an inventory item identified by a unique alphanumeric "
 "designation assigned to an object in an inventory control system"
 msgstr ""
-"stok tutma birimi: bir envanter denetim sistemindeki nesneye atanan "
-"benzersiz bir abece–sayısal kavram tarafından belirlenen envanter ögesi"
+"stock keeping unit: इन्वेण्ट्री नियन्त्रणप्रणाल्यां वस्तुनः नियुक्तेन अद्वितीयेन "
+"अल्फान्यूमेरिकपदनामेन चिह्नितं इन्वेण्ट्री-वस्तु"
 
 #: src/catalog/catalogstring.cpp:161
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "standard text: a fixed chunk of recurring text"
-msgstr "standart yazı: yinelenen metnin sabit bir öbeği"
+msgstr "standard text: पुनरावर्तनीयपाठस्य नियतखण्डः"
 
 #: src/catalog/catalogstring.cpp:162
 #, kde-format
@@ -662,8 +649,7 @@ msgid ""
 "symbol: a designation of a concept by letters, numerals, pictograms or any "
 "combination thereof"
 msgstr ""
-"sembol: yazılar, sayılar, metin yazıları veya bunların birleşiminden oluşan "
-"bir kavram ifadesi"
+"symbol: अक्षरैः, संख्याभिः, चित्रचित्रैः वा तस्य कस्यापि संयोजनेन वा अवधारणायाः नामकरणम्"
 
 #: src/catalog/catalogstring.cpp:163
 #, kde-format
@@ -672,8 +658,8 @@ msgid ""
 "synonym: a term that represents the same or a very similar concept as the "
 "main entry term in a term entry"
 msgstr ""
-"eşanlamlı: bir ifade girişindeki ana terim ile çok benzer ya da aynı anlamı "
-"ifade eden diğer terim"
+"पर्यायवाची : पदप्रविष्टौ मुख्यप्रविष्टपदस्य समानं वा अत्यन्तं समानं वा अवधारणां "
+"प्रतिनिधियति इति पदम्"
 
 #: src/catalog/catalogstring.cpp:165
 #, kde-format
@@ -682,14 +668,14 @@ msgid ""
 "synonymous phrase: phraseological unit in a language that expresses the same "
 "semantic content as another phrase in that same language"
 msgstr ""
-"eşanlamlı ifade: aynı dilde aynı anlama gelen farklı bir ifadeyi ifade eden "
-"bir dildeki ifadesel birim"
+"synonymous phrase: यस्मिन् भाषायां अन्यस्य वाक्यस्य समानं शब्दार्थसामग्रीम् अभिव्यञ्जयति "
+"तस्मिन् वाक्यांशात्मकैककम्"
 
 #: src/catalog/catalogstring.cpp:166
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "term"
-msgstr "terim"
+msgstr "पद"
 
 #: src/catalog/catalogstring.cpp:168
 #, kde-format
@@ -700,9 +686,8 @@ msgid ""
 "writing system, taking into account the pronunciation of the characters "
 "converted"
 msgstr ""
-"uyarlama biçimi: bir yazım sisteminin karakterlerinin, dönüştürülmüş "
-"karakterlerin sesletimi hesaba katılarak farklı bir yazım sisteminin "
-"karakterleri tarafından gösterilmesi işleminden doğan bir terim biçimi"
+"transcribed form: एकस्य लेखनव्यवस्थायाः वर्णाः परिवर्तितानां वर्णानाम् उच्चारणं गृहीत्वा "
+"अन्यस्य लेखनव्यवस्थायाः वर्णैः प्रतिनिधित्वं कुर्वन्ति इति क्रियायाः परिणामः पदस्य रूपम्"
 
 #: src/catalog/catalogstring.cpp:171
 #, kde-format
@@ -712,9 +697,8 @@ msgid ""
 "the characters of an alphabetic writing system are represented by characters "
 "from another alphabetic writing system"
 msgstr ""
-"dönüştürülmüş biçim: bir alfabetik yazı sisteminin karakterlerinin başka bir "
-"alfabetik yazım sisteminin karakterleri tarafından gösterilme işleminden "
-"doğan bir terim biçimi"
+"transliterated form: एकस्य क्रियायाः परिणामः पदस्य रूपं यत्र वर्णमालालेखनव्यवस्थायाः "
+"वर्णाः अन्यस्य वर्णमालालेखनव्यवस्थायाः वर्णैः प्रतिनिधित्वं कुर्वन्ति"
 
 #: src/catalog/catalogstring.cpp:174
 #, kde-format
@@ -723,246 +707,244 @@ msgid ""
 "truncated term: an abbreviated form of a term resulting from the omission of "
 "one or more term elements or syllables (e.g. 'flu' for 'influenza')"
 msgstr ""
-"kesilmiş terim: hecelerin bir ya da birden fazla ögesinin çıkarılmasından "
-"oluşan kısaltılmış biçim (örn. “influenza” için “flu”)"
+"truncated term: एकस्य वा अधिकस्य पदतत्त्वस्य अथवा अक्षरस्य लोपस्य परिणामः पदस्य "
+"संक्षिप्तरूपम् (उदा. 'इन्फ्लूएन्जा' इत्यस्य कृते 'फ्लू')"
 
 #: src/catalog/catalogstring.cpp:176
 #, kde-format
 msgctxt "XLIFF mark type"
 msgid "variant: one of the alternate forms of a term"
-msgstr "farklı: bir terimin alternatif biçimlerinden biri"
+msgstr "variant: पदस्य वैकल्पिकरूपेषु अन्यतमम्"
 
 #: src/catalog/cmd.cpp:81
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Insertion"
-msgstr "Ekleme"
+msgstr "निवेशनम्"
 
 #: src/catalog/cmd.cpp:121
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Deletion"
-msgstr "Silme"
+msgstr "लोपः"
 
 #: src/catalog/cmd.cpp:170
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Approvement toggling"
-msgstr "Onayla/Onaylama"
+msgstr "अनुमोदन टॉगलिंग"
 
 #: src/catalog/cmd.cpp:188
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Markup Insertion"
-msgstr "İmleme Ekleme"
+msgstr "मार्कअप इन्सर्शन"
 
 #: src/catalog/cmd.cpp:211
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Markup Deletion"
-msgstr "İmleme Silme"
+msgstr "मार्कअप विलोपनम्"
 
 #: src/catalog/cmd.cpp:233
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Note setting"
-msgstr "Not Ayarlama"
+msgstr "सेटिंग् नोट् कुर्वन्तु"
 
 #: src/catalog/cmd.cpp:268
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Update/add workflow phase"
-msgstr "Çalışma Evresini Güncelle/Ekle"
+msgstr "कार्यप्रवाहचरणं अद्यतनं/जोडयतु"
 
 #: src/catalog/cmd.cpp:287
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Translation Equivalence Setting"
-msgstr "Çeviri Eşdeğerliği Ayarları"
+msgstr "अनुवाद समतुल्यता सेटिंग्"
 
 #: src/catalog/cmd.cpp:346
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Remove text with markup"
-msgstr "Metni İmlemesiyle Sil"
+msgstr "मार्कअप सह पाठं निष्कासयन्तु"
 
 #: src/catalog/cmd.cpp:399 src/xlifftextedit.cpp:635
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Insert text with markup"
-msgstr "İmlemeyle Metin Gir"
+msgstr "मार्कअप सह पाठं सम्मिलितं कुर्वन्तु"
 
 #: src/catalog/gettext/gettextstorage.cpp:107
 #, kde-format
 msgid "separator for different-length string alternatives"
-msgstr "farklı uzunluktaki dizi alternatifleri için ayraç"
+msgstr "भिन्न-दीर्घतायाः तारविकल्पानां कृते विभाजकः"
 
 #: src/catalog/gettext/gettextstorage.cpp:291
 #, kde-format
 msgid ""
 "Previous source value, saved by Gettext during transition to a newer POT "
 "template"
-msgstr ""
-"Daha yeni bir POT şablonuna geçişte Gettext tarafından kaydedilen önceki "
-"kaynak değeri"
+msgstr "पूर्वस्रोतमूल्यं, नूतनतरं POT टेम्पलेट् मध्ये संक्रमणस्य समये Gettext द्वारा रक्षितम्"
 
 #: src/catalog/gettextheader.cpp:470
 #, kde-format
 msgctxt "@window:title"
 msgid "Author name missing"
-msgstr "Yazar Adı Eksik"
+msgstr "लेखकनाम अनुपलब्धम्"
 
 #: src/catalog/gettextheader.cpp:471
 #, kde-format
 msgid "Your name:"
-msgstr "Adınız:"
+msgstr "भवतः नाम : १."
 
 #: src/catalog/gettextheader.cpp:482
 #, kde-format
 msgctxt "@window:title"
 msgid "Author email missing"
-msgstr "Yazar E-postası Eksik"
+msgstr "लेखक ईमेल अनुपलब्ध"
 
 #: src/catalog/gettextheader.cpp:483
 #, kde-format
 msgid "Your email:"
-msgstr "E-postanız:"
+msgstr "भवतः ईमेल-पत्रम् :"
 
 #: src/catalog/ts/tsstorage.cpp:444
 #, kde-format
 msgid "Previous source value, saved by lupdate tool"
-msgstr "lupdate aracı tarafından kaydedilmiş daha önceki kaynak değeri"
+msgstr "पूर्वस्रोतमूल्यं, lupdate tool द्वारा रक्षितम्"
 
 #: src/cataloglistview/cataloglistview.cpp:58
 #, kde-format
 msgctxt "@title:window aka Message Tree"
 msgid "Translation Units"
-msgstr "Çeviri Birimleri"
+msgstr "अनुवाद इकाइयाँ"
 
 #: src/cataloglistview/cataloglistview.cpp:83
 #: src/glossary/glossarywindow.cpp:219 src/project/projecttab.cpp:56
 #, kde-format
 msgid "Quick search..."
-msgstr "Hızlı ara…"
+msgstr "त्वरित अन्वेषण..."
 
 #: src/cataloglistview/cataloglistview.cpp:84
 #: src/glossary/glossarywindow.cpp:221 src/project/projecttab.cpp:57
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Activated by Ctrl+L. Accepts regular expressions"
-msgstr "Kontrol+L ile etkinleştirilir. Düzenli ifadeleri kabul eder"
+msgstr "Ctrl+L द्वारा सक्रियः । नियमितव्यञ्जनानि स्वीकुर्वति"
 
 #: src/cataloglistview/cataloglistview.cpp:92
 #, kde-format
 msgid "Options"
-msgstr "Seçenekler"
+msgstr "विकल्पाः"
 
 #: src/cataloglistview/cataloglistview.cpp:194
 #, kde-format
 msgid "Reset individual filter"
-msgstr "Kişisel filtreyi sıfırla"
+msgstr "व्यक्तिगत फ़िल्टर पुनः सेट् करें"
 
 #: src/cataloglistview/cataloglistview.cpp:199 src/tm/tmtab.cpp:363
 #, kde-format
 msgid "Case insensitive"
-msgstr "BÜYÜK/küçük harf duyarsız"
+msgstr "प्रकरणं असंवेदनशीलम्"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, m_ignoreAccelMarks)
 #: src/cataloglistview/cataloglistview.cpp:200 src/kaider_findextension.ui:40
 #, kde-format
 msgid "Ignore accelerator marks"
-msgstr "İvmelendirici imleri yok say"
+msgstr "त्वरकचिह्नानां अवहेलनां कुर्वन्तु"
 
 #: src/cataloglistview/cataloglistview.cpp:201
 #, kde-format
 msgid "Ready"
-msgstr "Hazır"
+msgstr "आत्त"
 
 #: src/cataloglistview/cataloglistview.cpp:202
 #, kde-format
 msgid "Non-ready"
-msgstr "Hazır Olmayan"
+msgstr "असज्जम्"
 
 #: src/cataloglistview/cataloglistview.cpp:203
 #, kde-format
 msgid "Non-empty"
-msgstr "Boş Olmayan"
+msgstr "अशून्यः"
 
 #: src/cataloglistview/cataloglistview.cpp:204
 #, kde-format
 msgid "Empty"
-msgstr "Boş"
+msgstr "रिक्तम्‌"
 
 #: src/cataloglistview/cataloglistview.cpp:205
 #, kde-format
 msgid "Changed since file open"
-msgstr "Dosya Açıldıktan Sonra Değiştirilmiş"
+msgstr "सञ्चिका उद्घाटितात् परं परिवर्तितम्"
 
 #: src/cataloglistview/cataloglistview.cpp:206
 #, kde-format
 msgid "Unchanged since file open"
-msgstr "Dosya Açıldıktan Sonra Değiştirilmemiş"
+msgstr "सञ्चिका उद्घाटितात् अपरिवर्तितम्"
 
 #: src/cataloglistview/cataloglistview.cpp:207
 #, kde-format
 msgid "Same in sync file"
-msgstr "Eşzamanlı Dosyada Aynı"
+msgstr "समन्वयनसञ्चिकायां अपि तथैव"
 
 #: src/cataloglistview/cataloglistview.cpp:208
 #, kde-format
 msgid "Different in sync file"
-msgstr "Eşzamanlı Dosyada Farklı"
+msgstr "समन्वयनसञ्चिकायां भिन्नम्"
 
 #: src/cataloglistview/cataloglistview.cpp:209
 #, kde-format
 msgid "Not in sync file"
-msgstr "Eşzamanlı Dosyada Yok"
+msgstr "समन्वयसञ्चिकायां न"
 
 #: src/cataloglistview/cataloglistview.cpp:210
 #, kde-format
 msgid "Plural"
-msgstr "Çoğul"
+msgstr "बहुवाचक"
 
 #: src/cataloglistview/cataloglistview.cpp:211
 #, kde-format
 msgid "Non-plural"
-msgstr "Çoğul Olmayan"
+msgstr "अबहुवचनम्"
 
 #: src/cataloglistview/cataloglistview.cpp:216
 #, kde-format
 msgctxt "@title:inmenu"
 msgid "Basic"
-msgstr "Temel"
+msgstr "आधारभूत"
 
 #: src/cataloglistview/cataloglistview.cpp:217
 #, kde-format
 msgctxt "@title:inmenu"
 msgid "States"
-msgstr "Durumlar"
+msgstr "राज्यानि"
 
 #: src/cataloglistview/cataloglistview.cpp:219
 #, kde-format
 msgctxt "@title:inmenu"
 msgid "Searchable column"
-msgstr "Aranabilir Sütun"
+msgstr "अन्वेषणीय स्तम्भ"
 
 #: src/cataloglistview/cataloglistview.cpp:223
 #, kde-format
 msgctxt "@title:inmenu"
 msgid "Resort and refilter on content change"
-msgstr "İçerik Değiştiğinde Yeniden Sırala ve Süz"
+msgstr "सामग्रीपरिवर्तने रिसोर्टं कृत्वा पुनः फ़िल्टरं कुर्वन्तु"
 
 #: src/cataloglistview/cataloglistview.cpp:243
 #, kde-format
 msgctxt "@item:inmenu all columns"
 msgid "All"
-msgstr "Tümü"
+msgstr "सर्वे"
 
 #: src/cataloglistview/catalogmodel.cpp:105
 #, kde-format
 msgctxt "@title:column"
 msgid "Entry"
-msgstr "Girdi"
+msgstr "प्रविष्टि"
 
 #: src/cataloglistview/catalogmodel.cpp:107
 #: src/filesearch/filesearchtab.cpp:349 src/glossary/glossary.cpp:198
@@ -970,7 +952,7 @@ msgstr "Girdi"
 #, kde-format
 msgctxt "@title:column Original text"
 msgid "Source"
-msgstr "Kaynak"
+msgstr "स्रोतः"
 
 #: src/cataloglistview/catalogmodel.cpp:109
 #: src/filesearch/filesearchtab.cpp:351 src/glossary/glossary.cpp:201
@@ -978,89 +960,89 @@ msgstr "Kaynak"
 #, kde-format
 msgctxt "@title:column Text in target language"
 msgid "Target"
-msgstr "Hedef"
+msgstr "लक्ष्य"
 
 #: src/cataloglistview/catalogmodel.cpp:111
 #, kde-format
 msgctxt "@title:column"
 msgid "Notes"
-msgstr "Notlar"
+msgstr "टिप्पणियाँ"
 
 #: src/cataloglistview/catalogmodel.cpp:113 src/tm/tmtab.cpp:60
 #, kde-format
 msgctxt "@title:column"
 msgid "Context"
-msgstr "İleti Bağlamı"
+msgstr "सन्दर्भ"
 
 #: src/cataloglistview/catalogmodel.cpp:115
 #, kde-format
 msgctxt "@title:column"
 msgid "Files"
-msgstr "Dosyalar"
+msgstr "सञ्चिकाः"
 
 #: src/cataloglistview/catalogmodel.cpp:117
 #: src/filesearch/filesearchtab.cpp:355 src/tm/tmtab.cpp:62
 #, kde-format
 msgctxt "@title:column"
 msgid "Translation Status"
-msgstr "Çeviri Durumu"
+msgstr "अनुवाद स्थिति"
 
 #: src/cataloglistview/catalogmodel.cpp:119
 #, kde-format
 msgctxt "@title:column Length of the original text"
 msgid "Source length"
-msgstr "Kaynak Uzunluğu"
+msgstr "स्रोतदीर्घता"
 
 #: src/cataloglistview/catalogmodel.cpp:121
 #, kde-format
 msgctxt "@title:column Length of the text in target language"
 msgid "Target length"
-msgstr "Hedef uzunluğu"
+msgstr "लक्ष्यदीर्घता"
 
 #: src/cataloglistview/catalogmodel.cpp:157 src/editortab.cpp:1018
 #: src/editortab.cpp:1218 src/tm/tmtab.cpp:231
 #, kde-format
 msgctxt "@info:status 'non-fuzzy' in gettext terminology"
 msgid "Ready"
-msgstr "Hazır"
+msgstr "आत्त"
 
 #: src/cataloglistview/catalogmodel.cpp:159 src/editortab.cpp:1020
 #: src/editortab.cpp:1213 src/tm/tmtab.cpp:232
 #, kde-format
 msgctxt "@info:status 'fuzzy' in gettext terminology"
 msgid "Needs review"
-msgstr "Gözden Geçirme Gerekiyor"
+msgstr "समीक्षायाः आवश्यकता अस्ति"
 
 #: src/cataloglistview/catalogmodel.cpp:161 src/editortab.cpp:1016
 #: src/tm/tmtab.cpp:233
 #, kde-format
 msgctxt "@info:status"
 msgid "Untranslated"
-msgstr "Çevrilmemiş"
+msgstr "अननुवादः"
 
 #: src/common/languagelistmodel.cpp:96
 #, kde-format
 msgctxt "%1 is a language name, e.g. Irish, %2 is language code, e.g. ga"
 msgid "%1 (%2)"
-msgstr "%1 (%2)"
+msgstr "%1 (%2) २."
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: src/common/languagelistmodel.cpp:136 src/tm/dbparams.ui:146
 #, kde-format
 msgid "Target language:"
-msgstr "Hedef dil:"
+msgstr "लक्ष्यभाषा : १."
 
 #: src/common/termlabel.cpp:80
 #, kde-format
 msgctxt "@action:inmenu Edit term"
 msgid "Edit"
-msgstr "Düzenle"
+msgstr "सम्पादन"
 
 #: src/editortab.cpp:108
 #, kde-format
 msgctxt "@info:status message entry"
 msgid "Current: %1"
-msgstr "Geçerli: %1"
+msgstr "वर्तमानम् : %1"
 
 #: src/editortab.cpp:109 src/editortab.cpp:776
 #: src/filesearch/filesearchtab.cpp:705 src/project/projecttab.cpp:440
@@ -1068,7 +1050,7 @@ msgstr "Geçerli: %1"
 #, kde-format
 msgctxt "@info:status message entries"
 msgid "Total: %1"
-msgstr "Toplam: %1"
+msgstr "कुलम् : %1"
 
 #: src/editortab.cpp:110 src/editortab.cpp:120
 #, kde-format
@@ -1076,130 +1058,130 @@ msgctxt ""
 "@info:status message entries\n"
 "'fuzzy' in gettext terminology"
 msgid "Not ready: %1"
-msgstr "Hazır değil: %1"
+msgstr "सज्जः नास्ति: %1"
 
 #: src/editortab.cpp:111 src/editortab.cpp:128
 #, kde-format
 msgctxt "@info:status message entries"
 msgid "Untranslated: %1"
-msgstr "Çevrilmemiş: %1"
+msgstr "अननुवादितम् : %1"
 
 #: src/editortab.cpp:122 src/editortab.cpp:130
 #, kde-format
 msgctxt "percentages in statusbar"
 msgid " (%1%)"
-msgstr " (%​%1)"
+msgstr " (%1%) २."
 
 #: src/editortab.cpp:156 src/lokalizemainwindow.cpp:506
 #, kde-format
 msgctxt "@title actions category"
 msgid "File"
-msgstr "Dosya"
+msgstr "संचिका"
 
 #: src/editortab.cpp:157 src/project/projecttab.cpp:89
 #, kde-format
 msgctxt "@title actions category"
 msgid "Navigation"
-msgstr "Dolaşım"
+msgstr "नौकायानम्"
 
 #: src/editortab.cpp:158
 #, kde-format
 msgctxt "@title actions category"
 msgid "Editing"
-msgstr "Düzenleme"
+msgstr "सम्पादनम्"
 
 #: src/editortab.cpp:159
 #, kde-format
 msgid "Synchronization 1"
-msgstr "Eşitleme 1"
+msgstr "समन्वयः १"
 
 #: src/editortab.cpp:160
 #, kde-format
 msgid "Synchronization 2"
-msgstr "Eşitleme 2"
+msgstr "समन्वयः २"
 
 #: src/editortab.cpp:161
 #, kde-format
 msgid "Translation Memory"
-msgstr "Çeviri Belleği"
+msgstr "अनुवाद स्मृति"
 
 #: src/editortab.cpp:162 src/lokalizemainwindow.cpp:507
 #, kde-format
 msgctxt "@title actions category"
 msgid "Glossary"
-msgstr "Kavram Dizini"
+msgstr "शब्दावली"
 
 #: src/editortab.cpp:175
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Insert alternate translation #%1"
-msgstr "%1. Alternatif Çeviriyi Gir"
+msgstr "वैकल्पिकं अनुवादं सम्मिलितं कुर्वन्तु #%1"
 
 #: src/editortab.cpp:237
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Add a note"
-msgstr "Not Ekle"
+msgstr "एकं टिप्पणं योजयन्तु"
 
 #: src/editortab.cpp:246
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Insert TM suggestion #%1"
-msgstr "%1. Çeviri Belleği Önerisini Gir"
+msgstr "TM सुझाव #%1 सम्मिलितं कुर्वन्तु"
 
 #: src/editortab.cpp:251
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Remove TM suggestion #%1"
-msgstr "%1. Çeviri Belleği Önerisini Kaldır"
+msgstr "TM सुझाव #%1 निष्कासयन्तु"
 
 #: src/editortab.cpp:304
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Insert term translation #%1"
-msgstr "%1. Terim Çevirisini Gir"
+msgstr "पद अनुवाद #%1 सम्मिलित करें"
 
 #: src/editortab.cpp:315
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Define new term"
-msgstr "Yeni Terim Tanımla"
+msgstr "नूतनपदं परिभाषयतु"
 
 #: src/editortab.cpp:345
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Phases..."
-msgstr "Evreler…"
+msgstr "चरणाः..."
 
 #: src/editortab.cpp:348
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Word count"
-msgstr "Sözcük Sayısı"
+msgstr "शब्दगणना"
 
 #: src/editortab.cpp:351
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Clear all translated entries"
-msgstr "Tüm Çevrilmiş Girdileri Temizle"
+msgstr "अनुवादितानि सर्वाणि प्रविष्टयः स्वच्छं कुर्वन्तु"
 
 #: src/editortab.cpp:354
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Launch the Pology command on this file"
-msgstr "Pology Komutunu Bu Dosyada Çalıştır"
+msgstr "अस्मिन् सञ्चिकायां Pology आदेशं प्रारम्भं कुर्वन्तु"
 
 #: src/editortab.cpp:358
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Merge translation into OpenDocument"
-msgstr "Çeviriyi OpenDocument’a Birleştir"
+msgstr "अनुवादं OpenDocument मध्ये विलीनं कुर्वन्तु"
 
 #: src/editortab.cpp:378
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Change searching direction"
-msgstr "Arama Yönünü Değiştir"
+msgstr "अन्वेषणदिशा परिवर्तयन्तु"
 
 #: src/editortab.cpp:387
 #, kde-format
@@ -1207,103 +1189,103 @@ msgctxt ""
 "@option:check whether message is marked as translated/reviewed/approved "
 "(depending on your role)"
 msgid "Approved"
-msgstr "Onaylı"
+msgstr "अनुमत"
 
 #: src/editortab.cpp:406
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Approve and go to next"
-msgstr "Onayla ve Sonrakine Git"
+msgstr "अनुमोदनं कृत्वा अग्रिमम् गच्छतु"
 
 #: src/editortab.cpp:413
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Equivalent translation"
-msgstr "Eşdeğer Çeviri"
+msgstr "तुल्यनुवादः"
 
 #: src/editortab.cpp:424
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy source to target"
-msgstr "Kaynağı Hedefe Kopyala"
+msgstr "स्रोतः लक्ष्यं प्रति प्रतिलिख्यताम्"
 
 #: src/editortab.cpp:427
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Unwrap target"
-msgstr "Hedefi Aç"
+msgstr "लक्ष्यं विमोचयतु"
 
 #: src/editortab.cpp:432 src/filesearch/filesearchtab.cpp:135
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Clear"
-msgstr "Temizle"
+msgstr "स्पष्टः"
 
 #: src/editortab.cpp:436
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Insert Tag"
-msgstr "Künye Ekle"
+msgstr "टैग सम्मिलित करें"
 
 #: src/editortab.cpp:440
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Check this unit using LanguageTool"
-msgstr "Bu Birimi LanguageTool ile Denetle"
+msgstr "LanguageTool इत्यस्य उपयोगेन एतत् एककं पश्यन्तु"
 
 #: src/editortab.cpp:444
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Insert Next Tag"
-msgstr "Sonraki Künyeyi Ekle"
+msgstr "अग्रिम टैग सम्मिलित करें"
 
 #: src/editortab.cpp:448
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Skip to next non-tag text"
-msgstr "Künye Olmayan Metne Atla"
+msgstr "अग्रिम-टैग्-रहित-पाठं गच्छन्तु"
 
 #: src/editortab.cpp:452
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Completion"
-msgstr "Tamamlama"
+msgstr "समाप्ति"
 
 #: src/editortab.cpp:456
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Replace with best spellcheck suggestion"
-msgstr "En İyi Yazım Denetimi Önerisiyle Değiştir"
+msgstr "सर्वोत्तम वर्तनीपरीक्षा सुझावः प्रतिस्थापयन्तु"
 
 #: src/editortab.cpp:461
 #, kde-format
 msgctxt "@action:inmenu entry"
 msgid "&Next"
-msgstr "&Sonraki"
+msgstr "&अग्रिम"
 
 #: src/editortab.cpp:466
 #, kde-format
 msgctxt "@action:inmenu entry"
 msgid "&Previous"
-msgstr "&Önceki"
+msgstr "&पूर्वतनम्‌"
 
 #: src/editortab.cpp:472
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&First Entry"
-msgstr "İ&lk Girdi"
+msgstr "&प्रथम प्रविष्टि"
 
 #: src/editortab.cpp:478
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Last Entry"
-msgstr "S&on Girdi"
+msgstr "&अन्तिम प्रविष्टि"
 
 #: src/editortab.cpp:484
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Entry by number"
-msgstr "Girdileri Numaraya Göre Sırala"
+msgstr "सङ्ख्याद्वारा प्रवेशः"
 
 #: src/editortab.cpp:487 src/project/projecttab.cpp:104
 #, kde-format
@@ -1311,7 +1293,7 @@ msgctxt ""
 "@action:inmenu\n"
 "'not ready' means 'fuzzy' in gettext terminology"
 msgid "Previous non-empty but not ready"
-msgstr "Önceki Boş ve Hazır Olmayan"
+msgstr "पूर्वं अशून्यं किन्तु सज्जं नास्ति"
 
 #: src/editortab.cpp:495 src/project/projecttab.cpp:110
 #, kde-format
@@ -1319,19 +1301,19 @@ msgctxt ""
 "@action:inmenu\n"
 "'not ready' means 'fuzzy' in gettext terminology"
 msgid "Next non-empty but not ready"
-msgstr "Sonraki Boş ve Hazır Olmayan"
+msgstr "तदनन्तरं अशून्यं किन्तु सज्जं नास्ति"
 
 #: src/editortab.cpp:502 src/project/projecttab.cpp:116
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Previous untranslated"
-msgstr "Önceki Çevrilmemiş"
+msgstr "पूर्वम् अननुवादितम्"
 
 #: src/editortab.cpp:507 src/project/projecttab.cpp:122
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Next untranslated"
-msgstr "Sonraki Çevrilmemiş"
+msgstr "तदनन्तरं अननुवादितम्"
 
 #: src/editortab.cpp:513 src/project/projecttab.cpp:92
 #, kde-format
@@ -1339,7 +1321,7 @@ msgctxt ""
 "@action:inmenu\n"
 "'not ready' means 'fuzzy' in gettext terminology"
 msgid "Previous not ready"
-msgstr "Önceki Hazır Olmayan"
+msgstr "पूर्वः सज्जः नास्ति"
 
 #: src/editortab.cpp:521 src/project/projecttab.cpp:98
 #, kde-format
@@ -1347,49 +1329,49 @@ msgctxt ""
 "@action:inmenu\n"
 "'not ready' means 'fuzzy' in gettext terminology"
 msgid "Next not ready"
-msgstr "Sonraki Hazır Olmayan"
+msgstr "तदनन्तरं न सज्जम्"
 
 #: src/editortab.cpp:530
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Focus the search line of Translation Units view"
-msgstr "Çeviri Birimleri görünümündeki arama satırına odaklan"
+msgstr "Translation Units view इत्यस्य अन्वेषणरेखां केन्द्रीक्रियताम्"
 
 #: src/editortab.cpp:534
 #, kde-format
 msgctxt "@option:check"
 msgid "Bookmark message"
-msgstr "Yer İmi İletisi"
+msgstr "बुकमार्क सन्देशः"
 
 #: src/editortab.cpp:539
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Previous bookmark"
-msgstr "Önceki Yer İmi"
+msgstr "पूर्वपुस्तकचिह्नम्"
 
 #: src/editortab.cpp:543
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Next bookmark"
-msgstr "Sonraki Yer İmi"
+msgstr "अग्रिमः पुस्तकचिह्नम्"
 
 #: src/editortab.cpp:551
 #, no-c-format, kde-format
 msgctxt "@action:inmenu"
 msgid "Fill in all exact suggestions"
-msgstr "Tüm Tam Uyuşan Önerileri Doldur"
+msgstr "सर्वाणि सटीकसूचनानि पूरयन्तु"
 
 #: src/editortab.cpp:556
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Fill in all exact suggestions and mark as fuzzy"
-msgstr "Tüm Tam Uyuşan Önerileri Doldur ve Belirsiz Olarak İmle"
+msgstr "सर्वाणि सटीकसूचनानि पूरयित्वा अस्पष्टरूपेण चिह्नं कुर्वन्तु"
 
 #: src/editortab.cpp:562
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open file for sync/merge"
-msgstr "Eşitlemek/Birleştirmek için Dosya Aç"
+msgstr "समन्वयन/विलयनार्थं सञ्चिकां उद्घाटयन्तु"
 
 #: src/editortab.cpp:563 src/editortab.cpp:620
 #, kde-format
@@ -1398,14 +1380,13 @@ msgid ""
 "Open catalog to be merged into the current one / replicate base file changes "
 "to"
 msgstr ""
-"Geçerli kataloğa birleştirilmek / temel dosya değişikliklerini tekrarlamak "
-"için bir katalog aç"
+"वर्तमान एकस्मिन् विलीनीकरणार्थं सूचीपत्रं उद्घाटयन्तु / आधारसञ्चिका परिवर्तनं प्रतिकृत्य"
 
 #: src/editortab.cpp:569 src/editortab.cpp:626
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Previous different"
-msgstr "Önceki Farklı"
+msgstr "पूर्व भिन्न"
 
 #: src/editortab.cpp:571 src/editortab.cpp:628
 #, kde-format
@@ -1414,14 +1395,14 @@ msgid ""
 "Previous entry which is translated differently in the file being merged, "
 "including empty translations in merge source"
 msgstr ""
-"Birleştirilen dosyadaki birleştirme kaynağındaki boş çeviriler de dahil "
-"olmak üzere farklı çevrilen önceki giriş"
+"पूर्वप्रविष्टिः या विलीनीकरणीयसञ्चिकायां भिन्नरूपेण अनुवादिता भवति, विलयस्रोते "
+"रिक्तानुवादाः अपि सन्ति"
 
 #: src/editortab.cpp:580 src/editortab.cpp:635
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Next different"
-msgstr "Sonraki Farklı"
+msgstr "तदनन्तरं भिन्नम्"
 
 #: src/editortab.cpp:582 src/editortab.cpp:637
 #, kde-format
@@ -1430,56 +1411,56 @@ msgid ""
 "Next entry which is translated differently in the file being merged, "
 "including empty translations in merge source"
 msgstr ""
-"Birleştirilen dosyadaki birleştirme kaynağındaki boş çeviriler de dahil "
-"olmak üzere farklı çevrilen sonraki giriş"
+"अग्रिमप्रविष्टिः या विलीनीकरणीयसञ्चिकायां भिन्नरूपेण अनुवादिता भवति, विलयनस्रोते "
+"रिक्तानुवादाः च"
 
 #: src/editortab.cpp:590
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Next different approved"
-msgstr "Sonraki Farklı Onaylı"
+msgstr "अग्रिमः भिन्नः अनुमोदितः"
 
 #: src/editortab.cpp:596 src/editortab.cpp:644
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy from merging source"
-msgstr "Birleştirme Kaynağından Kopyala"
+msgstr "विलयनस्रोतः प्रतिलिपिं कुर्वन्तु"
 
 #: src/editortab.cpp:603 src/editortab.cpp:649
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy all new translations"
-msgstr "Tüm Yeni Çevirileri Kopyala"
+msgstr "सर्वेषां नूतनानां अनुवादानाम् प्रतिलिपिं कुर्वन्तु"
 
 #: src/editortab.cpp:604
 #, kde-format
 msgctxt "@info:status"
 msgid "This changes only empty and non-ready entries in base file"
-msgstr "Bu, yalnızca ana dosyadaki boş ve hazır olmayan girdileri değiştirir"
+msgstr "एतेन आधारसञ्चिकायां केवलं रिक्तानि असज्जानि च प्रविष्टयः परिवर्तन्ते"
 
 #: src/editortab.cpp:612 src/editortab.cpp:656
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy to merging source"
-msgstr "Birleştirme Kaynağına Kopyala"
+msgstr "विलयन स्रोतः प्रति प्रतिलिख्यताम्"
 
 #: src/editortab.cpp:619
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open file for secondary sync"
-msgstr "İkincil Eşitleme için Dosya Aç"
+msgstr "गौणसमन्वयनार्थं सञ्चिकां उद्घाटयन्तु"
 
 #: src/editortab.cpp:650
 #, kde-format
 msgctxt "@info:status"
 msgid "This changes only empty entries"
-msgstr "Bu yalnızca boş girdileri değiştirir"
+msgstr "एतेन केवलं रिक्तप्रविष्टयः परिवर्तन्ते"
 
 #: src/editortab.cpp:678
 #, kde-format
 msgctxt "editor tab title addition"
 msgid " (recovered)"
-msgstr "(kurtarıldı)"
+msgstr " (पुनर्प्राप्तः) २."
 
 #: src/editortab.cpp:719 src/editortab.cpp:900
 #, kde-format
@@ -1488,39 +1469,39 @@ msgid ""
 "The document contains unsaved changes.\n"
 "Do you want to save your changes or discard them?"
 msgstr ""
-"Bu belge kaydedilmemiş değişiklikler içeriyor.\n"
-"Değişiklikleri kaydetmek mi iptal etmek mi istiyorsunuz?"
+"दस्तावेजे अरक्षिताः परिवर्तनाः सन्ति ।\n"
+"किं भवन्तः स्वपरिवर्तनानि रक्षितुं इच्छन्ति वा परित्यक्तुं इच्छन्ति वा?"
 
 #: src/editortab.cpp:721 src/editortab.cpp:902 src/editortab.cpp:1333
 #: src/glossary/glossarywindow.cpp:484
 #, kde-format
 msgctxt "@title:window"
 msgid "Warning"
-msgstr "Uyarı"
+msgstr "चेतवानी"
 
 #: src/editortab.cpp:741 src/mergemode/mergeview.cpp:183
 #, kde-format
 msgctxt "@title:window"
 msgid "Select translation file"
-msgstr "Çeviri dosyasını seçin"
+msgstr "अनुवादसञ्चिकां चिनोतु"
 
 #: src/editortab.cpp:826
 #, kde-format
 msgctxt "@info"
 msgid "Error opening the file %1, line: %2"
-msgstr "%1 dosyası açılırken bir hata oluştu, satır: %2"
+msgstr "%1 सञ्चिकां उद्घाटयितुं त्रुटिः, रेखा: %2"
 
 #: src/editortab.cpp:828
 #, kde-format
 msgctxt "@info"
 msgid "Error opening the file %1"
-msgstr "%1 dosyası açılamadı"
+msgstr "%1 सञ्चिकां उद्घाटयितुं त्रुटिः"
 
 #: src/editortab.cpp:836
 #, kde-format
 msgctxt "@title:window"
 msgid "Save File As"
-msgstr "Dosyayı Farklı Kaydet"
+msgstr "सञ्चिकां यथा रक्षन्तु"
 
 #: src/editortab.cpp:865
 #, kde-format
@@ -1529,14 +1510,14 @@ msgid ""
 "Error saving the file %1\n"
 "Do you want to save to another file or cancel?"
 msgstr ""
-"%1 dosyası kaydedilirken hata oluştu\n"
-"Başka bir dosyaya kaydetmek mi iptal etmek mi istersiniz?"
+"%1 सञ्चिकायाः रक्षणे त्रुटिः\n"
+"अन्यस्मिन् सञ्चिकायां रक्षितुम् इच्छति वा रद्दं कर्तुम् इच्छति वा?"
 
 #: src/editortab.cpp:868
 #, kde-format
 msgctxt "@title"
 msgid "Error"
-msgstr "Hata"
+msgstr "त्रुटि"
 
 #: src/editortab.cpp:878
 #, kde-format
@@ -1545,74 +1526,74 @@ msgid ""
 "Could not perform file autosaving.\n"
 "The target file was %1."
 msgstr ""
-"Otomatik kaydetme işlemi yapılamadı.\n"
-"Hedef %1 dosyasıydı."
+"सञ्चिकास्वचालनं कर्तुं न शक्तवान् ।\n"
+"लक्ष्यसञ्चिका %1 आसीत् ।"
 
 #: src/editortab.cpp:936
 #, kde-format
 msgctxt "@title"
 msgid "Jump to Entry"
-msgstr "Girdiye Geç"
+msgstr "प्रवेशं प्रति कूदन्तु"
 
 #: src/editortab.cpp:937
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Enter entry number:"
-msgstr "Girdi numarasını girin:"
+msgstr "प्रविष्टिसङ्ख्यां प्रविशन्तु : १."
 
 #: src/editortab.cpp:1004
 #, kde-format
 msgctxt "@info:status"
 msgid "Current: %1"
-msgstr "Geçerli: %1"
+msgstr "वर्तमानम् : %1"
 
 #: src/editortab.cpp:1194
 #, kde-format
 msgctxt "@option:check trans-unit state"
 msgid "Translated"
-msgstr "Çevrilmiş"
+msgstr "अनुवादित"
 
 #: src/editortab.cpp:1195
 #, kde-format
 msgctxt "@option:check trans-unit state"
 msgid "Signed-off"
-msgstr "İmzalayan"
+msgstr "हस्ताक्षरितम्-अफ"
 
 #: src/editortab.cpp:1196
 #, kde-format
 msgctxt "@option:check trans-unit state"
 msgid "Approved"
-msgstr "Onaylı"
+msgstr "अनुमत"
 
 #: src/editortab.cpp:1197
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Translation is done (although still may need a review)"
-msgstr "Çeviri bitti (hâlâ bir gözden geçirme gerekebilir)"
+msgstr "अनुवादः कृतः (यद्यपि अद्यापि समीक्षायाः आवश्यकता भवितुम् अर्हति)"
 
 #: src/editortab.cpp:1198
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Translation has received positive review"
-msgstr "Çeviri olumlu değerlendirme aldı"
+msgstr "अनुवादस्य सकारात्मकसमीक्षा प्राप्ता अस्ति"
 
 #: src/editortab.cpp:1199
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Entry is fully localized (i.e. final)"
-msgstr "Girdi tamamen yerelleştirildi (son gibi)"
+msgstr "प्रवेशः पूर्णतया स्थानीयकृतः (अर्थात् अन्तिमः) अस्ति ।"
 
 #: src/editortab.cpp:1309 src/project/projecttab.cpp:306
 #, kde-format
 msgid "A Pology check is already in progress."
-msgstr "Pology denetimi zaten sürüyor."
+msgstr "पूर्वमेव Pology check प्रचलति।"
 
 #: src/editortab.cpp:1309 src/editortab.cpp:1317 src/editortab.cpp:1321
 #: src/project/projecttab.cpp:306 src/project/projecttab.cpp:314
 #: src/project/projecttab.cpp:318
 #, kde-format
 msgid "Pology error"
-msgstr "Pology hatası"
+msgstr "क्षमायाचना त्रुटिः"
 
 #: src/editortab.cpp:1317 src/project/projecttab.cpp:314
 #, kde-format
@@ -1620,18 +1601,18 @@ msgid ""
 "The Pology check has crashed unexpectedly:\n"
 "%1"
 msgstr ""
-"Pology denetimi beklenmedik şekilde çöktü:\n"
+"Pology check अप्रत्याशितरूपेण दुर्घटनाम् अभवत्:\n"
 "%1"
 
 #: src/editortab.cpp:1319 src/project/projecttab.cpp:316
 #, kde-format
 msgid "Pology success"
-msgstr "Pology başarılı"
+msgstr "Pology सफलता"
 
 #: src/editortab.cpp:1319
 #, kde-format
 msgid "The Pology check has succeeded."
-msgstr "Pology denetimi başarılı."
+msgstr "Pology check सफला अभवत्।"
 
 #: src/editortab.cpp:1321 src/project/projecttab.cpp:318
 #, kde-format
@@ -1639,7 +1620,7 @@ msgid ""
 "The Pology check has returned an error:\n"
 "%1"
 msgstr ""
-"Pology denetimi bir hata döndürdü:\n"
+"Pology चेक् इत्यनेन त्रुटिः प्राप्ता:\n"
 "%1"
 
 #: src/editortab.cpp:1331
@@ -1649,52 +1630,50 @@ msgid ""
 "This will delete all the translations from the file.\n"
 "Do you really want to clear all translated entries?"
 msgstr ""
-"Bu, dosyadaki tüm çevirileri siler.\n"
-"Tüm çevrilmiş girdileri gerçekten silmek istiyor musunuz?"
+"एतेन सञ्चिकातः सर्वे अनुवादाः अपास्यन्ति ।\n"
+"किं भवान् वास्तवमेव सर्वाणि अनुवादितप्रविष्टयः स्वच्छं कर्तुम् इच्छति?"
 
 #: src/editortab.cpp:1369
 #, kde-format
 msgctxt "@info words count"
 msgid "Source text words: %1<br/>Target text words: %2"
-msgstr "Kaynak metin söcükleri: %1<br/>Hedef metin sözcükleri: %2"
+msgstr "स्रोतपाठशब्दाः : %1<br/> लक्ष्यपाठशब्दाः : %2"
 
 #: src/editortab.cpp:1370
 #, kde-format
 msgctxt "@title"
 msgid "Word Count"
-msgstr "Sözcük Sayısı"
+msgstr "शब्दगणना"
 
 #: src/editortab.cpp:1460
 #, kde-format
 msgctxt "@info"
 msgid ""
 "Would you like to search for the source file locally or via lxr.kde.org?"
-msgstr ""
-"Kaynak dosyasını yerel olarak mı yoksa lxr.kde.org kullanarak mı aramak "
-"istersiniz?"
+msgstr "किं भवान् स्रोतसञ्चिकां स्थानीयतया अन्वेष्टुम् इच्छति वा lxr.kde.org मार्गेण वा?"
 
 #: src/editortab.cpp:1461
 #, kde-format
 msgctxt "@title"
 msgid "Source file lookup"
-msgstr "Kaynak Dosya Araması"
+msgstr "स्रोतसञ्चिकायाः अन्वेषणम्"
 
 #: src/editortab.cpp:1462
 #, kde-format
 msgctxt "@action"
 msgid "Search Locally"
-msgstr "Yerel Olarak Ara"
+msgstr "स्थानीयतया अन्वेषणं कुर्वन्तु"
 
 #: src/editortab.cpp:1463 src/editortab.cpp:1507
 #, kde-format
 msgctxt "@action"
 msgid "Search on lxr.kde.org"
-msgstr "lxr.kde.org Üzerinde Ara"
+msgstr "lxr.kde.org इत्यत्र अन्वेषणं कुर्वन्तु"
 
 #: src/editortab.cpp:1466 src/editortab.cpp:1511
 #, kde-format
 msgid "Select project's base folder for source file lookup"
-msgstr "Kaynak dosya araması için projenin üst klasörünü seçin"
+msgstr "स्रोतसञ्चिका-अनुसन्धानार्थं परियोजनायाः आधारपुटं चिनोतु"
 
 #: src/editortab.cpp:1503
 #, kde-format
@@ -1703,20 +1682,20 @@ msgid ""
 "Could not find source file in the folder specified.\n"
 "Do you want to change source files folder?"
 msgstr ""
-"Belirtilen klasörde kaynak dosya bulunamadı.\n"
-"Kaynak dosya klasörünü değiştirmek istiyor musunuz?"
+"निर्दिष्टे पुटे स्रोतसञ्चिकां न प्राप्नोत् ।\n"
+"किं भवान् source files पुटं परिवर्तयितुम् इच्छति?"
 
 #: src/editortab.cpp:1505
 #, kde-format
 msgctxt "@title:window"
 msgid "Source file lookup"
-msgstr "Kaynak dosya araması"
+msgstr "स्रोतसञ्चिकायाः अन्वेषणम्"
 
 #: src/editortab.cpp:1506
 #, kde-format
 msgctxt "@action"
 msgid "Select Folder"
-msgstr "Klasör Seç"
+msgstr "Folder इति चिनोतु"
 
 #: src/editortab.cpp:1548
 #, kde-format
@@ -1727,156 +1706,157 @@ msgid ""
 "to handle opening source files in custom paths. Refer to the Lokalize "
 "handbook for script examples and how to plug them into your project."
 msgstr ""
-"Hedefteki kaynak dosya açılamıyor: Hedef kaynak dosyanın yolu mevcut çeviri "
-"dosyası ile bağıl değil ve özel yollardan kaynak dosya açmak için yüklü "
-"betik yok. Betik örnekleri ve onları projenize nasıl ekleyeceğinizi görmek "
-"için Lokalize el kitabına bakın."
+"लक्ष्यस्रोतसञ्चिकां उद्घाटयितुं न शक्यते: लक्ष्यस्रोतसञ्चिका वर्तमानअनुवादसञ्चिकायाः सापेक्षं "
+"नास्ति, तथा च सम्प्रति इष्टमार्गेषु स्रोतसञ्चिकां उद्घाटयितुं नियन्त्रयितुं स्क्रिप्ट् लोड् न भवति "
+"स्क्रिप्ट् उदाहरणानां कृते Lokalize हस्तपुस्तिकां पश्यन्तु तथा च तान् स्वस्य परियोजनायां कथं "
+"प्लग् कर्तव्यम् इति ।"
 
 #: src/editortab.cpp:1562 src/project/project.cpp:415
 #: src/project/project.cpp:420
 #, kde-format
 msgid "Install translate-toolkit package and retry"
-msgstr "translate-toolkit paketlerini kurun ve yeniden deneyin."
+msgstr "translate-toolkit संकुलं संस्थाप्य पुनः प्रयासं कुर्वन्तु"
 
 #: src/editortab.cpp:1567
 #, kde-format
 msgid "Install translate-toolkit package and retry."
-msgstr "translate-toolkit paketini kurun ve yeniden deneyin."
+msgstr "translate-toolkit संकुलं संस्थाप्य पुनः प्रयासं कुर्वन्तु ।"
 
 #: src/editortab.cpp:1575
 #, kde-format
 msgid "Select original OpenDocument on which current XLIFF file is based"
-msgstr "Geçerli XLIFF dosyasının tabanı olan özgün OpenDocument’i seç"
+msgstr "मूल OpenDocument चिनोतु यस्मिन् वर्तमान XLIFF सञ्चिका आधारिता अस्ति"
 
 #: src/editortab.cpp:1577 src/project/project.cpp:427
 #, kde-format
 msgid "OpenDocument files (*.odt *.ods)"
-msgstr "OpenDocument dosyaları (*.odt *.ods)"
+msgstr "OpenDocument सञ्चिकाः (*.odt *.ods)"
 
 #: src/editortab.cpp:1625
 #, kde-format
 msgid "Install python-uno package for additional functionality."
-msgstr "Ek işlevsellik için python-uno paketini kurun."
+msgstr "अतिरिक्तकार्यक्षमतायाः कृते python-uno संकुलं संस्थापयन्तु ।"
 
 #: src/editortab.cpp:1746
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Set unit text"
-msgstr "Birim Metnini Ata"
+msgstr "एककपाठं सेट् कुर्वन्तु"
 
 #: src/editortab_findreplace.cpp:450
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Replace"
-msgstr "Değiştir"
+msgstr "प्रत्याहृ"
 
 #: src/editortab_findreplace.cpp:519
 #, kde-format
 msgid ""
 "Lokalize has reached end of document. Do you want to continue from start?"
-msgstr "Lokalize belgenin sonuna ulaştı. Baştan başlansın mı?"
+msgstr ""
+"Lokalize दस्तावेजस्य अन्ते प्राप्तवान् अस्ति। किं भवन्तः आरम्भादेव निरन्तरं कर्तुम् इच्छन्ति ?"
 
 #: src/editortab_findreplace.cpp:520 src/editortab_findreplace.cpp:528
 #, kde-format
 msgctxt "@title"
 msgid "Spellcheck"
-msgstr "Yazım Denetimi"
+msgstr "वर्तनीपरीक्षा"
 
 #: src/editortab_findreplace.cpp:528
 #, kde-format
 msgid "Lokalize has finished spellchecking"
-msgstr "Lokalize yazım denetimini tamamladı"
+msgstr "लोकलिज् इत्यनेन वर्तनीपरीक्षां समाप्तम्"
 
 #. i18n: ectx: Menu (file)
 #: src/editorui.rc:5 src/lokalizemainwindowui.rc:5
 #, kde-format
 msgid "&File"
-msgstr "&Dosya"
+msgstr "&संचिका"
 
 #. i18n: ectx: Menu (edit)
 #: src/editorui.rc:37 src/project/projectmanagerui.rc:22
 #, kde-format
 msgid "&Edit"
-msgstr "Dü&zen"
+msgstr "&सम्पादन"
 
 #. i18n: ectx: Menu (glossary)
 #: src/editorui.rc:71
 #, kde-format
 msgid "&Glossary"
-msgstr "&Kavram Dizini"
+msgstr "&शब्दकोश"
 
 #. i18n: ectx: Menu (tmquery)
 #: src/editorui.rc:97
 #, kde-format
 msgid "Translation &Memory"
-msgstr "Çeviri &Belleği"
+msgstr "अनुवाद &स्मृति"
 
 #. i18n: ectx: Menu (alttrans)
 #: src/editorui.rc:128
 #, kde-format
 msgid "Alternative Translations"
-msgstr "Alternatif Çeviriler"
+msgstr "वैकल्पिक अनुवाद"
 
 #. i18n: ectx: Menu (go)
 #: src/editorui.rc:146 src/project/projectmanagerui.rc:5
 #, kde-format
 msgid "&Go"
-msgstr "G&it"
+msgstr "&गच्छ"
 
 #. i18n: ectx: Menu (bookmarks)
 #: src/editorui.rc:176
 #, kde-format
 msgid "&Bookmarks"
-msgstr "Y&er İmleri"
+msgstr "&पुस्तकचिह्न"
 
 #. i18n: ectx: Menu (merge)
 #: src/editorui.rc:183
 #, kde-format
 msgid "S&ync"
-msgstr "Eşi&tle"
+msgstr "S&ync"
 
 #. i18n: ectx: Menu (mergesecondary)
 #: src/editorui.rc:193
 #, kde-format
 msgid "&Secondary sync source"
-msgstr "&İkincil Eşitleme Kaynağı"
+msgstr "&द्वितीयक समन्वय स्रोत"
 
 #. i18n: ectx: Menu (toolviews)
 #: src/editorui.rc:213 src/lokalizemainwindowui.rc:49
 #, kde-format
 msgid "Tool&views"
-msgstr "&Araç Görünümleri"
+msgstr "साधन&दृश्यानि"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: src/editorui.rc:235 src/filesearch/filesearchtabui.rc:11
 #: src/project/projectmanagerui.rc:26 src/tm/translationmemoryrui.rc:11
 #, kde-format
 msgid "Main Toolbar"
-msgstr "Ana Araç Çubuğu"
+msgstr "मुख्य साधनपट्टी"
 
 #: src/editorview.cpp:47
 #, kde-format
 msgctxt "@label whether entry is fuzzy"
 msgid "Not ready:"
-msgstr "Hazır değil:"
+msgstr "न सज्जः : १."
 
 #: src/editorview.cpp:49
 #, kde-format
 msgctxt "@label whether entry is untranslated"
 msgid "Untranslated:"
-msgstr "Çevrilmemiş:"
+msgstr "अननुवादितः : १."
 
 #: src/editorview.cpp:60
 #, kde-format
 msgctxt "@action"
 msgid "Hide"
-msgstr "Gizle"
+msgstr "गोपयतु"
 
 #: src/editorview.cpp:70
 #, kde-format
 msgctxt "@info:label cursor position"
 msgid "Column: %1"
-msgstr "Sütun: %1"
+msgstr "स्तम्भः %1"
 
 #: src/editorview.cpp:82
 #, kde-format
@@ -1885,21 +1865,20 @@ msgid ""
 "<p>This part of the window shows the original message\n"
 "of the currently displayed entry.</p></qt>"
 msgstr ""
-"<qt><p><b>İletinin Aslı</b></p>\n"
-"<p>Pencerenin bu bölümü şimdi gösterilen girdiye ait iletinin aslını "
-"gösterir.</p></qt>"
+"<qt><p><b>मूल तार</b></p><p> विण्डो इत्यस्य एषः भागः वर्तमानं प्रदर्शितस्य प्रविष्टेः "
+"मूलसन्देशं दर्शयति ।</p></qt>"
 
 #: src/editorview.cpp:177
 #, kde-format
 msgctxt "@title:tab"
 msgid "Plural Form %1"
-msgstr "Çoğul Biçim %1"
+msgstr "बहुवचनरूप %1"
 
 #: src/editorview.cpp:247
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Unwrap"
-msgstr "Aç"
+msgstr "विमोचनं कुरुत"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, querySource)
 #: src/filesearch/filesearchoptions.ui:24
@@ -1910,10 +1889,10 @@ msgid ""
 "Press Enter to start the search.\n"
 "Press Esc to stop the search."
 msgstr ""
-"Kaynak dil bölümü için arama ifadesi.\n"
-"Bu denetime gitmek için Kontrol+L düğmelerine basın.\n"
-"Aramayı başlatmak için Giriş düğmesine basın.\n"
-"Aramayı durdurmak için Vazgeç düğmesine basın."
+"स्रोतभाषा भागस्य कृते अभिव्यक्तिं अन्वेष्टुम्।\n"
+"अस्मिन् नियन्त्रणे गन्तुं Ctrl+L नुदन्तु ।\n"
+"अन्वेषणं आरभ्य Enter नुदन्तु ।\n"
+"अन्वेषणं स्थगयितुं Esc नुदन्तु ।"
 
 #. i18n: ectx: property (text), widget (QCheckBox, invertTarget)
 #. i18n: ectx: property (text), widget (QCheckBox, invertSource)
@@ -1922,13 +1901,13 @@ msgstr ""
 #: src/tm/queryoptions.ui:118
 #, kde-format
 msgid "Invert"
-msgstr "Tersine çevir"
+msgstr "विपर्ययम्"
 
 #. i18n: ectx: property (text), widget (QLabel, querySourceLabel)
 #: src/filesearch/filesearchoptions.ui:38 src/tm/queryoptions.ui:85
 #, kde-format
 msgid "Source:"
-msgstr "Kaynak:"
+msgstr "स्रोतः:"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, queryTarget)
 #: src/filesearch/filesearchoptions.ui:49 src/tm/queryoptions.ui:78
@@ -1937,8 +1916,8 @@ msgid ""
 "Search expression for target language part.\n"
 "Press Enter to start the search."
 msgstr ""
-"Hedef dil bölümü için arama ifadesi.\n"
-"Aramayı başlatmak için Giriş düğmesine basın."
+"लक्ष्यभाषाभागस्य अन्वेषणव्यञ्जनम्।\n"
+"अन्वेषणं आरभ्य Enter नुदन्तु ।"
 
 #. i18n: ectx: property (text), widget (QCheckBox, useRegExps)
 #. i18n: ectx: property (text), widget (QCheckBox, regEx)
@@ -1946,106 +1925,106 @@ msgstr ""
 #: src/filesearch/massreplaceoptions.ui:78
 #, kde-format
 msgid "Regular expressions"
-msgstr "Düzenli ifadeler"
+msgstr "नियमितव्यञ्जना"
 
 #. i18n: ectx: property (text), widget (QLabel, queryTargetLabel)
 #: src/filesearch/filesearchoptions.ui:63 src/tm/queryoptions.ui:95
 #, kde-format
 msgid "Target:"
-msgstr "Hedef:"
+msgstr "लक्ष्य:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, matchCase)
 #: src/filesearch/filesearchoptions.ui:73
 #: src/filesearch/massreplaceoptions.ui:85
 #, kde-format
 msgid "Match case"
-msgstr "BÜYÜK/küçük harf eşleştir"
+msgstr "मेलप्रकरणम्"
 
 #. i18n: ectx: property (text), widget (QPushButton, doFind)
 #: src/filesearch/filesearchoptions.ui:96 src/tm/queryoptions.ui:190
 #, kde-format
 msgid "&Search"
-msgstr "&Ara"
+msgstr "&अन्वेषण"
 
 #: src/filesearch/filesearchtab.cpp:118
 #, kde-format
 msgctxt "@title:window"
 msgid "File List"
-msgstr "Dosya Listesi"
+msgstr "सञ्चिकासूची"
 
 #: src/filesearch/filesearchtab.cpp:120
 #, kde-format
 msgid "Drop translation files here..."
-msgstr "Çeviri dosyalarını buraya bırakın…"
+msgstr "अनुवादसञ्चिकाः अत्र पातयन्तु..."
 
 #: src/filesearch/filesearchtab.cpp:353 src/tm/tmtab.cpp:61
 #, kde-format
 msgctxt "@title:column"
 msgid "File"
-msgstr "Dosya"
+msgstr "संचिका"
 
 #: src/filesearch/filesearchtab.cpp:447
 #, kde-format
 msgctxt "@title:window"
 msgid "Search and replace in files"
-msgstr "Dosyalarda Ara ve Değiştir"
+msgstr "सञ्चिकासु अन्वेषणं कृत्वा प्रतिस्थापनं कुर्वन्तु"
 
 #: src/filesearch/filesearchtab.cpp:476 src/tm/tmtab.cpp:398
 #, kde-format
 msgid "Copy source to clipboard"
-msgstr "Kaynağı Panoya Kopyala"
+msgstr "स्रोतः क्लिप्बोर्ड् प्रति प्रतिलिख्यताम्"
 
 #: src/filesearch/filesearchtab.cpp:482 src/tm/tmtab.cpp:404
 #, kde-format
 msgid "Copy target to clipboard"
-msgstr "Hedefi Panoya Kopyala"
+msgstr "लक्ष्यं क्लिप्बोर्ड् प्रति प्रतिलिख्यताम्"
 
 #: src/filesearch/filesearchtab.cpp:488 src/tm/tmtab.cpp:410
 #, kde-format
 msgid "Open file"
-msgstr "Dosya Aç"
+msgstr "सञ्चिकां उद्घाटयन्तु"
 
 #: src/filesearch/filesearchtab.cpp:517
 #, kde-format
 msgctxt "@title actions category"
 msgid "Search and replace in files"
-msgstr "Dosyalarda Ara ve Değiştir"
+msgstr "सञ्चिकासु अन्वेषणं कृत्वा प्रतिस्थापनं कुर्वन्तु"
 
 #: src/filesearch/filesearchtab.cpp:717
 #, kde-format
 msgctxt "@title:window"
 msgid "Mass replace"
-msgstr "Çoklu Değiştir"
+msgstr "द्रव्यमान प्रतिस्थापनम्"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/filesearch/massreplaceoptions.ui:17
 #, kde-format
 msgid "Replace:"
-msgstr "Değiştir:"
+msgstr "प्रत्याहृ:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: src/filesearch/massreplaceoptions.ui:27
 #, kde-format
 msgid "With:"
-msgstr "Şununla:"
+msgstr "सह:"
 
 #. i18n: ectx: property (text), widget (QPushButton, doPreview)
 #: src/filesearch/massreplaceoptions.ui:37
 #, kde-format
 msgid "Preview"
-msgstr "Önizleme"
+msgstr "पूर्वावलोकनम्"
 
 #. i18n: ectx: property (text), widget (QPushButton, doReplace)
 #: src/filesearch/massreplaceoptions.ui:56
 #, kde-format
 msgid "Mass Replace"
-msgstr "Çoklu Değiştir"
+msgstr "द्रव्यमान प्रतिस्थापन"
 
 #: src/glossary/glossary.cpp:203
 #, kde-format
 msgctxt "@title:column"
 msgid "Subject Field"
-msgstr "Konu Alanı"
+msgstr "विषय क्षेत्र"
 
 #: src/glossary/glossaryview.cpp:35 src/glossary/glossaryview.cpp:42
 #: src/glossary/glossarywindow.cpp:398 src/glossary/glossarywindow.cpp:424
@@ -2053,7 +2032,7 @@ msgstr "Konu Alanı"
 #, kde-format
 msgctxt "@title:window"
 msgid "Glossary"
-msgstr "Kavram Dizini"
+msgstr "शब्दावली"
 
 #: src/glossary/glossaryview.cpp:54
 #, kde-format
@@ -2064,23 +2043,22 @@ msgid ""
 "entry (tip:&nbsp;select words in original and translation fields before "
 "calling <interface>Define&nbsp;new&nbsp;term</interface>).</p>"
 msgstr ""
-"<p>Ortak terim çevirileri burada görünür.</p><p>Çevirisini eklemek için, "
-"gösterilen bir terimin yakınındaki kısayola basın.</p><p>Yeni bir giriş "
-"eklemek için bağlam menüsünü kullanın (ipucu:&nbsp;<interface>Yeni&nbsp;"
-"terim&nbsp;tanımla</interface> tıklamadan önce özgün ve çeviri alanlarındaki "
-"sözcükleri seçin).</p>"
+"<p>सामान्यपदानां अनुवादाः अत्र दृश्यन्ते ।</p><p> तस्य अनुवादं सम्मिलितुं पदस्य समीपे "
+"प्रदर्शितं शॉर्टकट् नुदन्तु ।</p><p> नूतनप्रविष्टिं योजयितुं सन्दर्भमेनू इत्यस्य उपयोगं कुर्वन्तु "
+"(टिप्: आह्वानात् पूर्वं मूलक्षेत्रेषु अनुवादक्षेत्रेषु च शब्दान् चिनोतु<interface> नूतनपदं "
+"परिभाषयतु</interface> ).</p>"
 
 #: src/glossary/glossarywindow.cpp:236
 #, kde-format
 msgctxt "@action:button reloads glossary from disk"
 msgid "Restore from disk"
-msgstr "Diskten Geri Yükle"
+msgstr "डिस्कतः पुनर्स्थापनं कुर्वन्तु"
 
 #: src/glossary/glossarywindow.cpp:237
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Reload glossary from disk, discarding any changes"
-msgstr "Tüm değişiklikleri atarak kavram dizinini diskten yeniden yükle"
+msgstr "डिस्कतः शब्दकोशं पुनः लोड् कुर्वन्तु, किमपि परिवर्तनं परित्यजन्तु"
 
 #: src/glossary/glossarywindow.cpp:482
 #, kde-format
@@ -2089,14 +2067,14 @@ msgid ""
 "The glossary contains unsaved changes.\n"
 "Do you want to save your changes or discard them?"
 msgstr ""
-"Kavram dizini, kaydedilmemiş değişiklikler içeriyor.\n"
-"Bu değişiklikleri kaydetmek mi yok saymak mı istiyorsunuz?"
+"शब्दावलीयां अरक्षिताः परिवर्तनाः सन्ति ।\n"
+"किं भवन्तः स्वपरिवर्तनानि रक्षितुं इच्छन्ति वा परित्यक्तुं इच्छन्ति वा?"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/glossary/termedit.ui:19
 #, kde-format
 msgid "English synonyms (double-click to edit):"
-msgstr "İngilizce eşanlamlılar (düzenlemek için çift tıklayın):"
+msgstr "आङ्ग्ल पर्यायवाची (सम्पादनार्थं द्विवारं क्लिक् कुर्वन्तु):"
 
 #. i18n: ectx: property (text), widget (QToolButton, addEngTerm)
 #. i18n: ectx: property (text), widget (QToolButton, addTargetTerm)
@@ -2110,19 +2088,19 @@ msgstr "+"
 #: src/glossary/termedit.ui:33 src/glossary/termedit.ui:61
 #, kde-format
 msgid "-"
-msgstr "−"
+msgstr "- ९."
 
 #. i18n: ectx: property (text), widget (QLabel, l2)
 #: src/glossary/termedit.ui:47
 #, kde-format
 msgid "Corresponding target language synonyms:"
-msgstr "Hedef dile uyumlu eşanlamlılar:"
+msgstr "तदनुरूप लक्ष्यभाषा पर्यायवाची : १."
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: src/glossary/termedit.ui:73
 #, kde-format
 msgid "Subject field:"
-msgstr "Konu alanı:"
+msgstr "विषयक्षेत्रम् : १."
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, subjectField)
 #: src/glossary/termedit.ui:83
@@ -2131,15 +2109,13 @@ msgctxt "@info:tooltip"
 msgid ""
 "When adding a new item, press enter after you have typed its name for "
 "changes to take effect"
-msgstr ""
-"Yeni bir öge eklerken, değişiklerin etkin olması için adı yazdıktan sonra "
-"Giriş düğmesine basın"
+msgstr "नूतनं द्रव्यं योजयन्ते सति परिवर्तनस्य प्रभावाय तस्य नाम टङ्कयित्वा enter नुदन्तु"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: src/glossary/termedit.ui:95
 #, kde-format
 msgid "Definition:"
-msgstr "Tanımlama:"
+msgstr "परिभाषा:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: src/glossary/termedit.ui:122
@@ -2151,47 +2127,45 @@ msgid ""
 "That is, there may be several entries with the same word/word sequence "
 "expressing different meanings."
 msgstr ""
-"Not: Bir kavram dizini girdisi tam olarak bir terimin karşılığıdır, birebir "
-"sözcük karşılığı değildir.\n"
+"नोटः- एकः शब्दावलीप्रविष्टिः एकस्य पदस्य सम्यक् सङ्गच्छते, न तु शब्द/शब्दक्रमस्य।\n"
 "\n"
-"Bu nedenle, aynı sözcük dizilimine sahip farklı anlamlar taşıyan birden "
-"fazla girdi olabilir."
+"अर्थात् भिन्न-भिन्न-अर्थ-व्यञ्जकैः समानशब्द/शब्द-क्रमैः सह अनेकाः प्रविष्टयः भवेयुः ।"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, m_skipTags)
 #: src/kaider_findextension.ui:30
 #, kde-format
 msgid "Skip tags"
-msgstr "Künyeleri atla"
+msgstr "टैग्स् त्यजन्तु"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_skipTags)
 #: src/kaider_findextension.ui:33
 #, kde-format
 msgctxt "@option:check"
 msgid "Skip markup"
-msgstr "İmlemeyi atla"
+msgstr "मार्कअपं त्यजन्तु"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_ignoreAccelMarks)
 #: src/kaider_findextension.ui:43
 #, kde-format
 msgctxt "@option:check"
 msgid "Ignore accelerator marks"
-msgstr "İvmelendirici imleri yok say"
+msgstr "त्वरकचिह्नानां अवहेलनां कुर्वन्तु"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_notes)
 #: src/kaider_findextension.ui:54
 #, kde-format
 msgid "Include notes"
-msgstr "Notları içer"
+msgstr "टिप्पण्यानि समावेशयन्तु"
 
 #: src/languagetool/languagetoolgrammarerror.cpp:38
 #, kde-format
 msgid "Suggestions:"
-msgstr "Öneriler:"
+msgstr "सुझावः : १."
 
 #: src/languagetool/languagetoolparser.cpp:28
 #, kde-format
 msgid "No errors"
-msgstr "Hata yok"
+msgstr "न दोषाः"
 
 #: src/lokalizemainwindow.cpp:62
 #, kde-format
@@ -2204,157 +2178,156 @@ msgid ""
 "documentation, then a visit to <a href=\"%2\">%2</a> will provide you with "
 "what you need.</html>"
 msgstr ""
-"<html>KDE takımının bir üyesi olmak için yazılım mühendisi olmanız gerekmez. "
-"Uygulama arayüzleri çevirisi için kendi dilinizin çeviri takımınıza "
-"katılabilirsiniz. İsterseniz grafikler, temalar, sesler yaratabilir ve "
-"yardım belgeleri yazıp var olanları geliştirebilirsiniz. Karar sizin!<br /"
-"><br /><a href=\"%1\">%1</a> adresini ziyaret ederek katkıda "
-"bulunabileceğiniz projeler hakkında bilgi alabilirsiniz.<br /><br />Daha "
-"fazla bilgi ve belge için <a href=\"%2\">%2</a> adresine bakın.</html>"
+"<html>KDE दलस्य सदस्यः भवितुम् भवता सॉफ्टवेयरविकासकः भवितुम् आवश्यकं नास्ति । प्रोग्राम्-"
+"अन्तरफलकानाम् अनुवादं कुर्वन्ति भाषादलेषु भवान् सम्मिलितुं शक्नोति । चित्राणि, विषयवस्तु, "
+"ध्वनयः, उन्नतदस्तावेजं च प्रदातुं शक्नुवन्ति । त्वं निर्णयं करोषि!<br /><br /> केषाञ्चन "
+"परियोजनानां सूचनायै <a href=\"%1\">%1</a> पश्यन्तु येषु भवान् भागं ग्रहीतुं शक्नोति ।<br /"
+"><br /> यदि भवतां कृते अधिकसूचना अथवा दस्तावेजस्य आवश्यकता अस्ति तर्हि <a href=\"%2\">"
+"%2 इत्यस्य</a> दर्शनेन भवतां कृते यत् आवश्यकं तत् प्रदास्यति ।</html>"
 
 #: src/lokalizemainwindow.cpp:84
 #, kde-format
 msgid "&Configure Lokalize"
-msgstr "&Lokalize’yi Yapılandır"
+msgstr "&Lokalize विन्यस्तं कुर्वन्तु"
 
 #: src/lokalizemainwindow.cpp:85 src/project/projecttab.cpp:158
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open project"
-msgstr "Proje Aç"
+msgstr "खुला परियोजना"
 
 #: src/lokalizemainwindow.cpp:86
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Translate software"
-msgstr "Yazılım Çevir"
+msgstr "सॉफ्टवेयर अनुवाद करें"
 
 #: src/lokalizemainwindow.cpp:87
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Translate OpenDocument"
-msgstr "OpenDocument Belgesi Çevir"
+msgstr "OpenDocument इत्यस्य अनुवादं कुर्वन्तु"
 
 #: src/lokalizemainwindow.cpp:156
 #, kde-format
 msgctxt "@info"
 msgid "No Qt Sql modules were found. Translation memory will not work."
-msgstr "Hiç Qt Sql modülü bulunamadı. Çeviri belleği çalışmayacak."
+msgstr "कोऽपि Qt Sql मॉड्यूलः न प्राप्तः । अनुवादस्मृतिः कार्यं न करिष्यति।"
 
 #: src/lokalizemainwindow.cpp:412 src/project/project.cpp:242
 #, kde-format
 msgid "TM facility requires SQLite Qt module."
-msgstr "Çeviri Belleği özelliği Qt SQLite modülüne gereksinim duyar."
+msgstr "TM सुविधायाः कृते SQLite Qt मॉड्यूलस्य आवश्यकता भवति ।"
 
 #: src/lokalizemainwindow.cpp:412 src/project/project.cpp:242
 #, kde-format
 msgid "No SQLite module available"
-msgstr "Kullanılabilir SQLite modülü yok"
+msgstr "SQLite मॉड्यूल् उपलब्धं नास्ति"
 
 #: src/lokalizemainwindow.cpp:508 src/tm/tmtab.cpp:482
 #, kde-format
 msgctxt "@title actions category"
 msgid "Translation Memory"
-msgstr "Çeviri Belleği"
+msgstr "अनुवाद स्मृति"
 
 #: src/lokalizemainwindow.cpp:509 src/project/projecttab.cpp:155
 #, kde-format
 msgctxt "@title actions category"
 msgid "Project"
-msgstr "Proje"
+msgstr "प्रकल्प"
 
 #: src/lokalizemainwindow.cpp:530
 #, kde-format
 msgid "Next tab"
-msgstr "Sonraki Sekme"
+msgstr "अग्रिमः ट्याब्"
 
 #: src/lokalizemainwindow.cpp:533
 #, kde-format
 msgid "Previous tab"
-msgstr "Önceki Sekme"
+msgstr "पूर्वः ट्याब्"
 
 #: src/lokalizemainwindow.cpp:536
 #, kde-format
 msgid "Previously active tab"
-msgstr "Önceden etkin sekme"
+msgstr "पूर्वं सक्रियः ट्याब्"
 
 #: src/lokalizemainwindow.cpp:542
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Glossary"
-msgstr "Kavram Dizini"
+msgstr "शब्दावली"
 
 #: src/lokalizemainwindow.cpp:546
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Translation memory"
-msgstr "Çeviri Belleği"
+msgstr "अनुवाद स्मृति"
 
 #: src/lokalizemainwindow.cpp:550 src/tm/tmtab.cpp:485
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Manage translation memories"
-msgstr "Çeviri Belleğini Yönet"
+msgstr "अनुवादस्मृतयः प्रबन्धयन्तु"
 
 #: src/lokalizemainwindow.cpp:554
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Project overview"
-msgstr "Proje Genel Görünümü"
+msgstr "परियोजना अवलोकन"
 
 #: src/lokalizemainwindow.cpp:558
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Configure project..."
-msgstr "Projeyi Yapılandır…"
+msgstr "परियोजना विन्यस्तं कुर्वन्तु..."
 
 #: src/lokalizemainwindow.cpp:561
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Create software translation project..."
-msgstr "Yazılım Çeviri Projesi Oluştur…"
+msgstr "सॉफ्टवेयर अनुवाद परियोजना रचयन्तु..."
 
 #: src/lokalizemainwindow.cpp:564
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Create OpenDocument translation project..."
-msgstr "OpenDocument Çeviri Projesi Oluştur…"
+msgstr "OpenDocument अनुवाद परियोजना रचयन्तु..."
 
 #: src/lokalizemainwindow.cpp:567
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open project..."
-msgstr "Proje Aç…"
+msgstr "खुला परियोजना..."
 
 #: src/lokalizemainwindow.cpp:571
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Close project"
-msgstr "Projeyi Kapat"
+msgstr "परियोजनां बन्दं कुर्वन्तु"
 
 #: src/lokalizemainwindow.cpp:574
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open recent project"
-msgstr "Son Kullanılan Projeyi Aç"
+msgstr "हाले एव परियोजनां उद्घाटयन्तु"
 
 #: src/lokalizemainwindow.cpp:584
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Search and replace in files"
-msgstr "Dosyalarda Ara ve Değiştir"
+msgstr "सञ्चिकासु अन्वेषणं कृत्वा प्रतिस्थापनं कुर्वन्तु"
 
 #: src/lokalizemainwindow.cpp:587
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Find next in files"
-msgstr "Dosyalarda Sonrakini Bul"
+msgstr "सञ्चिकासु अग्रिमम् अन्वेष्टुम्"
 
 #: src/lokalizemainwindow.cpp:591
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Widget text capture"
-msgstr "Araç Takımından Metin Yakalama"
+msgstr "विजेट् पाठग्रहणम्"
 
 #: src/lokalizemainwindow.cpp:756
 #, kde-format
@@ -2363,26 +2336,26 @@ msgid ""
 "Error opening the following files:\n"
 "\n"
 msgstr ""
-"Aşağıdaki dosyalar açılırken hata oluştu:\n"
+"निम्नलिखितसञ्चिकाः उद्घाटयितुं त्रुटिः:\n"
 "\n"
 
 #. i18n: ectx: Menu (project)
 #: src/lokalizemainwindowui.rc:18
 #, kde-format
 msgid "&Project"
-msgstr "Pro&je"
+msgstr "&प्रकल्प"
 
 #. i18n: ectx: Menu (project_actions)
 #: src/lokalizemainwindowui.rc:31
 #, kde-format
 msgid "&Scripts"
-msgstr "&Betikler"
+msgstr "&स्क्रिप्ट्"
 
 #: src/main.cpp:72
 #, kde-format
 msgctxt "@title"
 msgid "Lokalize"
-msgstr "Lokalize"
+msgstr "स्थानं ज्ञातव्यम्"
 
 #: src/main.cpp:73
 #, kde-format
@@ -2390,8 +2363,8 @@ msgid ""
 "Computer-aided translation system.\n"
 "Do not translate what had already been translated."
 msgstr ""
-"Bilgisayar destekli çeviri sistemi.\n"
-"Daha önceden çevrilmiş şeyleri çevirmeyin."
+"कम्प्यूटर-सहायक अनुवाद-प्रणाली।\n"
+"यत् पूर्वमेव अनुवादितम् आसीत् तस्य अनुवादं मा कुरुत।"
 
 #: src/main.cpp:75
 #, kde-format
@@ -2401,14 +2374,14 @@ msgid ""
 "(c) 2007-2015 Nick Shaforostoff\n"
 "(c) 1999-2006 The KBabel developers"
 msgstr ""
-"© 2018–2019 Simon Depiets\n"
-"© 2007–2015 Nick Shaforostoff\n"
-"© 1999–2006 KBabel geliştiricileri"
+"(ग) २०१८-२०१९ सिमोन डेपियट्स\n"
+"(ग) 2007-2015 निक शाफोरोस्टोफ्\n"
+"(ग) १९९९-२००६ केबेबेल् विकासकाः"
 
 #: src/main.cpp:76
 #, kde-format
 msgid "Nick Shaforostoff"
-msgstr "Nick Shaforostoff"
+msgstr "निक शाफोरोस्टोफ्"
 
 #: src/main.cpp:77
 #, kde-format
@@ -2418,144 +2391,144 @@ msgstr "Google Inc."
 #: src/main.cpp:78
 #, kde-format
 msgid "sponsored development as part of Google Summer Of Code program"
-msgstr "Google Summer Of Code programı tarafından desteklendi"
+msgstr "Google Summer Of Code कार्यक्रमस्य भागरूपेण विकासं प्रायोजितवान्"
 
 #: src/main.cpp:81
 #, kde-format
 msgid "NLNet Foundation"
-msgstr "NLNet Vakfı"
+msgstr "एनएलनेट फाउण्डेशन"
 
 #: src/main.cpp:81
 #, kde-format
 msgid "sponsored XLIFF-related work"
-msgstr "desteklenen XLIFF ile alakalı iş"
+msgstr "प्रायोजितं XLIFF-सम्बद्धं कार्यम्"
 
 #: src/main.cpp:82
 #, kde-format
 msgid "Translate-toolkit"
-msgstr "Çeviri Araç Takımı"
+msgstr "अनुवाद-उपकरणपुस्तिका"
 
 #: src/main.cpp:83
 #, kde-format
 msgid "provided excellent cross-format converting scripts"
-msgstr "biçimler arası dönüştürmeyi sağlayan harika betikleri sağladı"
+msgstr "उत्तमाः पार-स्वरूप-रूपान्तरण-लिप्याः प्रदत्ताः"
 
 #: src/main.cpp:86
 #, kde-format
 msgid "LanguageTool"
-msgstr "LanguageTool"
+msgstr "भाषासाधनम्"
 
 #: src/main.cpp:86
 #, kde-format
 msgid "grammar, style and spell checker"
-msgstr "dilbilgisi, biçem ve yazım denetleyicisi"
+msgstr "व्याकरणं, शैली, वर्तनीपरीक्षकः च"
 
 #: src/main.cpp:87
 #, kde-format
 msgid "Viesturs Zarins"
-msgstr "Viesturs Zarins"
+msgstr "आगन्तुक जरिन्स्"
 
 #: src/main.cpp:87
 #, kde-format
 msgid "project tree merging translation+templates"
-msgstr "proje ağacı, çevirileri birleştirme ve şablonlar"
+msgstr "परियोजना वृक्षः अनुवाद+टेम्पलेटस्य विलयनम्"
 
 #: src/main.cpp:88
 #, kde-format
 msgid "Stephan Johach"
-msgstr "Stephan Johach"
+msgstr "स्टीफन जोहाच"
 
 #: src/main.cpp:88 src/main.cpp:89 src/main.cpp:92
 #, kde-format
 msgid "bug fixing patches"
-msgstr "hata çözen yamalar"
+msgstr "बग फिक्सिंग पैच"
 
 #: src/main.cpp:89
 #, kde-format
 msgid "Chusslove Illich"
-msgstr "Chusslove Illich"
+msgstr "चुस्लोव इलिच्"
 
 #: src/main.cpp:90
 #, kde-format
 msgid "Jure Repinc"
-msgstr "Jure Repinc"
+msgstr "जुरे रेपिंक"
 
 #: src/main.cpp:90
 #, kde-format
 msgid "testing and bug fixing"
-msgstr "testler ve hata düzeltmeleri"
+msgstr "परीक्षणं तथा दोषनिराकरणम्"
 
 #: src/main.cpp:91
 #, kde-format
 msgid "Stefan Asserhall"
-msgstr "Stefan Asserhall"
+msgstr "स्टीफन् अस्सरहॉल"
 
 #: src/main.cpp:91
 #, kde-format
 msgid "patches"
-msgstr "yamalar"
+msgstr "पट्टिकाः"
 
 #: src/main.cpp:92
 #, kde-format
 msgid "Papp Laszlo"
-msgstr "Papp Laszlo"
+msgstr "पिता लस्ज़लो"
 
 #: src/main.cpp:93
 #, kde-format
 msgid "Albert Astals Cid"
-msgstr "Albert Astals Cid"
+msgstr "अल्बर्ट एस्टल्स सिड"
 
 #: src/main.cpp:93
 #, kde-format
 msgid "XLIFF improvements"
-msgstr "XLIFF geliştirmeleri"
+msgstr "XLIFF सुधारः"
 
 #: src/main.cpp:94
 #, kde-format
 msgid "Simon Depiets"
-msgstr "Simon Depiets"
+msgstr "सिमोन डेपियट्स"
 
 #: src/main.cpp:94 src/main.cpp:95 src/main.cpp:96
 #, kde-format
 msgid "bug fixing and improvements"
-msgstr "hata düzeltme ve iyileştirmeler"
+msgstr "दोषनिवारणं सुधारणं च"
 
 #: src/main.cpp:95
 #, kde-format
 msgid "Karl Ove Hufthammer"
-msgstr "Karl Ove Hufthammer"
+msgstr "कार्ल ओवे हफ्थामर"
 
 #: src/main.cpp:96
 #, kde-format
 msgid "Finley Watson"
-msgstr "Finley Watson"
+msgstr "फिन्ले वाटसन"
 
 #: src/main.cpp:100
 #, kde-format
 msgid "Do not scan files of the project."
-msgstr "Proje dosyalarını tarama."
+msgstr "परियोजनायाः सञ्चिकाः स्कैन् न कुर्वन्तु ।"
 
 #: src/main.cpp:101
 #, kde-format
 msgid "Load specified project."
-msgstr "Belirli bir projeyi yükle."
+msgstr "निर्दिष्टं परियोजनां भारयन्तु।"
 
 #: src/main.cpp:102
 #, kde-format
 msgid "Document to open"
-msgstr "Açılacak belge"
+msgstr "दस्तावेजं उद्घाटयितुं"
 
 #: src/mergemode/mergecatalog.cpp:249
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Accept change in translation"
-msgstr "Çevirideki Değişikliği Kabul Et"
+msgstr "अनुवादे परिवर्तनं स्वीकुरुत"
 
 #: src/mergemode/mergecatalog.cpp:301
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Accept all new translations"
-msgstr "Tüm Yeni Çevirileri Kabul Et"
+msgstr "सर्वान् नूतनान् अनुवादान् स्वीकुरुत"
 
 #: src/mergemode/mergeview.cpp:30 src/mergemode/mergeview.cpp:35
 #, kde-format
@@ -2563,7 +2536,7 @@ msgctxt ""
 "@title:window that displays difference between current file and 'merge "
 "source'"
 msgid "Primary Sync"
-msgstr "Birincil Eşitleme"
+msgstr "प्राथमिक समन्वयन"
 
 #: src/mergemode/mergeview.cpp:31 src/mergemode/mergeview.cpp:36
 #, kde-format
@@ -2571,7 +2544,7 @@ msgctxt ""
 "@title:window that displays difference between current file and 'merge "
 "source'"
 msgid "Secondary Sync"
-msgstr "İkincil Eşitleme"
+msgstr "माध्यमिक समन्वयन"
 
 #: src/mergemode/mergeview.cpp:41
 #, kde-format
@@ -2580,8 +2553,7 @@ msgid ""
 "Drop file to be merged into / synced with the current one here, then see "
 "context menu options"
 msgstr ""
-"Geçerli dosya ile birleştirilecek veya eşitlenecek dosyayı buraya bırakın ve "
-"içerik menü seçeneklerine bakın"
+"अत्र वर्तमानेन सह विलीनीकरणीयं / समन्वयनीयं सञ्चिकां पातयन्तु, ततः सन्दर्भमेनूविकल्पान् पश्यन्तु"
 
 #: src/mergemode/mergeview.cpp:224
 #, kde-format
@@ -2590,8 +2562,7 @@ msgid ""
 "Error opening the file <filename>%1</filename> for synchronization, error "
 "line: %2"
 msgstr ""
-"Eşitleme için <filename>%1</filename> dosyası açılamadı, hatanın oluştuğu "
-"satır: %2"
+"समन्वयनार्थं <filename>%1</filename> इति सञ्चिकां उद्घाटयितुं त्रुटिः, त्रुटिपङ्क्तिः: %2"
 
 #: src/mergemode/mergeview.cpp:350
 #, kde-format
@@ -2600,80 +2571,80 @@ msgid ""
 "Different entries: %1\n"
 "Unmatched entries: %2"
 msgstr ""
-"Farklı girdiler: %1\n"
-"Eşleşmeyen girdiler: %2"
+"भिन्नाः प्रविष्टयः : %1\n"
+"अतुलनीयप्रविष्टयः: %2"
 
 #: src/msgctxtview.cpp:37
 #, kde-format
 msgctxt "@title toolview name"
 msgid "Unit Metadata"
-msgstr "Birim Üst Verisi"
+msgstr "इकाई मेटाडाटा"
 
 #: src/msgctxtview.cpp:93
 #, kde-format
 msgctxt ""
 "@info notes to translation unit which expire when the catalog is closed"
 msgid "<b>Temporary notes:</b>"
-msgstr "<b>Geçici notlar:</b>"
+msgstr "<b>अस्थायी टिप्पणी : १.</b>"
 
 #: src/msgctxtview.cpp:102
 #, kde-format
 msgctxt "@info notes generated by the pology check"
 msgid "<b>Pology notes:</b>"
-msgstr "<b>Pology notları:</b>"
+msgstr "<b>क्षमाविज्ञानस्य टिप्पणीः : १.</b>"
 
 #: src/msgctxtview.cpp:111
 #, kde-format
 msgctxt "@info notes generated by the languagetool check"
 msgid "<b>LanguageTool notes:</b>"
-msgstr "<b>LanguageTool notları:</b>"
+msgstr "<b>भाषासाधनस्य टिप्पणीः १.</b>"
 
 #: src/msgctxtview.cpp:123
 #, kde-format
 msgctxt "@info translation unit metadata"
 msgid "<b>Phase:</b><br>"
-msgstr "<b>Evre:</b><br>"
+msgstr "<b>क्षण:</b><br>"
 
 #: src/msgctxtview.cpp:147
 #, kde-format
 msgctxt "@info PO comment parsing"
 msgid "<br><b>Files:</b><br>"
-msgstr "<br><b>Dosyalar:</b><br>"
+msgstr "<br><b>सञ्चिकाः : १.</b><br>"
 
 #: src/msgctxtview.cpp:155
 #, kde-format
 msgctxt "@info PO comment parsing"
 msgid "<br><b>Context:</b><br>"
-msgstr "<br><b>Bağlam:</b><br>"
+msgstr "<br><b>सन्दर्भ:</b><br>"
 
 #: src/msgctxtview.cpp:226
 #, kde-format
 msgctxt "@info The pology command didn't return anything"
 msgid "(empty)"
-msgstr "(boş)"
+msgstr "(रिक्तम्‌)"
 
 #: src/noteeditor.cpp:46
 #, kde-format
 msgctxt "@info:label"
 msgid "From:"
-msgstr "Kimden:"
+msgstr "इत्यस्मात्‌:"
 
 #: src/noteeditor.cpp:50
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Save empty note to remove it"
-msgstr "Silmek için boş notu kaydedin"
+msgstr "तत् निष्कासयितुं रिक्तं टिप्पणं रक्षन्तु"
 
 #: src/noteeditor.cpp:51
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Author of this note"
-msgstr "Bu notun yazarı"
+msgstr "अस्य टिप्पण्याः लेखकः"
 
 #: src/noteeditor.cpp:64
 #, kde-format
 msgid "Ctrl+Enter"
-msgstr "Kontrol+Giriş"
+msgstr "Ctrl+Enter इति"
 
 #: src/noteeditor.cpp:65
 #, kde-format
@@ -2684,150 +2655,150 @@ msgstr "Esc"
 #, kde-format
 msgctxt "@info XLIFF notes representation"
 msgid "<b>Notes:</b>"
-msgstr "<b>Notlar:</b>"
+msgstr "<b>टिप्पणियाँ : १.</b>"
 
 #: src/noteeditor.cpp:130
 #, kde-format
 msgctxt "link to edit note"
 msgid "edit..."
-msgstr "Düzenle…"
+msgstr "सम्पादन..."
 
 #: src/noteeditor.cpp:135
 #, kde-format
 msgctxt "link to add a note"
 msgid "Add..."
-msgstr "Ekle…"
+msgstr "संयोजयति..."
 
 #: src/noteeditor.cpp:137
 #, kde-format
 msgctxt "link to add a note"
 msgid "Add a note..."
-msgstr "Not ekle…"
+msgstr "एकं टिप्पणीं योजयन्तु..."
 
 #: src/phaseswindow.cpp:144
 #, kde-format
 msgctxt "@title:column"
 msgid "Date"
-msgstr "Tarih"
+msgstr "दिनाङ्कः"
 
 #: src/phaseswindow.cpp:146
 #, kde-format
 msgctxt "@title:column"
 msgid "Process"
-msgstr "İşlem"
+msgstr "प्रक्रिया"
 
 #: src/phaseswindow.cpp:148
 #, kde-format
 msgctxt "@title:column"
 msgid "Company"
-msgstr "Kurum"
+msgstr "गोष्ठी"
 
 #: src/phaseswindow.cpp:150
 #, kde-format
 msgctxt "@title:column"
 msgid "Person"
-msgstr "Kişi"
+msgstr "व्यक्ति"
 
 #: src/phaseswindow.cpp:152
 #, kde-format
 msgctxt "@title:column"
 msgid "Tool"
-msgstr "Araç"
+msgstr "उपकरण"
 
 #: src/phaseswindow.cpp:177
 #, kde-format
 msgid "Translation"
-msgstr "Çeviri"
+msgstr "अनुवाद"
 
 #: src/phaseswindow.cpp:177
 #, kde-format
 msgid "Review"
-msgstr "Gözden Geçir"
+msgstr "परिशीलयतु"
 
 #: src/phaseswindow.cpp:177
 #, kde-format
 msgid "Approval"
-msgstr "Onay"
+msgstr "अनुमत्त"
 
 #: src/phaseswindow.cpp:181
 #, kde-format
 msgctxt "noun"
 msgid "Process (this will also change your role):"
-msgstr "Süreç (bu sizin rolünüzü de değiştirecektir):"
+msgstr "प्रक्रिया (एतेन भवतः भूमिका अपि परिवर्तते):"
 
 #: src/phaseswindow.cpp:256
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Edit phases"
-msgstr "Evreleri Düzenle"
+msgstr "चरणान् सम्पादयतु"
 
 #. i18n: ectx: label, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:14
 #, kde-format
 msgid "Translator's name"
-msgstr "Çevirmenin adı"
+msgstr "अनुवादकस्य नाम"
 
 #. i18n: ectx: whatsthis, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:15
 #, kde-format
 msgid "Translator's name in English"
-msgstr "Çevirmenin İngilizce Adı"
+msgstr "अनुवादकस्य नाम आङ्ग्लभाषायां"
 
 #. i18n: ectx: label, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:21
 #, kde-format
 msgid "Localized name"
-msgstr "Yerelleştirilmiş ad"
+msgstr "स्थानीयकृत नाम"
 
 #. i18n: ectx: whatsthis, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:22
 #, kde-format
 msgid "Translator's name in target language"
-msgstr "Çevirmenin hedef dildeki adı"
+msgstr "लक्ष्यभाषायां अनुवादकस्य नाम"
 
 #. i18n: ectx: label, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:28
 #, kde-format
 msgid "Override Language Team"
-msgstr "Dil Takımını Geçersiz Kıl"
+msgstr "भाषा दलं अधिलिखयतु"
 
 #. i18n: ectx: whatsthis, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:29
 #, kde-format
 msgid "Use user-provided language team name instead of generating it"
-msgstr "Üretmek  yerine kullanıcı tarafından sağlanan dil takımı adını kullan"
+msgstr "उपयोक्तृ-प्रदत्तं भाषा-दल-नाम जननस्य स्थाने तस्य उपयोगं कुर्वन्तु"
 
 #. i18n: ectx: label, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:35
 #, kde-format
 msgid "Language Team"
-msgstr "Dil Takımı"
+msgstr "भाषा दल"
 
 #. i18n: ectx: whatsthis, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:36
 #, kde-format
 msgid "Translator team's name"
-msgstr "Çevirmen ekibinin adı"
+msgstr "अनुवादकदलस्य नाम"
 
 #. i18n: ectx: whatsthis, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:42
 #, kde-format
 msgid "Translator's email"
-msgstr "Çevirmenin e-posta adresi"
+msgstr "अनुवादकस्य ईमेल"
 
 #. i18n: ectx: label, entry, group (Identity)
 #. i18n: ectx: whatsthis, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:48 src/prefs/lokalize.kcfg:49
 #, kde-format
 msgid "Default language code for new projects"
-msgstr "Yeni projeler için öntanımlı dil"
+msgstr "नूतनानां परियोजनानां कृते पूर्वनिर्धारितभाषासङ्केतः"
 
 #. i18n: ectx: label, entry, group (Identity)
 #. i18n: ectx: whatsthis, entry, group (Identity)
 #: src/prefs/lokalize.kcfg:55 src/prefs/lokalize.kcfg:56
 #, kde-format
 msgid "Default mailing list for new projects"
-msgstr "Yeni projeler için öntanımlı e-posta listesi"
+msgstr "नूतनपरियोजनानां कृते पूर्वनिर्धारितमेलसूची"
 
 #. i18n: ectx: label, entry (CleverEditing), group (Appearance)
 #. i18n: ectx: label, entry (OnFlySpellCheck), group (Appearance)
@@ -2846,13 +2817,13 @@ msgstr ""
 #: src/prefs/lokalize.kcfg:75
 #, kde-format
 msgid "Font for Messages"
-msgstr "İleti Yazıtipi"
+msgstr "सन्देशानां कृते फन्ट्"
 
 #: src/prefs/prefs.cpp:96
 #, kde-format
 msgctxt "@title:tab"
 msgid "Identity"
-msgstr "Kimlik"
+msgstr "चिह्नं"
 
 #: src/prefs/prefs.cpp:106
 #, kde-format
@@ -2861,51 +2832,51 @@ msgid ""
 "%1 - Path of the source file\n"
 "%2 - Line number"
 msgstr ""
-"Aşağıdaki parametreler kullanılabilir\n"
-"%1 — Kaynak dosyanın yolu \n"
-"%2 — Satır numarası"
+"निम्नलिखित मापदण्डाः उपलभ्यन्ते\n"
+"%1 - स्रोतसञ्चिकायाः मार्गः\n"
+"%2 - रेखासङ्ख्या"
 
 #: src/prefs/prefs.cpp:107 src/prefs/prefs.cpp:229
 #, kde-format
 msgctxt "@title:tab"
 msgid "General"
-msgstr "Genel"
+msgstr "सामान्य"
 
 #: src/prefs/prefs.cpp:113
 #, kde-format
 msgctxt "@title:tab"
 msgid "Editing"
-msgstr "Düzenleme"
+msgstr "सम्पादनम्"
 
 #: src/prefs/prefs.cpp:119
 #, kde-format
 msgctxt "@title:tab"
 msgid "Appearance"
-msgstr "Görünüş"
+msgstr "स्वरूपम्‌"
 
 #: src/prefs/prefs.cpp:125
 #, kde-format
 msgctxt "@title:tab"
 msgid "Translation Memory"
-msgstr "Çeviri Belleği"
+msgstr "अनुवाद स्मृति"
 
 #: src/prefs/prefs.cpp:131
 #, kde-format
 msgctxt "@title:tab"
 msgid "Pology"
-msgstr "Pology"
+msgstr "क्षमायाचना"
 
 #: src/prefs/prefs.cpp:137
 #, kde-format
 msgctxt "@title:tab"
 msgid "LanguageTool"
-msgstr "LanguageTool"
+msgstr "भाषासाधनम्"
 
 #: src/prefs/prefs.cpp:145
 #, kde-format
 msgctxt "@title:tab"
 msgid "Spellcheck"
-msgstr "Yazım Denetimi"
+msgstr "वर्तनीपरीक्षा"
 
 #: src/prefs/prefs.cpp:167
 #, kde-format
@@ -2913,79 +2884,78 @@ msgid ""
 "You have accessed a feature that requires a project to be loaded. Do you "
 "want to create a new project or open an existing project?"
 msgstr ""
-"Bir projenin yüklenmesini gerektiren bir özelliğe eriştiniz. Bir proje "
-"oluşturmak veya var olan bir projeyi açmak istiyor musunuz?"
+"भवता एकं विशेषतां प्राप्तम् यत् परियोजनायाः लोड् करणीयम् अस्ति । किं भवान् नूतनं परियोजनां "
+"निर्मातुम् इच्छति अथवा विद्यमानं परियोजनां उद्घाटयितुम् इच्छति?"
 
 #: src/prefs/prefs.cpp:168
 #, kde-format
 msgctxt "@title"
 msgid "Project Required"
-msgstr "Proje Gerekli"
+msgstr "परियोजना आवश्यकी"
 
 #: src/prefs/prefs.cpp:169
 #, kde-format
 msgctxt "@action"
 msgid "Create Project"
-msgstr "Proje Oluştur"
+msgstr "परियोजना रचयन्तु"
 
 #: src/prefs/prefs.cpp:170
 #, kde-format
 msgctxt "@action"
 msgid "Open Project"
-msgstr "Proje Aç"
+msgstr "Open Project इति परियोजना"
 
 #: src/prefs/prefs.cpp:182 src/prefs/prefs.cpp:199
 #, kde-format
 msgid "Lokalize translation project (*.lokalize)"
-msgstr "Lokalize çeviri projesi (*.lokalize)"
+msgstr "अनुवाद परियोजना स्थानीयकरण (*.lokalize)"
 
 #: src/prefs/prefs.cpp:197
 #, kde-format
 msgctxt "@window:title"
 msgid "Select folder with Gettext .po files to translate"
-msgstr ".po Dosyaları Klasörünü Seç"
+msgstr "अनुवादार्थं Gettext .po सञ्चिकाभिः सह फोल्डर् चिनोतु"
 
 #: src/prefs/prefs.cpp:218
 #, kde-format
 msgid "Create software or OpenDocument translation project first."
-msgstr "İlk olarak yazılım veya OpenDocument çeviri projesi oluşturun."
+msgstr "प्रथमं सॉफ्टवेयर अथवा OpenDocument अनुवाद परियोजना रचयन्तु।"
 
 #: src/prefs/prefs.cpp:274
 #, kde-format
 msgctxt "@title:tab"
 msgid "Advanced"
-msgstr "Gelişmiş"
+msgstr "उन्नतं"
 
 #: src/prefs/prefs.cpp:285
 #, kde-format
 msgctxt "@title:tab"
 msgid "Personal"
-msgstr "Kişisel"
+msgstr "व्यक्तिगत"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/prefs/prefs_appearance.ui:34
 #, kde-format
 msgid "Editor font:"
-msgstr "Düzenleyici yazıtipi:"
+msgstr "सम्पादक फ़ॉन्ट् : १."
 
 #. i18n: ectx: property (toolTip), widget (KFontRequester, kcfg_MsgFont)
 #: src/prefs/prefs_appearance.ui:44
 #, kde-format
 msgid "Change the font for the editor"
-msgstr "Düzenleyici yazıtipini değiştir"
+msgstr "सम्पादकस्य कृते फ़ॉन्ट् परिवर्तयन्तु"
 
 #. i18n: ectx: property (whatsThis), widget (KFontRequester, kcfg_MsgFont)
 #: src/prefs/prefs_appearance.ui:47
 #, kde-format
 msgid "Choose a new font for the area where you write the translated message."
-msgstr ""
-"Çevrilmiş iletiyi yazacağınız alanda kullanmak için yeni bir yazıtipi seçin."
+msgstr "यत्र भवन्तः अनुवादितं सन्देशं लिखन्ति तस्य क्षेत्रस्य कृते नूतनं फ़ॉन्ट् चिनोतु ।"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_Leds)
 #: src/prefs/prefs_appearance.ui:54
 #, kde-format
 msgid "Display LEDS for message status"
-msgstr "İleti durumu göstergelerini göster"
+msgstr "सन्देशस्य स्थितिं प्राप्तुं LEDS प्रदर्शयन्तु"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_Leds)
 #: src/prefs/prefs_appearance.ui:57
@@ -2994,9 +2964,8 @@ msgid ""
 "If checked, LEDS will be shown to display the message status: Fuzzy, "
 "Untranslated or Error. If unchecked, no LEDs will be displayed."
 msgstr ""
-"Eğer seçilirse ışıklı göstergeler ileti durumlarını gösterir: Belirsiz, "
-"Çevrilmemiş ya da Hatalı gibi. Eğer seçilmezse ışıklı göstergeler "
-"gösterilmeyecek."
+"यदि चेक् कृतं तर्हि LEDS सन्देशस्य स्थितिं प्रदर्शयितुं दर्शितं भविष्यति: Fuzzy, Untranslated "
+"अथवा Error। यदि अनिरीक्षितं भवति तर्हि कोऽपि LEDs प्रदर्शितः न भविष्यति ।"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_Leds)
 #: src/prefs/prefs_appearance.ui:60
@@ -3004,9 +2973,7 @@ msgstr ""
 msgid ""
 "LEDs to indicate Fuzzy and Untranslated status as well as cursor column "
 "number"
-msgstr ""
-"Hatalı, Belirsiz ve Çevrilmemiş Ögeleri ile fare işaretçisinin sütun "
-"numarasını göstermek için Işıklı Düğmeler"
+msgstr "Fuzzy and Untranslated इति स्थितिं सूचयितुं LEDs तथा च कर्सरस्तम्भसङ्ख्यां सूचयितुं"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_HighlightSpaces)
 #: src/prefs/prefs_appearance.ui:82
@@ -3016,15 +2983,14 @@ msgid ""
 "displaying it in the user interface, or when it gets concatenated with "
 "others)."
 msgstr ""
-"Bir iletinin sonunda boşluk olup olmadığını görmek istiyorsanız işaretleyin "
-"(bu, genellikle iletinin kullanıcı arayüzündeki görünümü için önemlidir, "
-"diğer sözcüklerle bitişik gösterilmesini engellemenizi sağlar)."
+"स्ट्रिंग् इत्यस्य समाप्तिः रिक्तस्थाने भवति वा (यत् प्रायः उपयोक्तृ-अन्तरफलके प्रदर्शयति, अथवा "
+"अन्यैः सह सम्बद्धं भवति तदा महत्त्वपूर्णं भवति) इति पश्यन्तु ।"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_HighlightSpaces)
 #: src/prefs/prefs_appearance.ui:85
 #, kde-format
 msgid "Highlight spaces at the end"
-msgstr "Sondaki boşlukları vurgula"
+msgstr "अन्ते रिक्तस्थानानि प्रकाशयन्तु"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_MouseWheelGo)
 #: src/prefs/prefs_editor.ui:32
@@ -3032,8 +2998,7 @@ msgstr "Sondaki boşlukları vurgula"
 msgid ""
 "If set, mouse wheel goes to previous or next unit, otherwise it scrolls text"
 msgstr ""
-"Seçilirse fare tekerleği önceki veya sonraki çeviri birimine gider, "
-"seçilmezse metni sarar"
+"यदि सेट् भवति तर्हि मूषकचक्रं पूर्ववर्ती अथवा अग्रिम-एककं गच्छति, अन्यथा पाठं स्क्रॉल करोति"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_MouseWheelGo)
 #: src/prefs/prefs_editor.ui:35
@@ -3048,96 +3013,92 @@ msgid ""
 "unit.</li></ul>When the option is disabled, the mouse wheel scrolls within "
 "the text of the current translation unit.</html>"
 msgstr ""
-"<html>Bu seçenek etkin iken sonraki ve önceki çeviri birimlerine gidilmek "
-"için fare tekerleği kullanılır (düzenleyici düğmeler kullanılmadan). Bu "
-"davranışı değiştirmek için niteleyici düğmeler kullanılabilir. "
-"<ul><li>Geçerli birimin metninde sarmak için <b>Üst Karakter</b>,</"
-"li><li>Önceki hazır olmayan birime gitmek için <b>Kontrol+Üst Karakter</b>,</"
-"li><li>Önceki veya hazır olmayan boş olmayan bir birime gitmek için "
-"<b>Kontrol</b>,</li><li>Önceki veya sonraki çevrilmemiş birime gitmek için "
-"<b>Seçenek</b> kullanın.</li></ul>Bu seçenek kapalıyken, fare tekerleği "
-"geçerli çeviri birimindeki metinde sarar.</html>"
+"<html>यदा एषः विकल्पः सक्षमः भवति तदा मूषकचक्रस्य उपयोगः पूर्ववर्ती अथवा अग्रिमे अनुवाद-"
+"एकके (संशोधक-कील-विना) गन्तुं भवति । एतत् व्यवहारं परिवर्तयितुं परिवर्तककुंजीनां उपयोगः कर्तुं "
+"शक्यते । उपयुञ्जताम्‌:<ul><li> वर्तमान-एककस्य पाठस्य अन्तः स्क्रॉल कर्तुं <b>शिफ्ट् कुर्वन्तु</"
+"b> ,</li><li> <b>Ctrl+Shift</b> पूर्ववर्ती अथवा अग्रिम-अ-तत्पर-एककं प्रति गन्तुं,</"
+"li><li> <b>Ctrl</b> पूर्वस्मिन् वा अग्रिमे वा अ-सज्जं न रिक्तं एककं गन्तुं,</li><li> "
+"पूर्ववर्ती अथवा अग्रिमम् अनुवादित-एककं गन्तुं <b>Alt</b> ।</li></ul> यदा विकल्पः अक्षमः "
+"भवति तदा मूषकस्य चक्रं वर्तमानस्य अनुवाद-एककस्य पाठस्य अन्तः स्क्रॉल भवति ।</html>"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_MouseWheelGo)
 #: src/prefs/prefs_editor.ui:38
 #, kde-format
 msgid "Mouse wheel goes to previous or next translation unit"
-msgstr "Fare tekerleği önceki veya sonraki çeviri birimine gider"
+msgstr "मूषकचक्रं पूर्ववर्ती वा अग्रिमम् अनुवाद-एककं गच्छति"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutoApprove)
 #: src/prefs/prefs_editor.ui:45
 #, kde-format
 msgid "Set 'approved' status automatically when editing started"
-msgstr "Düzenlemeye başlanıldığında “onaylı” durumunu kendiliğinden ayarla"
+msgstr "सम्पादनं आरब्धस्य समये स्वयमेव 'अनुमोदितम्' स्थितिं सेट् कुर्वन्तु"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_VisualizeSeparators)
 #: src/prefs/prefs_editor.ui:65
 #, kde-format
 msgid "Visualize separators such as spaces, tabs and new lines in the editor"
-msgstr ""
-"Düzenleyicide boşluklar, sekmeler ve yeni satırlar gibi ayırıcıları "
-"görselleştir"
+msgstr "सम्पादके रिक्तस्थानानि, ट्याब्स्, नवीनपङ्क्तयः इत्यादीनि विभाजकानाम् कल्पनां कुर्वन्तु"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, l1)
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_WordCompletionLength)
 #: src/prefs/prefs_editor.ui:74 src/prefs/prefs_editor.ui:87
 #, kde-format
 msgid "Set to 2 to disable word completion"
-msgstr "Sözcük tamamlamayı kapatmak için 2 olarak ayarlayın"
+msgstr "शब्दसमाप्तिः निष्क्रियं कर्तुं 2 इति सेट् कुर्वन्तु"
 
 #. i18n: ectx: property (text), widget (QLabel, l1)
 #: src/prefs/prefs_editor.ui:77
 #, kde-format
 msgid "Minimum word length for word completion"
-msgstr "Sözcük tamamlama için asgari sözcük uzunluğu"
+msgstr "शब्दसमाप्त्यर्थं न्यूनतमं शब्ददीर्घता"
 
 #. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_WordCompletionLength)
 #: src/prefs/prefs_editor.ui:90
 #, kde-format
 msgid "Disable word completion"
-msgstr "Sözcük tamamlamayı kapat"
+msgstr "शब्दसमाप्तिम् अक्षमम्"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ConvertXMLChars)
 #: src/prefs/prefs_editor.ui:105
 #, kde-format
 msgid "Automatically convert XML special characters in TS files"
-msgstr "TS dosyalarındaki XML özel karakterlerini otomatik olarak dönüştür"
+msgstr "TS सञ्चिकासु XML विशेषवर्णान् स्वयमेव परिवर्तयन्तु"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_RestoreRecentFilesOnStartup)
 #: src/prefs/prefs_general.ui:45
 #, kde-format
 msgid "Restore the previously opened files when launching Lokalize"
-msgstr "Lokalize’yi başlatırken önceden açılan dosyaları geri yükle"
+msgstr "Lokalize प्रारम्भं कुर्वन् पूर्वं उद्घाटितानि सञ्चिकानि पुनः स्थापयन्तु"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, l2)
 #: src/prefs/prefs_general.ui:54
 #, kde-format
 msgid "Defines the behavior of the next/previous tab shortcuts"
-msgstr "Sonraki/önceki sekme kısayollarının davranışını tanımlar"
+msgstr "अग्रिम/पूर्वस्य ट्याब् शॉर्टकट् इत्यस्य व्यवहारं परिभाषयति"
 
 #. i18n: ectx: property (text), widget (QLabel, l2)
 #: src/prefs/prefs_general.ui:57
 #, kde-format
 msgid "Next/previous tab shortcut behavior"
-msgstr "Sonraki/önceki sekme kısayolu davranışı"
+msgstr "अग्रिम/पूर्वः ट्याब् शॉर्टकट् व्यवहारः"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_TabSwitch)
 #: src/prefs/prefs_general.ui:68
 #, kde-format
 msgid "According to tab position"
-msgstr "Sekme konumuna göre"
+msgstr "ट्याब् स्थितिनुसारम्"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_TabSwitch)
 #: src/prefs/prefs_general.ui:73
 #, kde-format
 msgid "According to tab activation order"
-msgstr "Sekme etkinleştirme sırasına göre"
+msgstr "ट्याब् सक्रियणक्रमानुसारम्"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_CustomEditorEnabled)
 #: src/prefs/prefs_general.ui:83
 #, kde-format
 msgid "Use a custom editor to open source files"
-msgstr "Kaynak dosyaları açmak için özel bir düzenleyici kullan"
+msgstr "स्रोतसञ्चिकाः उद्घाटयितुं कस्टम् सम्पादकस्य उपयोगं कुर्वन्तु"
 
 #. i18n: ectx: property (whatsThis), widget (QWidget, prefs_identity)
 #: src/prefs/prefs_identity.ui:14
@@ -3146,138 +3107,136 @@ msgid ""
 "Fill in your identity and information about your translation team. This "
 "information is used when updating the header of a file."
 msgstr ""
-"Kimliğiniz ve çeviri ekibinizle ilgili bilgileri doldurun. Bu bilgiler "
-"çevirdiğiniz dosyanın başlığını güncellemek için kullanılır."
+"स्वस्य अनुवाददलस्य विषये स्वस्य परिचयं सूचनां च पूरयन्तु। सञ्चिकायाः शीर्षकस्य अद्यतनीकरणे एषा "
+"सूचना उपयुज्यते ।"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: src/prefs/prefs_identity.ui:35
 #, kde-format
 msgctxt "@label:chooser"
 msgid "Default language:"
-msgstr "Öntanımlı dil:"
+msgstr "पूर्वनिर्धारितभाषा : १."
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #: src/prefs/prefs_identity.ui:48
 #, kde-format
 msgctxt "@label:textbox"
 msgid "&Email:"
-msgstr "&E-posta:"
+msgstr "&ईमेल : १."
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
 #: src/prefs/prefs_identity.ui:61
 #, kde-format
 msgctxt "@label:textbox"
 msgid "&Name:"
-msgstr "&Ad:"
+msgstr "&नामः:"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_authorName)
 #: src/prefs/prefs_identity.ui:74
 #, kde-format
 msgid "Your name, in English"
-msgstr "İngilizce Adınız"
+msgstr "भवतः नाम, आङ्ग्लभाषायां"
 
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, kcfg_authorName)
 #: src/prefs/prefs_identity.ui:77
 #, kde-format
 msgid "Please enter here your name and surname written in English"
-msgstr "Lütfen adınızı İngilizce olarak buaraya girin"
+msgstr "कृपया अत्र आङ्ग्लभाषायां लिखितं स्वस्य नाम उपनाम च प्रविशन्तु"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/prefs/prefs_identity.ui:84
 #, kde-format
 msgctxt "@label:textbox"
 msgid "&Default mailing list:"
-msgstr "&Öntanımlı e-posta listesi:"
+msgstr "&पूर्वनिर्धारित मेलसूची:"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_DefaultMailingList)
 #: src/prefs/prefs_identity.ui:94
 #, kde-format
 msgid "The email of your team mailing list"
-msgstr "Çeviri grubunuzun e-posta listesi"
+msgstr "भवतः दलस्य मेलसूचिकायाः ईमेलः"
 
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, kcfg_DefaultMailingList)
 #: src/prefs/prefs_identity.ui:97
 #, kde-format
 msgid "Write the email of your translating team mailing list"
-msgstr "Çeviri takımı e-posta listenizin adresini yazın"
+msgstr "स्वस्य अनुवाददलस्य मेलसूचिकायाः ईमेलं लिखन्तु"
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, DefaultLangCode)
 #: src/prefs/prefs_identity.ui:104
 #, kde-format
 msgid "Language you translate to"
-msgstr "Çeviri yapacağınız dil"
+msgstr "यस्याः भाषायाः भवन्तः अनुवादं कुर्वन्ति"
 
 #. i18n: ectx: property (whatsThis), widget (KComboBox, DefaultLangCode)
 #: src/prefs/prefs_identity.ui:107
 #, kde-format
 msgid "Set the default language you are going to translate to"
-msgstr "Dosyaların çevrileceği öntanımlı dili ayarla"
+msgstr "यस्मिन् पूर्वनिर्धारितभाषायां भवन्तः अनुवादं कर्तुं गच्छन्ति तत् सेट् कुर्वन्तु"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_authorEmail)
 #: src/prefs/prefs_identity.ui:127
 #, kde-format
 msgid "Write your email"
-msgstr "E-posta adresinizi yazın"
+msgstr "भवतः ईमेल लिखतु"
 
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, kcfg_authorEmail)
 #: src/prefs/prefs_identity.ui:130
 #, kde-format
 msgid ""
 "Write your email here so it will appear in the po file header with your name"
-msgstr ""
-"Buraya e-posta adresinizi yazdığınızda po dosyasındaki başlıkta adınız ile "
-"beraber görünecektir."
+msgstr "अत्र भवतः ईमेल लिखन्तु येन भवतः नाम सह po file header मध्ये दृश्यते"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_authorLocalizedName)
 #: src/prefs/prefs_identity.ui:144
 #, kde-format
 msgid "Your name in your own language"
-msgstr "Kendi dilinizde adınız"
+msgstr "स्वभाषायां भवतः नाम"
 
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, kcfg_authorLocalizedName)
 #: src/prefs/prefs_identity.ui:147
 #, kde-format
 msgid ""
 "Write your name and surname in your language with your language alphabet."
-msgstr "Kendi abecenizle ve kendi dilinizde adınızı ve soyadınızı yazın."
+msgstr "स्वभाषायाः वर्णमालायाः सह स्वभाषायां स्वस्य नाम उपनाम च लिखतु।"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: src/prefs/prefs_identity.ui:154
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Localized name:"
-msgstr "Yerelleştirilmiş ad:"
+msgstr "स्थानीयकृत नाम : १."
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_overrideLangTeam)
 #: src/prefs/prefs_identity.ui:164
 #, kde-format
 msgid "Default Language-Team:"
-msgstr "Ö&ntanımlı dil:"
+msgstr "पूर्वनिर्धारितभाषा-दलम् : १."
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_LanguageToolCustom)
 #: src/prefs/prefs_languagetool.ui:21
 #, kde-format
 msgid "Use custom LanguageTool server"
-msgstr "Özel LanguageTool sunucusu kullan"
+msgstr "कस्टम् LanguageTool सर्वरस्य उपयोगं कुर्वन्तु"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
 #: src/prefs/prefs_languagetool.ui:31
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Server Path:"
-msgstr "Sunucu Yolu:"
+msgstr "सर्वर मार्गः : १."
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_LanguageToolInstancePath)
 #: src/prefs/prefs_languagetool.ui:44
 #, kde-format
 msgid "The path of your custom Language Tool server"
-msgstr "Özel LanguageTool sunucunuzun yolu"
+msgstr "भवतः कस्टम् Language Tool सर्वरस्य मार्गः"
 
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, kcfg_LanguageToolInstancePath)
 #: src/prefs/prefs_languagetool.ui:47
 #, kde-format
 msgid "Please enter the path of your custom Language Tool server, if any"
-msgstr "Lütfen, varsa özel LanguageTool sunucunuzun yolunu girin"
+msgstr "कृपया स्वस्य इष्टभाषासाधनसर्वरस्य मार्गं प्रविशतु, यदि अस्ति"
 
 #. i18n: ectx: property (text), widget (QLabel, l1)
 #: src/prefs/prefs_languagetool.ui:58
@@ -3285,22 +3244,20 @@ msgstr "Lütfen, varsa özel LanguageTool sunucunuzun yolunu girin"
 msgid ""
 "Delay before automatic checking after you stop typing (in seconds, 0 to "
 "disable)"
-msgstr ""
-"Yazmayı bıraktıktan sonra otomatik denetimden önce gecikme (saniye "
-"cinsinden, devre dışı bırakmak için 0)"
+msgstr "टङ्कनं त्यक्त्वा स्वचालितपरीक्षणात् पूर्वं विलम्बः (सेकेण्ड्-मात्रेषु, अक्षमीकरणाय 0)"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, l1)
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_LanguageToolDelay)
 #: src/prefs/prefs_languagetool.ui:64 src/prefs/prefs_languagetool.ui:71
 #, kde-format
 msgid "Set to 0 to disable auto checking"
-msgstr "Kendiliğinden denetimi devre dışı bırakmak için 0 olarak ayarlayın"
+msgstr "स्वतः परीक्षणं निष्क्रियं कर्तुं 0 इति सेट् कुर्वन्तु"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_PologyEnabled)
 #: src/prefs/prefs_pology.ui:21
 #, kde-format
 msgid "Enable Pology verification"
-msgstr "Pology doğrulamasını etkinleştir"
+msgstr "Pology सत्यापनम् सक्षमं कुर्वन्तु"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3_0)
 #: src/prefs/prefs_pology.ui:28
@@ -3311,15 +3268,15 @@ msgid ""
 "following placeholders in order to set-up the commands: %u is the entry "
 "number, %f is the file name. For instance: posieve -u %u check-rules %f"
 msgstr ""
-"Tek bir girişi denetlemek için çalıştırılacak Pology komutu. Komutları "
-"ayarlamak için aşağıdaki yer tutucuları kullanın: %u giriş numarası, %f "
-"dosya adıdır. Örneğin: posieve -u %u check-rules %f"
+"एकं प्रविष्टिं परीक्षितुं Pology आदेशः चालनीयः । आदेशान् सेट्-अप कर्तुं "
+"निम्नलिखितस्थानधारकाणां उपयोगं कुर्वन्तु: %u प्रविष्टिसङ्ख्या, %f सञ्चिकानाम । यथा : "
+"posieve -u %u चेक-नियमाः %f"
 
 #. i18n: ectx: property (toolTip), widget (QPlainTextEdit, kcfg_PologyCommandEntry)
 #: src/prefs/prefs_pology.ui:44
 #, kde-format
 msgid "The Pology command to run in order to check a single entry."
-msgstr "Tek bir girişi denetlemek için çalıştırılacak Pology komutu."
+msgstr "एकं प्रविष्टिं परीक्षितुं Pology आदेशः चालनीयः ।"
 
 #. i18n: ectx: property (whatsThis), widget (QPlainTextEdit, kcfg_PologyCommandEntry)
 #: src/prefs/prefs_pology.ui:47
@@ -3327,9 +3284,7 @@ msgstr "Tek bir girişi denetlemek için çalıştırılacak Pology komutu."
 msgid ""
 "Please enter here the Pology command to be run in order to check a single "
 "entry"
-msgstr ""
-"Lütfen tek bir girişi denetlemek için çalıştırılacak Pology komutunu buraya "
-"girin"
+msgstr "कृपया अत्र एकं प्रविष्टिं परीक्षितुं चालनीयं Pology आदेशं प्रविशन्तु"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel4_0)
 #: src/prefs/prefs_pology.ui:54
@@ -3340,30 +3295,28 @@ msgid ""
 "should include \"-s lokalize\", placeholder %f is the file name. For "
 "instance: posieve -s lokalize check-rules %f"
 msgstr ""
-"Tüm dosyayı denetlemek için çalıştırılacak Pology komutu. Bu komut “-s "
-"lokalize” içermelidir, %f yer tutucusu dosya adıdır. Örneğin: posieve -s "
-"lokalize check-rules %f"
+"सम्पूर्णसञ्चिकां परीक्षितुं चालयितुं Pology आदेशः । अस्मिन् आदेशे \"-s lokalize\" "
+"अन्तर्भवितव्यम्, स्थानधारकः %f सञ्चिकानाम अस्ति । यथा: posieve -s lokalize check-"
+"rules %f"
 
 #. i18n: ectx: property (toolTip), widget (QPlainTextEdit, kcfg_PologyCommandFile)
 #: src/prefs/prefs_pology.ui:70
 #, kde-format
 msgid "The Pology command to run in order to check a whole file."
-msgstr "Tüm dosyayı denetlemek için çalıştırılacak Pology komutu."
+msgstr "सम्पूर्णसञ्चिकां परीक्षितुं चालयितुं Pology आदेशः ।"
 
 #. i18n: ectx: property (whatsThis), widget (QPlainTextEdit, kcfg_PologyCommandFile)
 #: src/prefs/prefs_pology.ui:73
 #, kde-format
 msgid ""
 "Please enter here the Pology command to be run in order to check a whole file"
-msgstr ""
-"Lütfen dosyanın tamamını denetlemek için çalıştırılacak Pology komutunu "
-"buraya girin"
+msgstr "कृपया अत्र सम्पूर्णसञ्चिकां परीक्षितुं चालनीयं Pology आदेशं प्रविशन्तु"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_PrefetchTM)
 #: src/prefs/prefs_tm.ui:45
 #, kde-format
 msgid "If checked, get translation memory suggestions "
-msgstr "Eğer seçilirse çeviri belleği önerileri alınır "
+msgstr "यदि जाँचितम् अस्ति तर्हि अनुवादस्मृतिसूचनानि प्राप्नुवन्तु "
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_PrefetchTM)
 #: src/prefs/prefs_tm.ui:48
@@ -3372,45 +3325,44 @@ msgid ""
 "If this is checked, the program will fetch translation memories as soon as "
 "you open a file."
 msgstr ""
-"Eğer seçilirse uygulama bir dosya açılır açılmaz çeviri belleği "
-"eşleşmelerini getirir."
+"यदि एतत् परीक्षितं भवति तर्हि भवता सञ्चिकां उद्घाटितमात्रेण प्रोग्राम् अनुवादस्मृतयः "
+"आनयिष्यति ।"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_PrefetchTM)
 #: src/prefs/prefs_tm.ui:51
 #, kde-format
 msgid "Prefetch translation memory suggestions on file open"
-msgstr "Dosya açıldığında çeviri belleği önerilerini ön eşle"
+msgstr "सञ्चिका उद्घाटिते अनुवादस्मृतिसूचनानि पूर्वं आनयन्तु"
 
 #. i18n: ectx: property (text), widget (QLabel, label1)
 #: src/prefs/prefs_tm.ui:60
 #, kde-format
 msgid "Maximum number of suggestions:"
-msgstr "En fazla öneri sayısı:"
+msgstr "अधिकतमं सुझावानां संख्या : १."
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_SuggCount)
 #: src/prefs/prefs_tm.ui:70
 #, kde-format
 msgid "Set the maximum number of suggestions"
-msgstr "En fazla öneri sayısını ayarla"
+msgstr "अधिकतमं सुझावसङ्ख्यां निर्धारयन्तु"
 
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, kcfg_SuggCount)
 #: src/prefs/prefs_tm.ui:73
 #, kde-format
 msgid "You can change the maximum number of suggestions, default is 7."
-msgstr ""
-"En çok kaç öneri yapılacağını değiştirebilirsiniz, öntanımlı değer 7’dir."
+msgstr "अधिकतमं सुझावसङ्ख्यां परिवर्तयितुं शक्नुवन्ति, पूर्वनिर्धारितं 7 अस्ति ।"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/prefs/prefs_tm.ui:97
 #, kde-format
 msgid "Minimum score (0-100) of suggestions:"
-msgstr "Önerilerin en düşük puanı (0–100):"
+msgstr "सुझावस्य न्यूनतमः स्कोरः (०-१००) : १."
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_SuggScore)
 #: src/prefs/prefs_tm.ui:107
 #, kde-format
 msgid "Set the minimum score (0-100) of suggestions"
-msgstr "Önerilerin en düşük puanını (0–100) ayarla"
+msgstr "सुझावस्य न्यूनतमं स्कोरं (0-100) सेट् कुर्वन्तु"
 
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, kcfg_SuggScore)
 #: src/prefs/prefs_tm.ui:110
@@ -3419,20 +3371,19 @@ msgid ""
 "You can change the minimum score (0-100) required for suggestions, default "
 "is 0."
 msgstr ""
-"Öneriler için gerekli en düşük puanı (0–100) değiştirebilirsiniz, öntanımlı "
-"değer 0’dır."
+"सुझावानां कृते आवश्यकं न्यूनतमं स्कोरं (0-100) परिवर्तयितुं शक्नुवन्ति, पूर्वनिर्धारितं 0 अस्ति ।"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutoaddTM)
 #: src/prefs/prefs_tm.ui:138
 #, kde-format
 msgid "Update/Add edited entries to translation memory"
-msgstr "Düzenlenen girdiyi çeviri belleğine Ekle/Güncelle"
+msgstr "अनुवादस्मृतौ सम्पादितप्रविष्टयः अद्यतनं/जोडतु"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ScanToTMOnOpen)
 #: src/prefs/prefs_tm.ui:145
 #, kde-format
 msgid "Add opened files to translation memory automatically"
-msgstr "Açılan dosyaları çeviri belleğine otomatik olarak ekle"
+msgstr "अनुवादस्मृतौ उद्घाटितसञ्चिकाः स्वयमेव योजयन्तु"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DeleteFromTMOnMissing)
 #: src/prefs/prefs_tm.ui:152
@@ -3441,35 +3392,34 @@ msgid ""
 "Delete missing files from translation memory on rescan or when right-"
 "clicking on a missing entry"
 msgstr ""
-"Eksik dosyaları yeniden tararken veya kayıp girdiye sağ tıkladığında çeviri "
-"belleğinden sil"
+"पुनः स्कैन् कृत्वा अथवा अनुपलब्धप्रविष्टौ राइट्-क्लिक् करणसमये अनुवादस्मृत्याः अनुपलब्धाः "
+"सञ्चिकाः विलोपयन्तु"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: src/project/prefs_project_advanced.ui:17
 #, kde-format
 msgid "Syntax"
-msgstr "Sözdizim"
+msgstr "वाक्य रचना"
 
 #. i18n: ectx: property (text), widget (QLabel, l0)
 #: src/project/prefs_project_advanced.ui:23
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Accelerator:"
-msgstr "Hızlandırıcı:"
+msgstr "त्वरक : १."
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_Accel)
 #: src/project/prefs_project_advanced.ui:33
 #, kde-format
 msgid "Usually '&', but may also be '_' for GTK apps."
-msgstr ""
-"Genellikle “&” karakteridir; ancak GTK uygulamalarında “_” de olabilir."
+msgstr "सामान्यतया '&', परन्तु GTK एप्स् कृते '_' अपि भवितुम् अर्हति ।"
 
 #. i18n: ectx: property (text), widget (QLabel, l1)
 #: src/project/prefs_project_advanced.ui:40
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Markup:"
-msgstr "İmle:"
+msgstr "मार्कअपः : १."
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_Markup)
 #: src/project/prefs_project_advanced.ui:58
@@ -3484,21 +3434,21 @@ msgid ""
 "It is only used for gettext PO files, as XLIFF format has its own way of "
 "specifying where markup is."
 msgstr ""
-"İmleme için düzenli ifade. Bu, çeviri belleğinde yapılacak arama eşleşmeleri "
-"ve “Künye Ekle” özelliği için kullanılır.\n"
+"मार्कअपस्य नियमित अभिव्यक्तिः। अनुवादस्मृतिमेलनार्थं 'Insert tag' इति विशेषतायाः कृते च "
+"अस्य उपयोगः भवति ।\n"
 "\n"
-"Öntanımlı değer (XML-tabanlı metinler için) şöyledir:\n"
-"(<[^>]+>)+|(&[A-Za-z_:][A-Za-z0-9_\\.:-]*;)+\n"
+"पूर्वनिर्धारितं मूल्यं (XML-आधारितपाठानां कृते उपयुक्तम्) अस्ति :\n"
+"(<[^>]+>)+|(&[अ-जा-झ_:][अ-जा-झ0-9_\\.:-]*;)+\n"
 "\n"
-"Bu, yalnızca gettext PO dosyaları için kullanılır, XLIFF biçimi imlemeler "
-"için kendine has bir yol kullanır."
+"इदं केवलं gettext PO सञ्चिकानां कृते उपयुज्यते, यतः XLIFF प्रारूपस्य स्वकीयः मार्गः अस्ति यत् "
+"मार्कअप कुत्र अस्ति इति निर्दिष्टुं ।"
 
 #. i18n: ectx: property (text), widget (QLabel, l2)
 #: src/project/prefs_project_advanced.ui:65
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Word wrap:"
-msgstr "Sözcük kaydırma:"
+msgstr "शब्दवेष्टनम् : १."
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_WordWrap)
 #: src/project/prefs_project_advanced.ui:75
@@ -3508,22 +3458,22 @@ msgid ""
 "disable the word wrap. Use -1 when translating for KDE PO Summit. 1 to 3 "
 "doesn't change anything."
 msgstr ""
-"Otomatik msgfmt benzeri sözcük kaydırma için kullanılan genişlik. Sözcük "
-"kaydırmayı devre dışı bırakmak için “0” değerini kullanın. KDE PO Summit "
-"için çeviri yaparken −1 kullanın. 1–3 arası değerler bir şeyi değiştirmez."
+"स्वचालित msgfmt-सदृशशब्दवेष्टनस्य कृते प्रयुक्ता विस्तारः । wrap इति शब्दं निष्क्रियं कर्तुं '0' "
+"इति मूल्यस्य उपयोगं कुर्वन्तु । KDE PO Summit कृते अनुवादं कुर्वन् -1 इत्यस्य उपयोगं कुर्वन्तु । १ "
+"तः ३ पर्यन्तं किमपि परिवर्तनं न भवति।"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: src/project/prefs_project_advanced.ui:91
 #, kde-format
 msgid "Paths"
-msgstr "Yollar"
+msgstr "पथाः"
 
 #. i18n: ectx: property (text), widget (QLabel, l3)
 #: src/project/prefs_project_advanced.ui:100
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Template files folder:"
-msgstr "Şablon dosyaları klasörü:"
+msgstr "टेम्पलेट् सञ्चिकाः पुटम् : १."
 
 #. i18n: ectx: property (toolTip), widget (KUrlRequester, potBaseDir)
 #: src/project/prefs_project_advanced.ui:124
@@ -3536,19 +3486,19 @@ msgid ""
 "(i.e. files without translation into any language)\n"
 "shared among all subprojects."
 msgstr ""
-"Çeviri projeniz aynı metni başka dillere çevirebilmek için\n"
-"genellikle başka bir projenin alt projesidir.\n"
+"सामान्यतया भवतः अनुवादप्रकल्पः परियोजनायाः उपप्रकल्पः भविष्यति\n"
+"समानग्रन्थानां बहुभाषासु अनुवादार्थं।\n"
 "\n"
-"Bu yolu, tüm alt projelerin paylaştığı, boş çeviri dosyalarını\n"
-"(hiçbir dile çevrilmemiş doayaların olduğu yer)\n"
-"içeren klasöre ayarlayın."
+"एतत् रिक्तअनुवादसञ्चिकायुक्तस्य पुटस्य मार्गे सेट् कुर्वन्तु\n"
+"(अर्थात् कस्यापि भाषायां अनुवादं विना सञ्चिकाः)\n"
+"सर्वेषु उपप्रकल्पेषु साझाः।"
 
 #. i18n: ectx: property (text), widget (QLabel, l4)
 #: src/project/prefs_project_advanced.ui:131
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Branch folder:"
-msgstr "Dal klasörü:"
+msgstr "शाखापुटम् : १."
 
 #. i18n: ectx: property (toolTip), widget (KUrlRequester, branchDir)
 #: src/project/prefs_project_advanced.ui:161
@@ -3570,26 +3520,25 @@ msgid ""
 "\n"
 "See documentation for more details."
 msgstr ""
-"Bu ayar, Eşitleme Kipi içindir.\n"
+"इदं सेटिङ्ग् Sync Mode इत्यस्य कृते अस्ति ।\n"
 "\n"
-"Eşitleme kipi çevirilerde yapılan değişiklikleri bir projenin bir dalına\n"
-"otomatik olarak birleştirmek için kullanılır.\n"
+"अनुवादे परिवर्तनं कर्तुं Sync Mode इत्यस्य उपयोगः भवितुं शक्नोति\n"
+"युगपत् शाखाद्वयं कृते।\n"
 "\n"
-"Bu yolu dal projenin kök dizinine işaret eden dizine ayarlayın.\n"
-"İkincil Eşitleme görünümü otomatik olarak dosyaları dal dizininden "
-"açacaktır.\n"
-"Ana dalda (trunk) her değişiklik yaptığınızda\n"
-"dal dizinindeki dosyalarda da aynı değişiklikler yapılacaktır.\n"
-"(tabii ki aynı İngilizce dizi dal dosyasında bulunuyorsa).\n"
+"एतत् शाखाप्रकल्पस्य मूलपुटस्य अनुरूपं मार्गं सेट् कुर्वन्तु,\n"
+"तथा Secondary Sync view स्वयमेव शाखातः सञ्चिकाः उद्घाटयिष्यति ।\n"
+"ततः प्रत्येकं समये भवन्तः स्वस्य मुख्यशाखायाः सञ्चिकासु परिवर्तनं कुर्वन्ति,\n"
+"ते स्वयमेव शाखायां प्रतिकृताः भविष्यन्ति\n"
+"(अवश्यं, यदि तस्मिन् समाना आङ्ग्ल-तारः अस्ति)।\n"
 "\n"
-"Daha fazla bilgi için belgelendirmeye bakın."
+"अधिकविवरणार्थं दस्तावेजीकरणं पश्यन्तु ।"
 
 #. i18n: ectx: property (text), widget (QLabel, l5)
 #: src/project/prefs_project_advanced.ui:168
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Branch template files folder:"
-msgstr "Dal şablon dosyaları klasörü:"
+msgstr "शाखा टेम्पलेट् सञ्चिकाः पुटम्:"
 
 #. i18n: ectx: property (toolTip), widget (KUrlRequester, potBranchDir)
 #: src/project/prefs_project_advanced.ui:193
@@ -3607,21 +3556,20 @@ msgid ""
 "templates folder,\n"
 "and Secondary Sync view will automatically create files from branch."
 msgstr ""
-"Bu ayar, Eşitleme Kipi içindir.\n"
+"इदं सेटिङ्ग् Sync Mode इत्यस्य कृते अस्ति ।\n"
 "\n"
-"Eşitleme kipi çevirilerde yapılan değişiklikleri bir projenin bir dalına\n"
-"otomatik olarak birleştirmek için kullanılır.\n"
+"अनुवादे परिवर्तनं कर्तुं Sync Mode इत्यस्य उपयोगः भवितुं शक्नोति\n"
+"युगपत् शाखाद्वयं कृते।\n"
 "\n"
-"Bu yolu dal projenin şablon klasörüne işaret eden klasöre ayarlayın.\n"
-"İkincil Eşitleme görünümü otomatik olarak dosyaları dal dizininden "
-"oluşturacaktır."
+"एतत् शाखा परियोजना टेम्पलेट् पुटस्य मूलपुटस्य अनुरूपं मार्गं सेट् कुर्वन्तु,\n"
+"तथा Secondary Sync view स्वयमेव शाखातः सञ्चिकाः निर्मास्यति ।"
 
 #. i18n: ectx: property (text), widget (QLabel, l6)
 #: src/project/prefs_project_advanced.ui:200
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Alternate translations folder:"
-msgstr "Alternatif çeviriler klasörü:"
+msgstr "वैकल्पिक अनुवादपुटम् : १."
 
 #. i18n: ectx: property (toolTip), widget (KUrlRequester, altDir)
 #: src/project/prefs_project_advanced.ui:227
@@ -3643,56 +3591,56 @@ msgid ""
 "\n"
 "See documentation for more details."
 msgstr ""
-"Bu yolu, Kök Klasörüne benzer yapıda bir klasör yoluna ayarlayın.\n"
+"इदं Root Folder इत्यस्य सदृशसंरचनायुक्तस्य फोल्डर् इत्यस्य मार्गे सेट् कुर्वन्तु ।\n"
 "\n"
-"Her açık çeviri dosyası için, Alternatif çeviri dizinleri aranacak ve "
-"bulunduğunda\n"
-"Alternatif Çeviriler görünümünde kullanılabilir olacaktır.\n"
+"प्रत्येकं अनुवादसञ्चिकां उद्घाटिते, Alternate translations निर्देशिकायां तत्सम्बद्धसञ्चिका "
+"अवलोकिता भविष्यति तथा च,\n"
+"यदि लभ्यते तर्हि Alternate Translations view कृते उपयुज्यते ।\n"
 "\n"
-"Büyük olasılıkla, dilinize yakın olan diğer hedef dillerinin çevirilerini "
-"kullanacaksınız (örn. diğer bir alt proje).\n"
-"Ayrıca, diğer alt projenin çevirilerini anında veya makine tarafından "
-"dilinize çevrilmesini sağlayabilirsiniz.\n"
+"भवान् सम्भवतः अन्यस्य लक्ष्यभाषायाः (अर्थात् अन्यस्य उपप्रकल्पस्य) अनुवादानाम् उपयोगं कर्तुम् "
+"इच्छति, यत् भवतः समीपे अस्ति ।\n"
+"अपि च, अन्यस्य उपप्रकल्पस्य अनुवादाः तत्क्षणमेव वा उपयोक्तुं शक्नुवन्ति, अथवा यन्त्रेण "
+"स्वभाषायां पूर्वानुवादं कर्तुं शक्नुवन्ति ।\n"
 "\n"
-"Ayrıntılar için belgelendirmeye bakın."
+"अधिकविवरणार्थं दस्तावेजीकरणं पश्यन्तु ।"
 
 #. i18n: ectx: property (text), widget (QLabel, l0)
 #: src/project/prefs_project_local.ui:21
 #, kde-format
 msgid "Role:"
-msgstr "Rol:"
+msgstr "भूमिका:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_Role)
 #: src/project/prefs_project_local.ui:29
 #, kde-format
 msgid "Translator"
-msgstr "Çevirmen"
+msgstr "अनुवादक"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_Role)
 #: src/project/prefs_project_local.ui:34
 #, kde-format
 msgid "Reviewer"
-msgstr "Gözden Geçiren"
+msgstr "समीक्षक"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, kcfg_Role)
 #: src/project/prefs_project_local.ui:39
 #, kde-format
 msgid "Approver"
-msgstr "Onaylayan"
+msgstr "अनुमोदकः"
 
 #. i18n: ectx: property (text), widget (QLabel, l2)
 #: src/project/prefs_projectmain.ui:17
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Glossary:"
-msgstr "Kavram dizini:"
+msgstr "शब्दावली : १."
 
 #. i18n: ectx: property (text), widget (QLabel, l0)
 #: src/project/prefs_projectmain.ui:30
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Target language:"
-msgstr "Hedef dil:"
+msgstr "लक्ष्यभाषा : १."
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, kcfg_ProjectID)
 #: src/project/prefs_projectmain.ui:46
@@ -3704,31 +3652,31 @@ msgid ""
 "For example, if you have several projects for translating KDE applications\n"
 "(e.g. they are in different repositories), use same ID for all of them."
 msgstr ""
-"Proje Kimliği farklı projeler ve diller için çeviri belleğini ayırmak için "
-"kullanılır.\n"
+"परियोजना ID इत्यस्य उपयोगः सर्वथा भिन्नानां परियोजनानां भाषाणां च अनुवादस्मृतीनां भेदं "
+"कर्तुं भवति ।\n"
 "\n"
-"Örneğin, eğer KDE uygulamalarını çevirmek için birkaç projeniz varsa\n"
-"(ve bu projeler farklı depolarda ise) bu projeler için aynı kimliği kullanın."
+"यथा, यदि भवतां समीपे KDE अनुप्रयोगानाम् अनुवादार्थं अनेकाः परियोजनाः सन्ति\n"
+"(उदा. ते भिन्न-भिन्न-भण्डारेषु सन्ति), तेषां सर्वेषां कृते समान-ID उपयुज्यताम् ।"
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, LangCode)
 #: src/project/prefs_projectmain.ui:59
 #, kde-format
 msgid "Target language of the project."
-msgstr "Projenin hedef dili."
+msgstr "परियोजनायाः लक्ष्यभाषा।"
 
 #. i18n: ectx: property (text), widget (QLabel, l4)
 #: src/project/prefs_projectmain.ui:82
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Mailing list:"
-msgstr "E-posta listesi:"
+msgstr "मेलसूची : १."
 
 #. i18n: ectx: property (text), widget (QLabel, l3)
 #: src/project/prefs_projectmain.ui:92
 #, kde-format
 msgctxt "@label:textbox"
 msgid "ID:"
-msgstr "Kimlik:"
+msgstr "आईडी : १."
 
 #. i18n: ectx: property (toolTip), widget (KUrlRequester, poBaseDir)
 #: src/project/prefs_projectmain.ui:118
@@ -3737,109 +3685,108 @@ msgid ""
 "This is main setting. Set this to path of a folder with translation files\n"
 "for your project (or a subproject for your target language)."
 msgstr ""
-"Burası genel ayarların yapıldığı yerdir. Bu yolu projenizin (ya da hedef "
-"diliniz için alt proje için)\n"
-"çeviri dosyalarının bulunduğu klasöre ayarlayın."
+"एतत् मुख्यसेटिंग् अस्ति । अनुवादसञ्चिकायुक्तस्य पुटस्य मार्गे एतत् सेट् कुर्वन्तु\n"
+"भवतः परियोजनायाः कृते (अथवा भवतः लक्ष्यभाषायाः कृते उपप्रकल्पस्य कृते)।"
 
 #. i18n: ectx: property (text), widget (QLabel, l1)
 #: src/project/prefs_projectmain.ui:141
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Root folder:"
-msgstr "Kök klasör:"
+msgstr "मूलपुटम् : १."
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LanguageSource)
 #: src/project/prefs_projectmain.ui:155
 #, kde-format
 msgid "Automatic"
-msgstr "Otomatik"
+msgstr "स्वतः"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LanguageSource)
 #: src/project/prefs_projectmain.ui:160
 #, kde-format
 msgid "Application"
-msgstr "Uygulama"
+msgstr "अनुप्रयोगः"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LanguageSource)
 #: src/project/prefs_projectmain.ui:165
 #, kde-format
 msgid "Project"
-msgstr "Proje"
+msgstr "प्रकल्प"
 
 #. i18n: ectx: property (text), widget (QLabel, l5)
 #: src/project/prefs_projectmain.ui:180
 #, kde-format
 msgid "Language-Team:"
-msgstr "Dil Takımı:"
+msgstr "भाषा-दलः : १."
 
 #: src/project/project.cpp:392
 #, kde-format
 msgid "Scanning folders with source files"
-msgstr "Kaynak dosyalarının bulunduğu klasörler taranıyor"
+msgstr "स्रोतसञ्चिकाभिः सह पुटं स्कैनिङ्गं करणम्"
 
 #: src/project/project.cpp:392
 #, kde-format
 msgid "Editor"
-msgstr "Düzenleyici"
+msgstr "सम्पादक"
 
 #: src/project/project.cpp:434
 #, kde-format
 msgctxt "project folder name. %2 is targetLangCode"
 msgid "%1 %2 Translation"
-msgstr "%1 %2 Çeviri"
+msgstr "%1 %2 अनुवादः"
 
 #: src/project/projectbase.kcfg:11
 #, kde-format
 msgid "default"
-msgstr "öntanımlı"
+msgstr "मूलभूतम्‌"
 
 #. i18n: ectx: label, entry (LangCode), group (General)
 #: src/project/projectbase.kcfg:18
 #, kde-format
 msgid "Language"
-msgstr "Dil"
+msgstr "भाषा"
 
 #. i18n: ectx: label, entry (UserLangTeam), group (General)
 #: src/project/projectbase.kcfg:32
 #, kde-format
 msgid "User Language Team in Lokalize settings"
-msgstr "Lokalize ayarlarındaki Kullanıcı Dil Takımı"
+msgstr "Lokalize सेटिंग्स् मध्ये उपयोक्तृभाषा दलम्"
 
 #. i18n: ectx: label, entry (OverrideLangTeam), group (General)
 #: src/project/projectbase.kcfg:38
 #, kde-format
 msgid "Override Lokalize Language Team"
-msgstr "Lokalize Dil Takımını Geçersiz Kıl"
+msgstr "Override Lokalize भाषा दलम्"
 
 #. i18n: ectx: label, entry (ProjLangTeam), group (General)
 #: src/project/projectbase.kcfg:44
 #, kde-format
 msgid "Project Language Team"
-msgstr "Proje Dil Takımı"
+msgstr "परियोजना भाषा दल"
 
 #. i18n: ectx: label, entry (PoBaseDir), group (General)
 #: src/project/projectbase.kcfg:59
 #, kde-format
 msgid "The base directory for PO files (translations)"
-msgstr "PO dosyalarının ana dizini (çeviriler)"
+msgstr "PO सञ्चिकानां (अनुवादानाम्) आधारनिर्देशिका"
 
 #. i18n: ectx: label, entry (PotBaseDir), group (General)
 #: src/project/projectbase.kcfg:65
 #, kde-format
 msgid "The base directory for POT files (templates to be translated)"
-msgstr "POT dosyalarının ana dizini (çevrilecek şablon dosyaları)"
+msgstr "POT सञ्चिकानां आधारनिर्देशिका (अनुवादितव्याः टेम्पलेट्)"
 
 #. i18n: ectx: label, entry (GlossaryTbx), group (General)
 #: src/project/projectbase.kcfg:74
 #, kde-format
 msgid "Project's glossary"
-msgstr "Projenin kavram dizini"
+msgstr "परियोजनायाः शब्दावली"
 
 #: src/project/projectmodel.cpp:503
 #, kde-format
 msgctxt "@title:column File name"
 msgid "Name"
-msgstr "Yazılım Adı"
+msgstr "नामः"
 
 #: src/project/projectmodel.cpp:505
 #, kde-format
@@ -3847,67 +3794,67 @@ msgctxt ""
 "@title:column Graphical representation of Translated/Fuzzy/Untranslated "
 "counts"
 msgid "Graph"
-msgstr "Grafik"
+msgstr "आलेखः"
 
 #: src/project/projectmodel.cpp:507
 #, kde-format
 msgctxt "@title:column Number of entries"
 msgid "Total"
-msgstr "Toplam"
+msgstr "कुल"
 
 #: src/project/projectmodel.cpp:509
 #, kde-format
 msgctxt "@title:column Number of entries"
 msgid "Translated"
-msgstr "Çevrildi"
+msgstr "अनुवादित"
 
 #: src/project/projectmodel.cpp:511
 #, kde-format
 msgctxt "@title:column Number of entries"
 msgid "Not ready"
-msgstr "Hazır Değil"
+msgstr "न सज्जः"
 
 #: src/project/projectmodel.cpp:513
 #, kde-format
 msgctxt "@title:column Number of entries"
 msgid "Untranslated"
-msgstr "Çevrilmedi"
+msgstr "अननुवादः"
 
 #: src/project/projectmodel.cpp:515
 #, kde-format
 msgctxt "@title:column Number of fuzzy or untranslated entries"
 msgid "Incomplete"
-msgstr "Tam Değil"
+msgstr "अपूर्णम्"
 
 #: src/project/projectmodel.cpp:517
 #, kde-format
 msgctxt "@title:column"
 msgid "Last Translation"
-msgstr "Son Çeviri"
+msgstr "अन्तिम अनुवाद"
 
 #: src/project/projectmodel.cpp:519
 #, kde-format
 msgctxt "@title:column"
 msgid "Comment"
-msgstr "Yorum"
+msgstr "टिप्पणी"
 
 #: src/project/projectmodel.cpp:521
 #, kde-format
 msgctxt "@title:column"
 msgid "Template Revision"
-msgstr "Şablon Sürümü"
+msgstr "टेम्पलेट संशोधन"
 
 #: src/project/projectmodel.cpp:523
 #, kde-format
 msgctxt "@title:column"
 msgid "Last Translator"
-msgstr "Son Çeviren"
+msgstr "अन्तिम अनुवादक"
 
 #: src/project/projecttab.cpp:51
 #, kde-format
 msgctxt "@title:window"
 msgid "Project Overview"
-msgstr "Proje Genel Görünümü"
+msgstr "परियोजना अवलोकन"
 
 #: src/project/projecttab.cpp:74
 #, kde-format
@@ -3915,295 +3862,294 @@ msgctxt ""
 "Loading bar percentage indicator %p will be replaced by the actual "
 "percentage number, so make sure you include it in your translation"
 msgid "%p%"
-msgstr "%​%p"
+msgstr "%प% ९."
 
 #: src/project/projecttab.cpp:128
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Previous template only"
-msgstr "Yalnızca Önceki Şablon"
+msgstr "केवलं पूर्वसारूप्यम्"
 
 #: src/project/projecttab.cpp:134
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Next template only"
-msgstr "Yalnızca Sonraki Şablon"
+msgstr "अग्रिमः टेम्पलेटः एव"
 
 #: src/project/projecttab.cpp:139
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Previous translation only"
-msgstr "Yalnızca Önceki Çeviri"
+msgstr "पूर्वानुवादमात्रम्"
 
 #: src/project/projecttab.cpp:142
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Next translation only"
-msgstr "Yalnızca Sonraki Çeviri"
+msgstr "अग्रिमः अनुवादः एव"
 
 #: src/project/projecttab.cpp:146
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Hide completed items"
-msgstr "Tamamlanan Ögeleri Gizle"
+msgstr "सम्पूर्णानि वस्तूनि गोपयन्तु"
 
 #: src/project/projecttab.cpp:147
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Hide fully translated files and folders"
-msgstr "Tümüyle çevrili dosyaları ve klasörleri gizle"
+msgstr "पूर्णतया अनुवादिताः सञ्चिकाः, पुटं च गोपयन्तु"
 
 #: src/project/projecttab.cpp:199
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open selected files"
-msgstr "Seçili Dosyaları Aç"
+msgstr "चयनितसञ्चिकाः उद्घाटयन्तु"
 
 #: src/project/projecttab.cpp:202
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open"
-msgstr "Aç"
+msgstr "उद्घाटित"
 
 #: src/project/projecttab.cpp:205
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Add to translation memory"
-msgstr "Çeviri Belleğine Ekle"
+msgstr "अनुवादस्मृतौ योजयतु"
 
 #: src/project/projecttab.cpp:207
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Search in files"
-msgstr "Dosyalarda Ara"
+msgstr "सञ्चिकासु अन्वेषणं कुर्वन्तु"
 
 #: src/project/projecttab.cpp:208
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Add a comment"
-msgstr "Yorum Ekle"
+msgstr "टिप्पणीं योजयन्तु"
 
 #: src/project/projecttab.cpp:210
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Launch Pology on files"
-msgstr "Dosyalarda Pology’yi Başlat"
+msgstr "सञ्चिकासु Pology प्रारम्भं कुर्वन्तु"
 
 #: src/project/projecttab.cpp:213
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Search in files (including templates)"
-msgstr "Dosyalarda Ara (Şablonları da İçer)"
+msgstr "सञ्चिकासु (टेम्पलेट् सहितम्) अन्वेषणं कुर्वन्तु ।"
 
 #: src/project/projecttab.cpp:240
 #, kde-format
 msgid "Project file comment"
-msgstr "Proje dosyası yorumu"
+msgstr "परियोजना सञ्चिका टिप्पणी"
 
 #: src/project/projecttab.cpp:240
 #, kde-format
 msgid "Input a comment for this project file:"
-msgstr "Bu proje dosyası için bir yorum girin:"
+msgstr "अस्याः परियोजनासञ्चिकायाः कृते टिप्पणीं निवेशयन्तु:"
 
 #: src/project/projecttab.cpp:316
 #, kde-format
 msgid "The Pology check has succeeded"
-msgstr "Pology denetimi başarılı oldu"
+msgstr "Pology check सफला अभवत्"
 
 #: src/project/projecttab.cpp:335
 #, kde-format
 msgid "You are about to open %1 file"
 msgid_plural "You are about to open %1 files"
-msgstr[0] "%1 dosyayı açmak üzeresiniz"
-msgstr[1] "%1 dosyayı açmak üzeresiniz"
+msgstr[0] "भवान् %1 सञ्चिकां उद्घाटयितुं प्रवृत्तः अस्ति"
+msgstr[1] "भवान् %1 सञ्चिकाः उद्घाटयितुं प्रवृत्तः अस्ति"
 
 #: src/project/projecttab.cpp:336
 #, kde-format
 msgid ""
 "Opening a large number of files at the same time can make Lokalize "
 "unresponsive."
-msgstr ""
-"Çok sayıda dosyayı aynı anda açmak Lokalize’yi tepkisiz hale getirebilir."
+msgstr "एकस्मिन् समये बहूनां सञ्चिकानां उद्घाटनेन Lokalize अप्रतिसादः भवितुम् अर्हति ।"
 
 #: src/project/projecttab.cpp:337
 #, kde-format
 msgid "Are you sure you want to open this many files?"
-msgstr "Bu kadar çok dosyayı açmak istediğinizden emin misiniz?"
+msgstr "किं भवन्तः निश्चयेन एतावता सञ्चिकाः उद्घाटयितुम् इच्छन्ति?"
 
 #: src/project/projecttab.cpp:338
 #, kde-format
 msgid "&Open %1 File"
 msgid_plural "&Open %1 Files"
-msgstr[0] "%1 Dosyayı &Aç"
-msgstr[1] "%1 Dosyayı &Aç"
+msgstr[0] "&%1 सञ्चिकां उद्घाटयन्तु"
+msgstr[1] "&%1 सञ्चिकाः उद्घाटयन्तु"
 
 #: src/tm/dbfilesmodel.cpp:96
 #, kde-format
 msgctxt "@title:column"
 msgid "Name"
-msgstr "Ad"
+msgstr "नामः"
 
 #: src/tm/dbfilesmodel.cpp:97
 #, kde-format
 msgctxt "@title:column"
 msgid "Source language"
-msgstr "Kaynak Dil"
+msgstr "स्रोत भाषा"
 
 #: src/tm/dbfilesmodel.cpp:98
 #, kde-format
 msgctxt "@title:column"
 msgid "Target language"
-msgstr "Hedef Dil"
+msgstr "लक्ष्यभाषा"
 
 #: src/tm/dbfilesmodel.cpp:99
 #, kde-format
 msgctxt "@title:column"
 msgid "Pairs"
-msgstr "Çiftler"
+msgstr "युग्मानि"
 
 #: src/tm/dbfilesmodel.cpp:100
 #, kde-format
 msgctxt "@title:column"
 msgid "Unique original entries"
-msgstr "Benzersiz Özgün Girdiler"
+msgstr "अद्वितीय मूल प्रविष्टियाँ"
 
 #: src/tm/dbfilesmodel.cpp:101
 #, kde-format
 msgctxt "@title:column"
 msgid "Unique translations"
-msgstr "Benzersiz Çeviriler"
+msgstr "अद्वितीय अनुवाद"
 
 #. i18n: ectx: property (title), widget (QGroupBox, connectionBox)
 #: src/tm/dbparams.ui:23
 #, kde-format
 msgid "Connection"
-msgstr "Bağlantı"
+msgstr "संबन्धः"
 
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #: src/tm/dbparams.ui:32
 #, kde-format
 msgid "Database name:"
-msgstr "Veritabanı adı:"
+msgstr "दत्तांशकोशस्य नाम : १."
 
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: src/tm/dbparams.ui:45
 #, kde-format
 msgid "Host:"
-msgstr "Makina:"
+msgstr "निमन्त्रकः:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
 #: src/tm/dbparams.ui:62
 #, kde-format
 msgid "User:"
-msgstr "Kullanıcı:"
+msgstr "उपयोक्ता : १."
 
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #: src/tm/dbparams.ui:75
 #, kde-format
 msgid "Password:"
-msgstr "Parola:"
+msgstr "समाभाष्:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, dbType)
 #: src/tm/dbparams.ui:96
 #, kde-format
 msgid "Local"
-msgstr "Yerel"
+msgstr "स्थानिक"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/tm/dbparams.ui:104
 #, kde-format
 msgid "Name:"
-msgstr "Ad:"
+msgstr "नामः:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: src/tm/dbparams.ui:114
 #, kde-format
 msgid "Database type:"
-msgstr "Veritabanı türü:"
+msgstr "दत्तांशकोशप्रकारः : १."
 
 #. i18n: ectx: property (title), widget (QGroupBox, contentBox)
 #: src/tm/dbparams.ui:124
 #, kde-format
 msgid "Content"
-msgstr "İçerik"
+msgstr "विषयः"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: src/tm/dbparams.ui:133
 #, kde-format
 msgid "Source language:"
-msgstr "Kaynak dil:"
+msgstr "स्रोतभाषा : १."
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: src/tm/dbparams.ui:162
 #, kde-format
 msgid "Markup regex:"
-msgstr "Düzenli ifade:"
+msgstr "मार्कअप regex:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: src/tm/dbparams.ui:175
 #, kde-format
 msgid "Accelerator:"
-msgstr "Hızlandırıcı:"
+msgstr "त्वरक : १."
 
 #. i18n: ectx: property (text), widget (QPushButton, create)
 #: src/tm/managedatabases.ui:19
 #, kde-format
 msgid "Create"
-msgstr "Oluştur"
+msgstr "निर्मियताम्"
 
 #. i18n: ectx: property (text), widget (QPushButton, addData)
 #: src/tm/managedatabases.ui:26
 #, kde-format
 msgid "Add Data"
-msgstr "Veri Ekle"
+msgstr "Data योजयतु"
 
 #. i18n: ectx: property (text), widget (QPushButton, importTMX)
 #: src/tm/managedatabases.ui:33
 #, kde-format
 msgid "Add Data from TMX"
-msgstr "TMX’ten Veri Ekle"
+msgstr "TMX तः Data योजयन्तु"
 
 #. i18n: ectx: property (text), widget (QPushButton, exportTMX)
 #: src/tm/managedatabases.ui:40
 #, kde-format
 msgid "Export to TMX"
-msgstr "Verileri TMX’e Aktar"
+msgstr "TMX - मध्ये निर्यातं कुर्वन्तु"
 
 #. i18n: ectx: property (text), widget (QPushButton, remove)
 #: src/tm/managedatabases.ui:47
 #, kde-format
 msgid "Remove"
-msgstr "Kaldır"
+msgstr "अपाकरोति"
 
 #: src/tm/qamodel.cpp:95
 #, kde-format
 msgctxt "@title:column Translator's false friend"
 msgid "False Friend"
-msgstr "Yanlış Arkadaş"
+msgstr "मिथ्या मित्रम्"
 
 #: src/tm/qaview.cpp:20
 #, kde-format
 msgctxt "@title:window"
 msgid "Quality Assurance"
-msgstr "Kalite Güvencesi"
+msgstr "गुणवत्ता आश्वासन"
 
 #: src/tm/qaview.cpp:34
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Add"
-msgstr "Ekle"
+msgstr "संयोजयति"
 
 #: src/tm/qaview.cpp:38
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Remove"
-msgstr "Kaldır"
+msgstr "अपाकरोति"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/tm/queryoptions.ui:32
 #, kde-format
 msgid "TM:"
-msgstr "Çeviri belleği:"
+msgstr "टी.एम."
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, querySource)
 #: src/tm/queryoptions.ui:70
@@ -4213,36 +4159,34 @@ msgid ""
 "Press Enter to start the search.\n"
 "Press Ctrl+L to go to this control."
 msgstr ""
-"Kaynak dil bölümü için arama ifadesi.\n"
-"Aramayı başlatmak için Giriş düğmesine basın.\n"
-"Bu denetime gitmek için Kontrol+L düğmelerine basın."
+"स्रोतभाषा भागस्य कृते अभिव्यक्तिं अन्वेष्टुम्।\n"
+"अन्वेषणं आरभ्य Enter नुदन्तु ।\n"
+"अस्मिन् नियन्त्रणे गन्तुं Ctrl+L नुदन्तु ।"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, invertTarget)
 #. i18n: ectx: property (toolTip), widget (QCheckBox, invertSource)
 #: src/tm/queryoptions.ui:105 src/tm/queryoptions.ui:115
 #, kde-format
 msgid "Show results that do not match search expression"
-msgstr "Arama ifadesi ile eşleşmeyen sonuçları göster"
+msgstr "अन्वेषणव्यञ्जनस्य सङ्गतिं न कुर्वन्तः परिणामाः दर्शयन्तु"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: src/tm/queryoptions.ui:139
 #, kde-format
 msgid "File mask:"
-msgstr "Dosya maskesi:"
+msgstr "सञ्चिकामास्कः : १."
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, filemask)
 #: src/tm/queryoptions.ui:155
 #, kde-format
 msgid "Show only results from files with path matching specified mask"
-msgstr ""
-"Yalnızca belirtilen maskeye uygun adresteki dosyalardan eşleşen sonuçları "
-"göster"
+msgstr "केवलं मार्गमेलननिर्दिष्टमास्कयुक्तसञ्चिकाभ्यः परिणामान् दर्शयतु"
 
 #. i18n: ectx: property (text), widget (QLabel, label_s)
 #: src/tm/queryoptions.ui:162
 #, kde-format
 msgid "Query syntax:"
-msgstr "Sorgu sözdizimi:"
+msgstr "प्रश्नवाक्यविन्यासः : १."
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, doUpdateTM)
 #: src/tm/queryoptions.ui:197
@@ -4251,151 +4195,151 @@ msgid ""
 "Reads all project files into translation memory, updating old entries. The "
 "scanning will work in background."
 msgstr ""
-"Tüm dosyaları çeviri belleğine ekler ve eskileri günceller. Tarama arka "
-"planda çalışacaktır."
+"सर्वाणि परियोजनासञ्चिकाः अनुवादस्मृतौ पठति, पुरातनप्रविष्टयः अद्यतनं करोति । स्कैनिङ्ग "
+"पृष्ठभूमितः कार्यं करिष्यति।"
 
 #. i18n: ectx: property (text), widget (QPushButton, doUpdateTM)
 #: src/tm/queryoptions.ui:200
 #, kde-format
 msgid "&Rescan project files"
-msgstr "&Proje Dosyalarını Yeniden Tara"
+msgstr "&प्रकल्पसञ्चिकाः पुनः स्कैन् कुर्वन्तु"
 
 #: src/tm/tmmanager.cpp:35
 #, kde-format
 msgctxt "@title:window"
 msgid "Translation Memories"
-msgstr "Çeviri Bellekleri"
+msgstr "अनुवाद स्मृति"
 
 #: src/tm/tmmanager.cpp:68
 #, kde-format
 msgctxt "@title:window"
 msgid "Select Directory to be scanned"
-msgstr "Taranacak Dizini Seç"
+msgstr "स्कैन् कर्तुं निर्देशिकां चिनोतु"
 
 #: src/tm/tmmanager.cpp:77
 #, kde-format
 msgctxt "@title:window"
 msgid "New Translation Memory"
-msgstr "Yeni Çeviri Belleği"
+msgstr "नवीन अनुवाद स्मृति"
 
 #: src/tm/tmmanager.cpp:77
 #, kde-format
 msgctxt "@title:window"
 msgid "Translation Memory Properties"
-msgstr "Çeviri Belleği Özellikleri"
+msgstr "अनुवाद स्मृति गुण"
 
 #: src/tm/tmmanager.cpp:212
 #, kde-format
 msgctxt "@title:window"
 msgid "Select TMX file to be imported into selected database"
-msgstr "TMX Dosyası İçe Aktar"
+msgstr "चयनितदत्तांशकोशे आयातयितुं TMX सञ्चिकां चिनोतु"
 
 #: src/tm/tmmanager.cpp:214 src/tm/tmmanager.cpp:235
 #, kde-format
 msgid "TMX files (*.tmx *.xml)"
-msgstr "TMX dosyaları (*.tmx *.xml)"
+msgstr "TMX सञ्चिकाः (*.tmx *.xml) ."
 
 #: src/tm/tmmanager.cpp:233
 #, kde-format
 msgctxt "@title:window"
 msgid "Select TMX file to export selected database to"
-msgstr "TMX Dosyasına Dışa Aktar"
+msgstr "चयनितं दत्तांशकोशं निर्यातयितुं TMX सञ्चिकां चिनोतु"
 
 #: src/tm/tmscanapi.cpp:80
 #, kde-format
 msgid "Adding files to Lokalize translation memory"
-msgstr "Dosyalar Lokalize çeviri belleğine ekleniyor"
+msgstr "अनुवादस्मृतौ Lokalize इत्यत्र सञ्चिकाः योजयित्वा"
 
 #: src/tm/tmscanapi.cpp:80
 #, kde-format
 msgid "TM"
-msgstr "TM"
+msgstr "टी.एम"
 
 #: src/tm/tmtab.cpp:71
 #, kde-format
 msgctxt "@title:column Original text"
 msgid "Source: %1"
-msgstr "Kaynak: %1"
+msgstr "स्रोतः : %1"
 
 #: src/tm/tmtab.cpp:76
 #, kde-format
 msgctxt "@title:column Text in target language"
 msgid "Target: %1"
-msgstr "Hedef: %1"
+msgstr "लक्ष्यम् : %1"
 
 #: src/tm/tmtab.cpp:357
 #, kde-format
 msgid "Substring"
-msgstr "Alt ifade"
+msgstr "उपतारः"
 
 #: src/tm/tmtab.cpp:357
 #, kde-format
 msgid "Google-like"
-msgstr "Google benzeri"
+msgstr "गूगल-सदृशम्"
 
 #: src/tm/tmtab.cpp:357
 #, kde-format
 msgid "Wildcard"
-msgstr "Joker"
+msgstr "वाइल्डकार्ड"
 
 #: src/tm/tmtab.cpp:364
 #, kde-format
 msgid "Space is AND operator. Case insensitive."
-msgstr "Boşluk VE işlecidir. Büyük küçük harf duyarsız."
+msgstr "अन्तरिक्षं AND संचालकः अस्ति। प्रकरणं असंवेदनशीलम्।"
 
 #: src/tm/tmtab.cpp:365
 #, kde-format
 msgid "Shell globs (* and ?). Case sensitive."
-msgstr "Kabuk işaretleri (* ve ?). BÜYÜK/küçük harf duyarlı."
+msgstr "शंखग्लोब्स् (* तथा ?)। प्रकरणसंवेदनशीलम्।"
 
 #: src/tm/tmtab.cpp:376 src/tm/tmview.cpp:186 src/tm/tmview.cpp:191
 #, kde-format
 msgctxt "@title:window"
 msgid "Translation Memory"
-msgstr "Çeviri Belleği"
+msgstr "अनुवाद स्मृति"
 
 #: src/tm/tmtab.cpp:585
 #, kde-format
 msgctxt "@info:status message entries"
 msgid "Total: %1 (%2)"
-msgstr "Toplam: %1 (%2)"
+msgstr "कुलम् : %1 (%2) ."
 
 #: src/tm/tmtab.cpp:615 src/tm/tmview.cpp:627
 #, kde-format
 msgctxt "@info"
 msgid ""
 "The file %1 does not exist, it has been removed from the translation memory."
-msgstr "%1 dosyası mevcut değil, çeviri belleğinden kaldırıldı."
+msgstr "%1 सञ्चिका नास्ति, अनुवादस्मृत्याः निष्कासिता अस्ति ।"
 
 #: src/tm/tmview.cpp:226
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Double-click any word to insert it into translation"
-msgstr "Çeviriye eklemek için herhangi bir sözcüğe çift tıklayın"
+msgstr "अनुवादे सम्मिलितुं कस्यापि शब्दस्य द्विवारं क्लिक् कुर्वन्तु"
 
 #: src/tm/tmview.cpp:333
 #, kde-format
 msgctxt "@item Undo action"
 msgid "Batch translation memory filling"
-msgstr "Toplu Çeviri Belleği Doldurması"
+msgstr "बैच अनुवाद स्मृति भरना"
 
 #: src/tm/tmview.cpp:336
 #, kde-format
 msgctxt "@info"
 msgid "Batch translation has been completed."
-msgstr "Toplu çeviri tamamlandı."
+msgstr "बैच अनुवादः सम्पन्नः अस्ति।"
 
 #: src/tm/tmview.cpp:342
 #, kde-format
 msgctxt "@info"
 msgid "No suggestions with exact matches were found."
-msgstr "Önerilerde hiç tam eşleşme bulunamadı."
+msgstr "सटीकमेलनसहिताः कोऽपि सुझावः न प्राप्तः ।"
 
 #: src/tm/tmview.cpp:362 src/tm/tmview.cpp:377
 #, kde-format
 msgctxt "@info"
 msgid "Batch translation has been scheduled."
-msgstr "Toplu çeviri zamanlandı."
+msgstr "बैच अनुवादः निर्धारितः अस्ति।"
 
 #: src/tm/tmview.cpp:502
 #, kde-format
@@ -4403,7 +4347,7 @@ msgctxt ""
 "A perfect match between a Translation Memory source string and the source "
 "string being translated."
 msgid "100% (perfect match)"
-msgstr "%​100 (Mükemmel eşleşme)"
+msgstr "१००% (सम्पूर्ण मेल) २."
 
 #: src/tm/tmview.cpp:507
 #, kde-format
@@ -4411,7 +4355,7 @@ msgctxt ""
 "The similarity between a Translation Memory source string and the source "
 "string being translated, %1 is 0 to 99 (percent)."
 msgid "%1%"
-msgstr "%​%1"
+msgstr "%1% २."
 
 #: src/tm/tmview.cpp:513
 #, kde-format
@@ -4420,8 +4364,8 @@ msgctxt ""
 "the number."
 msgid "Occurred %1 time"
 msgid_plural "Occurred %1 times"
-msgstr[0] "%1 kez görüldü"
-msgstr[1] "%1 kez görüldü"
+msgstr[0] "%1 समयः अभवत्"
+msgstr[1] "%1 वारं अभवत्"
 
 #: src/tm/tmview.cpp:523
 #, kde-format
@@ -4443,37 +4387,37 @@ msgstr "%1 • %2"
 #, kde-format
 msgctxt "File argument in tooltip, when file is current file"
 msgid "this"
-msgstr "bu dosya"
+msgstr "अयम्‌"
 
 #: src/tm/tmview.cpp:584
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "File: %1<br />Addition date: %2"
-msgstr "Dosya: %1<br />Eklenme tarihi: %2"
+msgstr "सञ्चिका: %1<br /> अतिरिक्ततिथिः %2"
 
 #: src/tm/tmview.cpp:586
 #, kde-format
 msgctxt "@info:tooltip on TM entry continues"
 msgid "<br />Last change date: %1"
-msgstr "<br />Son değiştirilme tarihi: %1"
+msgstr "<br />अन्तिमपरिवर्तनतिथिः: %1"
 
 #: src/tm/tmview.cpp:588
 #, kde-format
 msgctxt "@info:tooltip on TM entry continues"
 msgid "<br />Last change author: %1"
-msgstr "<br />Son değişikliği yapan: %1"
+msgstr "<br />अन्तिमपरिवर्तन लेखकः %1"
 
 #: src/tm/tmview.cpp:589
 #, kde-format
 msgctxt "@info:tooltip on TM entry continues"
 msgid "<br />TM: %1"
-msgstr "<br />Çeviri belleği: %1"
+msgstr "<br />टी.एम.: %1"
 
 #: src/tm/tmview.cpp:591
 #, kde-format
 msgctxt "@info:tooltip on TM entry continues"
 msgid "<br />Is not present in the file anymore"
-msgstr "<br />Artık dosyada yok"
+msgstr "<br />इतः परं सञ्चिकायां नास्ति"
 
 #: src/tm/tmview.cpp:606
 #, kde-format
@@ -4481,32 +4425,32 @@ msgid ""
 "<html>Do you really want to remove this entry:<br/><i>%1</i><br/>from "
 "translation memory %2?</html>"
 msgstr ""
-"<html>Bu girdiyi <br/><i>%1</i><br/> gerçekten %2 çeviri belleğinden silmek "
-"istiyor musunuz?</html>"
+"<html>किं भवान् वास्तवमेव एतत् प्रविष्टिम् अपसारयितुम् इच्छति:<br/> <i>%1</i><br/> "
+"अनुवादस्मृत्याः %2?</html>"
 
 #: src/tm/tmview.cpp:609
 #, kde-format
 msgctxt "@title:window"
 msgid "Translation Memory Entry Removal"
-msgstr "Çeviri Belleği Girdisini Kaldır"
+msgstr "अनुवाद स्मृति प्रविष्टि निष्कासन"
 
 #: src/tm/tmview.cpp:654
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Remove this entry"
-msgstr "Bu Girdiyi Kaldır"
+msgstr "एतत् प्रविष्टिम् अपसारयन्तु"
 
 #: src/tm/tmview.cpp:657
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open file containing this entry"
-msgstr "Bu Girdiyi İçeren Dosyayı Aç"
+msgstr "एतत् प्रविष्टियुक्तां सञ्चिकां उद्घाटयन्तु"
 
 #: src/tm/tmview.cpp:667
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Remove this missing file from TM"
-msgstr "Bu Eksik Dosyayı Çeviri Belleğinden Kaldır"
+msgstr "TM तः एतां लुप्तसञ्चिकां निष्कासयन्तु"
 
 #: src/tm/tmview.cpp:681
 #, kde-format
@@ -4514,26 +4458,26 @@ msgid ""
 "<html>Do you really want to remove this missing file:<br/><i>%1</i><br/>from "
 "translation memory %2?</html>"
 msgstr ""
-"<html>Aşağıdaki eksik dosyayı gerçekten %2 çeviri belleğinden kaldırmak "
-"istiyor musunuz:<br/><i>%1</i></html>"
+"<html>किं भवान् वास्तवमेव एतां लुप्तसञ्चिकां दूरीकर्तुं इच्छति:<br/> <i>%1</i><br/> "
+"अनुवादस्मृत्याः %2?</html>"
 
 #: src/tm/tmview.cpp:685
 #, kde-format
 msgctxt "@title:window"
 msgid "Translation Memory Missing File Removal"
-msgstr "Çeviri Belleğinden Eksik Dosyayı Kaldır"
+msgstr "अनुवाद स्मृति अनुपलब्ध सञ्चिका निष्कासन"
 
 #: src/tm/tmview.cpp:984
 #, kde-format
 msgctxt "@item Undo action"
 msgid "Use translation memory suggestion"
-msgstr "Çeviri Belleği Önerisini Kullan"
+msgstr "अनुवादस्मृतिसूचनस्य उपयोगं कुर्वन्तु"
 
 #: src/tools/widgettextcaptureconfig.cpp:23
 #, kde-format
 msgctxt "@title"
 msgid "Widget Text Capture"
-msgstr "Araç Takımından Metin Yakala"
+msgstr "विजेट् पाठग्रहणम्"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: src/tools/widgettextcaptureconfig.ui:26
@@ -4552,123 +4496,63 @@ msgid ""
 "translation memory with all translation files indexed for this feature to "
 "work.</p></html>"
 msgstr ""
-"<html>\n"
-"<p align=\"justify\">KDE çevirilerini kolaylaştırmak üzere Lokalize, "
-"uygulamaların kullanıcı arayüzünden metni alabilir ve bu metni içeren çeviri "
-"dosyalarında arayabilir.</p>\n"
-"<p align=\"justify\">Etkinleştirildiğinde, herhangi bir düzenlenemez "
-"kullanıcı arayüzü ögesi üzerinde (araç takımı) farenin orta düğmesi ile "
-"tıklanıldığında yakalama işlemi başlatılır. Ardından, Lokalize penceresine "
-"geçiş yapın ve bu metni içeren girişi seçin. Eğer birden fazla dosya aynı "
-"metni içeriyorsa çoğu durumda doğru olan seçilecektir.</p>\n"
-"<p align=\"justify\">Unutmayın: Bu özellik için tüm çeviri dosyaları "
-"dizinlenmiş güncel bir çeviri belleğine sahip olmanız gerekir.</p></html>"
+"<html><p align=\"justify\">KDE अनुवादस्य सुविधायै Lokalize अनुप्रयोगानाम् उपयोक्तृ-"
+"अन्तरफलकात् पाठं गृहीतुं शक्नोति तथा च पाठं युक्तानि अनुवादसञ्चिकाः अन्वेष्टुं शक्नोति ।</p><p "
+"align=\"justify\"> यदा सक्षमं भवति तदा मध्यमूषकस्य कस्यापि असम्पादनीयस्य GUI-तत्त्वस्य "
+"(widget) क्लिक् कृत्वा ग्रहणं आरभ्यतुं शक्यते । तदनन्तरं Lokalize विण्डो मध्ये गत्वा एतेन पाठेन "
+"सह प्रविष्टिं चिनोतु । यदि अनेकसञ्चिकासु समानं स्ट्रिंग् भवति चेदपि अधिकतया सम्यक् सञ्चिका "
+"चिनोति ।</p><p align=\"justify\"> स्मर्यतां यत् एतत् विशेषता कार्यं कर्तुं भवतः कृते "
+"अद्यतनं वास्तविकं अनुवादस्मृतिः आवश्यकी अस्ति यत्र सर्वाणि अनुवादसञ्चिकाः अनुक्रमितानि सन्ति "
+"।</p></html>"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: src/tools/widgettextcaptureconfig.ui:42
 #, kde-format
 msgid "Middle Mouse Button Click Reaction"
-msgstr "Fare Orta Düğme Tıklaması Eylemi"
+msgstr "Middle Mouse Button Reaction इत्यत्र क्लिक् कुर्वन्तु"
 
 #. i18n: ectx: property (text), widget (QRadioButton, none)
 #: src/tools/widgettextcaptureconfig.ui:48
 #, kde-format
 msgid "None"
-msgstr "Hiçbiri"
+msgstr "न कश्चित्"
 
 #. i18n: ectx: property (text), widget (QRadioButton, search)
 #: src/tools/widgettextcaptureconfig.ui:58
 #, kde-format
 msgid "Search GUI element text in translation memory"
-msgstr "Arayüz Ögesi Metnini Çeviri Belleğinde Ara"
+msgstr "अनुवादस्मृतौ GUI तत्वपाठं अन्वेष्टुम्"
 
 #. i18n: ectx: property (text), widget (QRadioButton, clipboard)
 #: src/tools/widgettextcaptureconfig.ui:65
 #, kde-format
 msgid "Copy GUI element text to clipboard"
-msgstr "Arayüz ögesinin metnini panoya kopyala"
+msgstr "GUI तत्वपाठं क्लिप्बोर्ड् प्रति प्रतिलिख्यताम्"
 
 #: src/xlifftextedit.cpp:959
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Lookup selected text in translation memory"
-msgstr "Seçili Metni Çeviri Belleğinde Ara"
+msgstr "अनुवादस्मृतौ चयनितं पाठं पश्यन्तु"
 
 #: src/xlifftextedit.cpp:981 src/xlifftextedit.cpp:1062
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Replace text"
-msgstr "Metni Değiştir"
+msgstr "पाठं प्रतिस्थापयतु"
 
 #: src/xlifftextedit.cpp:1102
 #, kde-format
 msgid "no spellcheck available"
-msgstr "kullanılabilir yazım denetimi yok"
+msgstr "वर्तनीपरीक्षा उपलब्धा नास्ति"
 
 #: src/xlifftextedit.cpp:1118
 #, kde-format
 msgid "An error was reported: %1"
-msgstr "Bir hata bildirildi: %1"
+msgstr "एकः त्रुटिः निवेदिता: %1"
 
 #: src/xlifftextedit.cpp:1284
 #, kde-format
 msgctxt "@item Undo action item"
 msgid "Copy source to target"
-msgstr "Kaynağı Hedefe Kopyala"
-
-#~ msgid "bug fixing and improvments"
-#~ msgstr "Hata düzeltmeleri ve iyileştirmeler"
-
-#~ msgctxt "%1 is the number of times this TM entry has been found"
-#~ msgid "(1 time)"
-#~ msgid_plural "(%1 times)"
-#~ msgstr[0] "(1 kez)"
-#~ msgstr[1] "(%1 kez)"
-
-#~ msgid "Text colors for the changes in the message."
-#~ msgstr "İleti içerisinde yapılan değişiklikler için metin rengi."
-
-#~ msgid "String Matching"
-#~ msgstr "Dizi Eşleşmesi"
-
-#~ msgctxt "@label:chooser"
-#~ msgid "Text added in the newer string:"
-#~ msgstr "Yeni iletiye eklenen metin:"
-
-#~ msgid "Change the color for the new text added"
-#~ msgstr "Yeni eklenen metin için rengi değiştir"
-
-#~ msgid ""
-#~ "You can set another color for viewing the text that was added to the "
-#~ "string."
-#~ msgstr ""
-#~ "İletiye eklenen metni göstermek için kullanılacak renk için başka bir "
-#~ "renk ayarlayabilirsiniz."
-
-#~ msgctxt "@label:chooser"
-#~ msgid "Text removed in the newer string:"
-#~ msgstr "Yeni iletide silinen metin:"
-
-#~ msgid "Change the color for the text removed"
-#~ msgstr "Silinen metin için rengi değiştir"
-
-#~ msgid ""
-#~ "You can set another color for viewing the text that was removed from the "
-#~ "string."
-#~ msgstr ""
-#~ "İletiden çıkarılan metni göstermek için kullanılacak renk için başka bir "
-#~ "renk ayarlayabilirsiniz."
-
-#~ msgid "Locally"
-#~ msgstr "Yerel Olarak"
-
-#~ msgid "lxr.kde.org"
-#~ msgstr "lxr.kde.org Kullan"
-
-#~ msgctxt "@action"
-#~ msgid "New"
-#~ msgstr "Yeni"
-
-#~ msgctxt "@action"
-#~ msgid "Open"
-#~ msgstr "Aç"
+msgstr "स्रोतः लक्ष्यं प्रति प्रतिलिख्यताम्"
